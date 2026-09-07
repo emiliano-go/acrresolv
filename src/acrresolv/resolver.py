@@ -101,17 +101,21 @@ class HybridResolver:
         rules_engine = self._get_rules_engine()
         acronym, confidence, rule_name = rules_engine.expand(text, remove_stopwords)
         
-        if acronym and confidence >= RULE_CONFIDENCE_THRESHOLD:
-            return ResolveResult(acronym, 'rules', confidence)
-        
-        # Layer 3: Use ML model (accurate, learned)
-        if self.use_ml:
+        # Layer 3: Use ML model (accurate, learned) when rules isn't perfect
+        if self.use_ml and confidence < 1.0:
             try:
                 ml_result = self._ml_resolve(text)
-                if ml_result:
+                if ml_result and self._is_valid_acronym(ml_result):
+                    # ML + rules voting: if ML disagrees with rules, prefer rules
+                    # only when rules confidence is high (>= 0.8)
+                    if acronym and confidence >= 0.8 and ml_result.upper() != acronym.upper():
+                        return ResolveResult(acronym, 'rules', confidence)
                     return ResolveResult(ml_result, 'ml', 0.9)
             except Exception:
                 pass
+        
+        if acronym and confidence >= RULE_CONFIDENCE_THRESHOLD:
+            return ResolveResult(acronym, 'rules', confidence)
         
         # Fallback to rules even if confidence is low
         if acronym:
@@ -139,6 +143,30 @@ class HybridResolver:
             pass
         
         return None
+    
+    def _is_valid_acronym(self, text: str) -> bool:
+        """Check if ML output looks like a valid acronym.
+        
+        Valid acronyms: no spaces, all alpha (or alphanumeric), 1-6 chars.
+        Examples: "CPU", "DNS", "DHCP" are valid.
+        "DNS Server", "LOG", "JOINT" are not valid.
+        """
+        if not text:
+            return False
+        text = text.strip()
+        # No spaces allowed
+        if ' ' in text:
+            return False
+        # Must be 1-6 characters
+        if len(text) > 6:
+            return False
+        # Must be all letters or letters+digits (like "R2")
+        if not text.isalnum():
+            return False
+        # Must contain at least one letter
+        if not any(c.isalpha() for c in text):
+            return False
+        return True
 
 
 # ============================================================================

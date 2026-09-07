@@ -111,14 +111,18 @@ class TestIsRuleConfident:
     def test_confident_result(self):
         assert is_rule_confident("central processing unit", "CPU", 0.9) == True
 
-    def test_not_confident_short(self):
-        assert is_rule_confident("test", "T", 0.9) == False
+    def test_single_word_confident(self):
+        # Single-word phrases with single-letter acronyms are now confident
+        assert is_rule_confident("test", "T", 0.9) == True
+        assert is_rule_confident("test", "T", 0.5) == True
+        assert is_rule_confident("test", "T", 0.4) == False
 
     def test_not_confident_long(self):
         # AVLP is 4 chars which is within 2-6 range, so it IS confident
         assert is_rule_confident("a very long phrase", "AVLP", 0.9) == True
-        # But a very short acronym should not be confident
+        # But a very short acronym for multi-word should not be confident
         assert is_rule_confident("hello world", "H", 0.9) == False
 
     def test_not_confident_low_score(self):
-        assert is_rule_confident("test", "T", 0.5) == False
+        # Multi-word phrases need high confidence when acronym doesn't match first letters
+        assert is_rule_confident("hello world", "XY", 0.5) == False

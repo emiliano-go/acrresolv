@@ -316,7 +316,10 @@ class RulesEngine:
         # Fallback: first letter of each word
         initials = get_initials(words, remove_stopwords)
         if initials:
-            return ''.join(initials), 0.6, 'fallback_first_letter'
+            # Single-word phrases: first letter is almost always correct
+            if len(words) == 1:
+                return ''.join(initials), 0.9, 'fallback_first_letter'
+            return ''.join(initials), 0.7, 'fallback_first_letter'
         
         return '', 0.0, 'no_match'
     
@@ -365,12 +368,16 @@ def is_rule_confident(phrase: str, acronym: str, confidence: float) -> bool:
     Returns:
         True if confident enough to use rule-based result
     """
+    # Single-letter acronyms are valid for single-word phrases
+    words = phrase.split()
+    if len(words) == 1 and len(acronym) == 1:
+        return confidence >= 0.5
+    
     # Check if acronym is reasonable length
     if not (2 <= len(acronym) <= 6):
         return False
     
     # Check if acronym matches first letters pattern
-    words = phrase.split()
     initials = [w[0].upper() for w in words if w and w[0].isalpha()]
     if ''.join(initials) == acronym:
         return True
