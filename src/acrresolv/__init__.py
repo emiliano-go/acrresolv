@@ -1,3 +1,5 @@
-from .resolver import resolve
+"""acrresolv - Hybrid acronym resolver with ML + Rules + Lookup."""
 
-__all__ = ["resolve"]
+from .resolver import resolve, resolve_with_confidence, ResolveResult
+
+__all__ = ["resolve", "resolve_with_confidence", "ResolveResult"]
