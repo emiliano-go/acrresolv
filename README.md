@@ -74,7 +74,8 @@ The directory must contain `model.safetensors` and `config.json`.
 | Metric | Value |
 |---|---|
 | Training data accuracy | 100% (2,650/2,650) |
-| Unseen phrases (no ML) | 80% (126/157) |
+| Unseen phrases (rules + lookup) | 90.6% (270/298) |
+| Unseen phrases (with ML) | 82.2% (245/298) |
 | Parameters | 60,506,624 |
 | Model size | 231 MB (FP32) |
 | Lookup entries | 2,650 |
