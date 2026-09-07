@@ -1,0 +1,10602 @@
+[
+  [
+    "central processing unit",
+    "CPU"
+  ],
+  [
+    "random access memory",
+    "RAM"
+  ],
+  [
+    "read only memory",
+    "ROM"
+  ],
+  [
+    "basic input output system",
+    "BIOS"
+  ],
+  [
+    "unified extensible firmware interface",
+    "UEFI"
+  ],
+  [
+    "graphics processing unit",
+    "GPU"
+  ],
+  [
+    "solid state drive",
+    "SSD"
+  ],
+  [
+    "hard disk drive",
+    "HDD"
+  ],
+  [
+    "operating system",
+    "OS"
+  ],
+  [
+    "local area network",
+    "LAN"
+  ],
+  [
+    "wide area network",
+    "WAN"
+  ],
+  [
+    "virtual private network",
+    "VPN"
+  ],
+  [
+    "domain name system",
+    "DNS"
+  ],
+  [
+    "dynamic host configuration protocol",
+    "DHCP"
+  ],
+  [
+    "transmission control protocol",
+    "TCP"
+  ],
+  [
+    "internet protocol",
+    "IP"
+  ],
+  [
+    "file transfer protocol",
+    "FTP"
+  ],
+  [
+    "hypertext transfer protocol",
+    "HTTP"
+  ],
+  [
+    "secure sockets layer",
+    "SSL"
+  ],
+  [
+    "transport layer security",
+    "TLS"
+  ],
+  [
+    "public key infrastructure",
+    "PKI"
+  ],
+  [
+    "secure shell",
+    "SSH"
+  ],
+  [
+    "structured query language",
+    "SQL"
+  ],
+  [
+    "no sql",
+    "NOSQL"
+  ],
+  [
+    "object oriented programming",
+    "OOP"
+  ],
+  [
+    "functional programming",
+    "FP"
+  ],
+  [
+    "continuous integration",
+    "CI"
+  ],
+  [
+    "continuous deployment",
+    "CD"
+  ],
+  [
+    "application programming interface",
+    "API"
+  ],
+  [
+    "software as a service",
+    "SAAS"
+  ],
+  [
+    "infrastructure as a service",
+    "IAAS"
+  ],
+  [
+    "platform as a service",
+    "PAAS"
+  ],
+  [
+    "internet of things",
+    "IOT"
+  ],
+  [
+    "artificial intelligence",
+    "AI"
+  ],
+  [
+    "machine learning",
+    "ML"
+  ],
+  [
+    "natural language processing",
+    "NLP"
+  ],
+  [
+    "computer vision",
+    "CV"
+  ],
+  [
+    "radio detection and ranging",
+    "RADAR"
+  ],
+  [
+    "light detection and ranging",
+    "LIDAR"
+  ],
+  [
+    "sound navigation and ranging",
+    "SONAR"
+  ],
+  [
+    "self contained underwater breathing apparatus",
+    "SCUBA"
+  ],
+  [
+    "national aeronautics and space administration",
+    "NASA"
+  ],
+  [
+    "international business machines",
+    "IBM"
+  ],
+  [
+    "american telephone and telegraph",
+    "ATT"
+  ],
+  [
+    "reduced instruction set computing",
+    "RISC"
+  ],
+  [
+    "complex instruction set computing",
+    "CISC"
+  ],
+  [
+    "advanced risc machines",
+    "ARM"
+  ],
+  [
+    "very large scale integration",
+    "VLSI"
+  ],
+  [
+    "printed circuit board",
+    "PCB"
+  ],
+  [
+    "integrated circuit",
+    "IC"
+  ],
+  [
+    "complementary metal oxide semiconductor",
+    "CMOS"
+  ],
+  [
+    "transistor transistor logic",
+    "TTL"
+  ],
+  [
+    "cathode ray tube",
+    "CRT"
+  ],
+  [
+    "liquid crystal display",
+    "LCD"
+  ],
+  [
+    "light emitting diode",
+    "LED"
+  ],
+  [
+    "organic light emitting diode",
+    "OLED"
+  ],
+  [
+    "digital signal processor",
+    "DSP"
+  ],
+  [
+    "field programmable gate array",
+    "FPGA"
+  ],
+  [
+    "application specific integrated circuit",
+    "ASIC"
+  ],
+  [
+    "complex programmable logic device",
+    "CPLD"
+  ],
+  [
+    "microelectromechanical systems",
+    "MEMS"
+  ],
+  [
+    "global positioning system",
+    "GPS"
+  ],
+  [
+    "geographic information system",
+    "GIS"
+  ],
+  [
+    "magnetic resonance imaging",
+    "MRI"
+  ],
+  [
+    "computed tomography",
+    "CT"
+  ],
+  [
+    "electrocardiogram",
+    "ECG"
+  ],
+  [
+    "electroencephalogram",
+    "EEG"
+  ],
+  [
+    "human immunodeficiency virus",
+    "HIV"
+  ],
+  [
+    "deoxyribonucleic acid",
+    "DNA"
+  ],
+  [
+    "ribonucleic acid",
+    "RNA"
+  ],
+  [
+    "world health organization",
+    "WHO"
+  ],
+  [
+    "united nations",
+    "UN"
+  ],
+  [
+    "north atlantic treaty organization",
+    "NATO"
+  ],
+  [
+    "european union",
+    "EU"
+  ],
+  [
+    "federal bureau of investigation",
+    "FBI"
+  ],
+  [
+    "central intelligence agency",
+    "CIA"
+  ],
+  [
+    "national security agency",
+    "NSA"
+  ],
+  [
+    "department of defense",
+    "DOD"
+  ],
+  [
+    "intercontinental ballistic missile",
+    "ICBM"
+  ],
+  [
+    "multiple independently targetable reentry vehicle",
+    "MIRV"
+  ],
+  [
+    "anti submarine warfare",
+    "ASW"
+  ],
+  [
+    "electronic warfare",
+    "EW"
+  ],
+  [
+    "beyond visual range",
+    "BVR"
+  ],
+  [
+    "air to air",
+    "ATA"
+  ],
+  [
+    "surface to air missile",
+    "SAM"
+  ],
+  [
+    "air to surface missile",
+    "ASM"
+  ],
+  [
+    "terrain following radar",
+    "TFR"
+  ],
+  [
+    "synthetic aperture radar",
+    "SAR"
+  ],
+  [
+    "pulse doppler radar",
+    "PDR"
+  ],
+  [
+    "phased array radar",
+    "PAR"
+  ],
+  [
+    "fire control radar",
+    "FCR"
+  ],
+  [
+    "early warning radar",
+    "EWR"
+  ],
+  [
+    "over the horizon radar",
+    "OTHR"
+  ],
+  [
+    "inverse synthetic aperture radar",
+    "ISAR"
+  ],
+  [
+    "moving target indicator",
+    "MTI"
+  ],
+  [
+    "constant false alarm rate",
+    "CFAR"
+  ],
+  [
+    "automatic gain control",
+    "AGC"
+  ],
+  [
+    "signal to noise ratio",
+    "SNR"
+  ],
+  [
+    "radio frequency",
+    "RF"
+  ],
+  [
+    "intermediate frequency",
+    "IF"
+  ],
+  [
+    "audio frequency",
+    "AF"
+  ],
+  [
+    "very high frequency",
+    "VHF"
+  ],
+  [
+    "ultra high frequency",
+    "UHF"
+  ],
+  [
+    "super high frequency",
+    "SHF"
+  ],
+  [
+    "extremely high frequency",
+    "EHF"
+  ],
+  [
+    "low frequency",
+    "LF"
+  ],
+  [
+    "medium frequency",
+    "MF"
+  ],
+  [
+    "high frequency",
+    "HF"
+  ],
+  [
+    "electromagnetic interference",
+    "EMI"
+  ],
+  [
+    "electromagnetic compatibility",
+    "EMC"
+  ],
+  [
+    "radio frequency interference",
+    "RFI"
+  ],
+  [
+    "automatic dependent surveillance",
+    "ADS"
+  ],
+  [
+    "traffic collision avoidance system",
+    "TCAS"
+  ],
+  [
+    "enhanced ground proximity warning system",
+    "EGPWS"
+  ],
+  [
+    "flight management system",
+    "FMS"
+  ],
+  [
+    "inertial navigation system",
+    "INS"
+  ],
+  [
+    "inertial reference system",
+    "IRS"
+  ],
+  [
+    "air data computer",
+    "ADC"
+  ],
+  [
+    "engine monitoring system",
+    "EMS"
+  ],
+  [
+    "full authority digital engine control",
+    "FADEC"
+  ],
+  [
+    "flight data recorder",
+    "FDR"
+  ],
+  [
+    "cockpit voice recorder",
+    "CVR"
+  ],
+  [
+    "terrain awareness and warning system",
+    "TAWS"
+  ],
+  [
+    "radio altimeter",
+    "RA"
+  ],
+  [
+    "distance measuring equipment",
+    "DME"
+  ],
+  [
+    "very high frequency omnidirectional range",
+    "VOR"
+  ],
+  [
+    "instrument landing system",
+    "ILS"
+  ],
+  [
+    "non directional beacon",
+    "NDB"
+  ],
+  [
+    "tactical air navigation",
+    "TACAN"
+  ],
+  [
+    "marker beacon",
+    "MB"
+  ],
+  [
+    "universidad de la republica",
+    "UDELAR"
+  ],
+  [
+    "facultad de ingenieria",
+    "FING"
+  ],
+  [
+    "facultad de medicina",
+    "FMED"
+  ],
+  [
+    "facultad de ciencias",
+    "FCIEN"
+  ],
+  [
+    "facultad de psicologia",
+    "FPSICO"
+  ],
+  [
+    "facultad de ciencias economicas y administracion",
+    "FCEA"
+  ],
+  [
+    "facultad de informacion y comunicacion",
+    "FIC"
+  ],
+  [
+    "facultad de derecho",
+    "FDER"
+  ],
+  [
+    "facultad de filosofia",
+    "FFILOS"
+  ],
+  [
+    "facultad de veterinaria",
+    "FVET"
+  ],
+  [
+    "facultad de quimica",
+    "FQUIM"
+  ],
+  [
+    "escuela de ingenieria",
+    "EING"
+  ],
+  [
+    "escuela de informatica",
+    "EINF"
+  ],
+  [
+    "escuela de arquitectura",
+    "EARQ"
+  ],
+  [
+    "instituto de biologia",
+    "IBIO"
+  ],
+  [
+    "instituto de fisica",
+    "IFIS"
+  ],
+  [
+    "instituto de quimica",
+    "IQUI"
+  ],
+  [
+    "departamento de matematica",
+    "DMATH"
+  ],
+  [
+    "departamento de fisica",
+    "DFIS"
+  ],
+  [
+    "departamento de computacion",
+    "DCOMPUT"
+  ],
+  [
+    "centro de investigaciones",
+    "CINV"
+  ],
+  [
+    "consejo directivo",
+    "CD"
+  ],
+  [
+    "consejo de facultad",
+    "CF"
+  ],
+  [
+    "programa de posgrado",
+    "PPOS"
+  ],
+  [
+    "laboratorio de ensayo",
+    "LENS"
+  ],
+  [
+    "oficina de registro",
+    "OREG"
+  ],
+  [
+    "coordinacion general",
+    "CG"
+  ],
+  [
+    "asesoria legal",
+    "ALEG"
+  ],
+  [
+    "light amplification by stimulated emission of radiation",
+    "LASER"
+  ],
+  [
+    "as soon as possible",
+    "ASAP"
+  ],
+  [
+    "for your information",
+    "FYI"
+  ],
+  [
+    "in my humble opinion",
+    "IMHO"
+  ],
+  [
+    "laughing out loud",
+    "LOL"
+  ],
+  [
+    "be right back",
+    "BRB"
+  ],
+  [
+    "oh my god",
+    "OMG"
+  ],
+  [
+    "by the way",
+    "BTW"
+  ],
+  [
+    "point of sale",
+    "POS"
+  ],
+  [
+    "point of view",
+    "POV"
+  ],
+  [
+    "line of sight",
+    "LOS"
+  ],
+  [
+    "state of the art",
+    "SOTA"
+  ],
+  [
+    "frequently asked questions",
+    "FAQ"
+  ],
+  [
+    "standard operating procedure",
+    "SOP"
+  ],
+  [
+    "quality assurance",
+    "QA"
+  ],
+  [
+    "quality control",
+    "QC"
+  ],
+  [
+    "human resources",
+    "HR"
+  ],
+  [
+    "information technology",
+    "IT"
+  ],
+  [
+    "research and development",
+    "RND"
+  ],
+  [
+    "supply chain management",
+    "SCM"
+  ],
+  [
+    "enterprise resource planning",
+    "ERP"
+  ],
+  [
+    "customer relationship management",
+    "CRM"
+  ],
+  [
+    "key performance indicator",
+    "KPI"
+  ],
+  [
+    "return on investment",
+    "ROI"
+  ],
+  [
+    "initial public offering",
+    "IPO"
+  ],
+  [
+    "gross domestic product",
+    "GDP"
+  ],
+  [
+    "consumer price index",
+    "CPI"
+  ],
+  [
+    "electronic funds transfer",
+    "EFT"
+  ],
+  [
+    "near field communication",
+    "NFC"
+  ],
+  [
+    "radio frequency identification",
+    "RFID"
+  ],
+  [
+    "quick response",
+    "QR"
+  ],
+  [
+    "universal resource locator",
+    "URL"
+  ],
+  [
+    "internet service provider",
+    "ISP"
+  ],
+  [
+    "voice over internet protocol",
+    "VOIP"
+  ],
+  [
+    "web real time communication",
+    "WEBRTC"
+  ],
+  [
+    "open systems interconnection",
+    "OSI"
+  ],
+  [
+    "network address translation",
+    "NAT"
+  ],
+  [
+    "simple mail transfer protocol",
+    "SMTP"
+  ],
+  [
+    "arithmetic logic unit",
+    "ALU"
+  ],
+  [
+    "floating point unit",
+    "FPU"
+  ],
+  [
+    "direct memory access",
+    "DMA"
+  ],
+  [
+    "redundant array of independent disks",
+    "RAID"
+  ],
+  [
+    "small computer system interface",
+    "SCSI"
+  ],
+  [
+    "peripheral component interconnect",
+    "PCI"
+  ],
+  [
+    "universal serial bus",
+    "USB"
+  ],
+  [
+    "high definition multimedia interface",
+    "HDMI"
+  ],
+  [
+    "video graphics array",
+    "VGA"
+  ],
+  [
+    "north american aerospace defense command",
+    "NORAD"
+  ],
+  [
+    "terminal high altitude area defense",
+    "THAAD"
+  ],
+  [
+    "heads up display",
+    "HUD"
+  ],
+  [
+    "flight control computer",
+    "FCC"
+  ],
+  [
+    "air traffic control",
+    "ATC"
+  ],
+  [
+    "instrument flight rules",
+    "IFR"
+  ],
+  [
+    "visual flight rules",
+    "VFR"
+  ],
+  [
+    "emergency locator transmitter",
+    "ELT"
+  ],
+  [
+    "search and rescue",
+    "SAR"
+  ],
+  [
+    "auxiliary power unit",
+    "APU"
+  ],
+  [
+    "vertical takeoff and landing",
+    "VTOL"
+  ],
+  [
+    "short takeoff and landing",
+    "STOL"
+  ],
+  [
+    "maximum takeoff weight",
+    "MTOW"
+  ],
+  [
+    "angle of attack",
+    "AOA"
+  ],
+  [
+    "center of gravity",
+    "CG"
+  ],
+  [
+    "polymerase chain reaction",
+    "PCR"
+  ],
+  [
+    "nuclear magnetic resonance",
+    "NMR"
+  ],
+  [
+    "mass spectrometry",
+    "MS"
+  ],
+  [
+    "x ray crystallography",
+    "XRC"
+  ],
+  [
+    "scanning electron microscope",
+    "SEM"
+  ],
+  [
+    "transmission electron microscope",
+    "TEM"
+  ],
+  [
+    "atomic force microscope",
+    "AFM"
+  ],
+  [
+    "surface plasmon resonance",
+    "SPR"
+  ],
+  [
+    "time of flight",
+    "TOF"
+  ],
+  [
+    "fourier transform infrared",
+    "FTIR"
+  ],
+  [
+    "gas chromatography",
+    "GC"
+  ],
+  [
+    "liquid chromatography",
+    "LC"
+  ],
+  [
+    "high performance liquid chromatography",
+    "HPLC"
+  ],
+  [
+    "capillary electrophoresis",
+    "CE"
+  ],
+  [
+    "electrospray ionization",
+    "ESI"
+  ],
+  [
+    "matrix assisted laser desorption ionization",
+    "MALDI"
+  ],
+  [
+    "inductively coupled plasma",
+    "ICP"
+  ],
+  [
+    "ultraviolet visible spectroscopy",
+    "UVVIS"
+  ],
+  [
+    "fluorescence spectroscopy",
+    "FS"
+  ],
+  [
+    "raman spectroscopy",
+    "RAMAN"
+  ],
+  [
+    "nuclear magnetic resonance spectroscopy",
+    "NMRS"
+  ],
+  [
+    "electron spin resonance",
+    "ESR"
+  ],
+  [
+    "mossbauer spectroscopy",
+    "MOSS"
+  ],
+  [
+    "x ray photoelectron spectroscopy",
+    "XPS"
+  ],
+  [
+    "auger electron spectroscopy",
+    "AES"
+  ],
+  [
+    "secondary ion mass spectrometry",
+    "SIMS"
+  ],
+  [
+    "energy dispersive x ray spectroscopy",
+    "EDS"
+  ],
+  [
+    "wavelength dispersive x ray spectroscopy",
+    "WDS"
+  ],
+  [
+    "electron backscatter diffraction",
+    "EBSD"
+  ],
+  [
+    "focused ion beam",
+    "FIB"
+  ],
+  [
+    "atomic layer deposition",
+    "ALD"
+  ],
+  [
+    "chemical vapor deposition",
+    "CVD"
+  ],
+  [
+    "physical vapor deposition",
+    "PVD"
+  ],
+  [
+    "sputtering",
+    "SPUT"
+  ],
+  [
+    "molecular beam epitaxy",
+    "MBE"
+  ],
+  [
+    "rapid thermal processing",
+    "RTP"
+  ],
+  [
+    "plasma etching",
+    "PE"
+  ],
+  [
+    "reactive ion etching",
+    "RIE"
+  ],
+  [
+    "deep reactive ion etching",
+    "DRIE"
+  ],
+  [
+    "photolithography",
+    "PHOTO"
+  ],
+  [
+    "extreme ultraviolet lithography",
+    "EUV"
+  ],
+  [
+    "electron beam lithography",
+    "EBL"
+  ],
+  [
+    "nanoimprint lithography",
+    "NIL"
+  ],
+  [
+    "soft lithography",
+    "SL"
+  ],
+  [
+    "self assembled monolayer",
+    "SAM"
+  ],
+  [
+    "atomic layer etching",
+    "ALE"
+  ],
+  [
+    "electromyography",
+    "EMG"
+  ],
+  [
+    "positron emission tomography",
+    "PET"
+  ],
+  [
+    "single photon emission computed tomography",
+    "SPECT"
+  ],
+  [
+    "arterial blood gas",
+    "ABG"
+  ],
+  [
+    "central venous pressure",
+    "CVP"
+  ],
+  [
+    "mean arterial pressure",
+    "MAP"
+  ],
+  [
+    "cardiac output",
+    "CO"
+  ],
+  [
+    "ejection fraction",
+    "EF"
+  ],
+  [
+    "body mass index",
+    "BMI"
+  ],
+  [
+    "white blood cell count",
+    "WBC"
+  ],
+  [
+    "red blood cell count",
+    "RBC"
+  ],
+  [
+    "estimated glomerular filtration rate",
+    "EGFR"
+  ],
+  [
+    "international normalized ratio",
+    "INR"
+  ],
+  [
+    "activated partial thromboplastin time",
+    "APTT"
+  ],
+  [
+    "prothrombin time",
+    "PT"
+  ],
+  [
+    "c reactive protein",
+    "CRP"
+  ],
+  [
+    "troponin i",
+    "TROP_I"
+  ],
+  [
+    "brain natriuretic peptide",
+    "BNP"
+  ],
+  [
+    "hemoglobin a1c",
+    "HBA1C"
+  ],
+  [
+    "low density lipoprotein",
+    "LDL"
+  ],
+  [
+    "high density lipoprotein",
+    "HDL"
+  ],
+  [
+    "thyroid stimulating hormone",
+    "TSH"
+  ],
+  [
+    "prostate specific antigen",
+    "PSA"
+  ],
+  [
+    "digital rectal examination",
+    "DRE"
+  ],
+  [
+    "colonoscopy",
+    "COLON"
+  ],
+  [
+    "bronchoscopy",
+    "BRONCH"
+  ],
+  [
+    "arthroscopy",
+    "ARTHRO"
+  ],
+  [
+    "laparoscopy",
+    "LAP"
+  ],
+  [
+    "echocardiography",
+    "ECHO"
+  ],
+  [
+    "spirometry",
+    "SPIRO"
+  ],
+  [
+    "electroencephalography",
+    "EEG"
+  ],
+  [
+    "magnetic resonance angiography",
+    "MRA"
+  ],
+  [
+    "diffusion tensor imaging",
+    "DTI"
+  ],
+  [
+    "functional magnetic resonance imaging",
+    "FMRI"
+  ],
+  [
+    "digital imaging and communications in medicine",
+    "DICOM"
+  ],
+  [
+    "picture archiving and communication system",
+    "PACS"
+  ],
+  [
+    "radiology information system",
+    "RIS"
+  ],
+  [
+    "electronic health record",
+    "EHR"
+  ],
+  [
+    "electronic medical record",
+    "EMR"
+  ],
+  [
+    "computerized physician order entry",
+    "CPOE"
+  ],
+  [
+    "intensive care unit",
+    "ICU"
+  ],
+  [
+    "emergency department",
+    "ED"
+  ],
+  [
+    "operating room",
+    "OR"
+  ],
+  [
+    "post anesthesia care unit",
+    "PACU"
+  ],
+  [
+    "continuous positive airway pressure",
+    "CPAP"
+  ],
+  [
+    "extracorporeal membrane oxygenation",
+    "ECMO"
+  ],
+  [
+    "intra aortic balloon pump",
+    "IABP"
+  ],
+  [
+    "implantable cardioverter defibrillator",
+    "ICD"
+  ],
+  [
+    "left ventricular assist device",
+    "LVAD"
+  ],
+  [
+    "cardiac catheterization",
+    "CATH"
+  ],
+  [
+    "coronary artery bypass graft",
+    "CABG"
+  ],
+  [
+    "percutaneous coronary intervention",
+    "PCI"
+  ],
+  [
+    "transcatheter aortic valve replacement",
+    "TAVR"
+  ],
+  [
+    "total knee replacement",
+    "TKR"
+  ],
+  [
+    "total hip replacement",
+    "THR"
+  ],
+  [
+    "anterior cruciate ligament",
+    "ACL"
+  ],
+  [
+    "earnings before interest and taxes",
+    "EBIT"
+  ],
+  [
+    "earnings before interest taxes depreciation and amortization",
+    "EBITDA"
+  ],
+  [
+    "securities and exchange commission",
+    "SEC"
+  ],
+  [
+    "financial accounting standards board",
+    "FASB"
+  ],
+  [
+    "generally accepted accounting principles",
+    "GAAP"
+  ],
+  [
+    "international financial reporting standards",
+    "IFRS"
+  ],
+  [
+    "national association of securities dealers automated quotations",
+    "NASDAQ"
+  ],
+  [
+    "occupational safety and health administration",
+    "OSHA"
+  ],
+  [
+    "environmental protection agency",
+    "EPA"
+  ],
+  [
+    "federal communications commission",
+    "FCC"
+  ],
+  [
+    "national institute of standards and technology",
+    "NIST"
+  ],
+  [
+    "food and drug administration",
+    "FDA"
+  ],
+  [
+    "internal revenue service",
+    "IRS"
+  ],
+  [
+    "department of homeland security",
+    "DHS"
+  ],
+  [
+    "government accountability office",
+    "GAO"
+  ],
+  [
+    "congressional budget office",
+    "CBO"
+  ],
+  [
+    "global system for mobile communications",
+    "GSM"
+  ],
+  [
+    "long term evolution",
+    "LTE"
+  ],
+  [
+    "code division multiple access",
+    "CDMA"
+  ],
+  [
+    "time division multiple access",
+    "TDMA"
+  ],
+  [
+    "frequency division multiple access",
+    "FDMA"
+  ],
+  [
+    "orthogonal frequency division multiple access",
+    "OFDMA"
+  ],
+  [
+    "public switched telephone network",
+    "PSTN"
+  ],
+  [
+    "private branch exchange",
+    "PBX"
+  ],
+  [
+    "base station controller",
+    "BSC"
+  ],
+  [
+    "base transceiver station",
+    "BTS"
+  ],
+  [
+    "mobile switching center",
+    "MSC"
+  ],
+  [
+    "home location register",
+    "HLR"
+  ],
+  [
+    "visitor location register",
+    "VLR"
+  ],
+  [
+    "short message service",
+    "SMS"
+  ],
+  [
+    "evolved packet core",
+    "EPC"
+  ],
+  [
+    "user equipment",
+    "UE"
+  ],
+  [
+    "radio resource control",
+    "RRC"
+  ],
+  [
+    "medium access control",
+    "MAC"
+  ],
+  [
+    "3rd generation partnership project",
+    "3GPP"
+  ],
+  [
+    "institute of electrical and electronics engineers",
+    "IEEE"
+  ],
+  [
+    "international telecommunications union",
+    "ITU"
+  ],
+  [
+    "scuba diving",
+    "SD"
+  ],
+  [
+    "total quality management",
+    "TQM"
+  ],
+  [
+    "just in time",
+    "JIT"
+  ],
+  [
+    "lean manufacturing",
+    "LM"
+  ],
+  [
+    "six sigma",
+    "SS"
+  ],
+  [
+    "business to business",
+    "B2B"
+  ],
+  [
+    "business to consumer",
+    "B2C"
+  ],
+  [
+    "personal computer",
+    "PC"
+  ],
+  [
+    "digital subscriber line",
+    "DSL"
+  ],
+  [
+    "asymmetric digital subscriber line",
+    "ADSL"
+  ],
+  [
+    "fiber to the home",
+    "FTTH"
+  ],
+  [
+    "cable modem",
+    "CM"
+  ],
+  [
+    "digital video recorder",
+    "DVR"
+  ],
+  [
+    "high definition television",
+    "HDTV"
+  ],
+  [
+    "digital television",
+    "DTV"
+  ],
+  [
+    "internet protocol television",
+    "IPTV"
+  ],
+  [
+    "video on demand",
+    "VOD"
+  ],
+  [
+    "electronic program guide",
+    "EPG"
+  ],
+  [
+    "digital video disc",
+    "DVD"
+  ],
+  [
+    "blu ray disc",
+    "BD"
+  ],
+  [
+    "compact disc",
+    "CD"
+  ],
+  [
+    "pet scan",
+    "PET"
+  ],
+  [
+    "dna sequencing",
+    "DNASEQ"
+  ],
+  [
+    "gene therapy",
+    "GT"
+  ],
+  [
+    "crispr",
+    "CRISPR"
+  ],
+  [
+    "clustered regularly interspaced short palindromic repeats",
+    "CRISPR"
+  ],
+  [
+    "adaptive cruise control",
+    "ACC"
+  ],
+  [
+    "anti lock braking system",
+    "ABS"
+  ],
+  [
+    "electronic stability control",
+    "ESC"
+  ],
+  [
+    "traction control system",
+    "TCS"
+  ],
+  [
+    "tire pressure monitoring system",
+    "TPMS"
+  ],
+  [
+    "advanced driver assistance system",
+    "ADAS"
+  ],
+  [
+    "autonomous emergency braking",
+    "AEB"
+  ],
+  [
+    "lane departure warning",
+    "LDW"
+  ],
+  [
+    "lane keep assist",
+    "LKA"
+  ],
+  [
+    "blind spot monitoring",
+    "BSM"
+  ],
+  [
+    "park assist",
+    "PA"
+  ],
+  [
+    "automatic parking",
+    "AP"
+  ],
+  [
+    "vehicle to vehicle",
+    "V2V"
+  ],
+  [
+    "vehicle to infrastructure",
+    "V2I"
+  ],
+  [
+    "vehicle to everything",
+    "V2X"
+  ],
+  [
+    "connectivity",
+    "CONN"
+  ],
+  [
+    "facultad de ciencias sociales",
+    "FCIESOC"
+  ],
+  [
+    "facultad de economia",
+    "FECON"
+  ],
+  [
+    "facultad de arquitectura",
+    "FARQ"
+  ],
+  [
+    "facultad de odontologia",
+    "FODO"
+  ],
+  [
+    "facultad de enfermeria",
+    "FENF"
+  ],
+  [
+    "facultad de ciencias economicas",
+    "FCECON"
+  ],
+  [
+    "facultad de economia",
+    "FECON"
+  ],
+  [
+    "facultad de humanidades",
+    "FHUM"
+  ],
+  [
+    "facultad de ciencias puras",
+    "FCPUR"
+  ],
+  [
+    "facultad de ciencias aplicadas",
+    "FCAPL"
+  ],
+  [
+    "facultad de ciencias agrarias",
+    "FCAGR"
+  ],
+  [
+    "facultad de ciencias forestales",
+    "FCFOR"
+  ],
+  [
+    "facultad de ciencias del mar",
+    "FCMAR"
+  ],
+  [
+    "facultad de ciencias de la salud",
+    "FCSALUD"
+  ],
+  [
+    "facultad de ciencias de la educacion",
+    "FCEDU"
+  ],
+  [
+    "facultad de ciencias del trabajo",
+    "FCTRAB"
+  ],
+  [
+    "facultad de ciencias politicas",
+    "FCPOL"
+  ],
+  [
+    "escuela de enfermeria",
+    "EENF"
+  ],
+  [
+    "escuela de medicina",
+    "EMED"
+  ],
+  [
+    "escuela de derecho",
+    "EDER"
+  ],
+  [
+    "escuela de economia",
+    "ECON"
+  ],
+  [
+    "escuela de ciencias",
+    "ECIEN"
+  ],
+  [
+    "escuela de humanidades",
+    "EHUM"
+  ],
+  [
+    "instituto de matematica",
+    "IMAT"
+  ],
+  [
+    "instituto de informatica",
+    "IINF"
+  ],
+  [
+    "instituto de investigacion",
+    "IINV"
+  ],
+  [
+    "instituto de tecnologia",
+    "ITEC"
+  ],
+  [
+    "departamento de quimica",
+    "DQUI"
+  ],
+  [
+    "departamento de biologia",
+    "DBIO"
+  ],
+  [
+    "departamento de ingenieria",
+    "DING"
+  ],
+  [
+    "departamento de ciencias",
+    "DCIEN"
+  ],
+  [
+    "departamento de medicina",
+    "DMED"
+  ],
+  [
+    "departamento de derecho",
+    "DDER"
+  ],
+  [
+    "departamento de economia",
+    "DECON"
+  ],
+  [
+    "departamento de arquitectura",
+    "DARQ"
+  ],
+  [
+    "departamento de humanidades",
+    "DHUM"
+  ],
+  [
+    "departamento de arte",
+    "DART"
+  ],
+  [
+    "departamento de musica",
+    "DMUS"
+  ],
+  [
+    "departamento de deportes",
+    "DDEP"
+  ],
+  [
+    "departamento de extension",
+    "DEXT"
+  ],
+  [
+    "departamento de investigations",
+    "DINV"
+  ],
+  [
+    "centro de estudio",
+    "CEST"
+  ],
+  [
+    "centro de desarrollo",
+    "CDES"
+  ],
+  [
+    "centro de capacitacion",
+    "CCAP"
+  ],
+  [
+    "centro de servicios",
+    "CSER"
+  ],
+  [
+    "consejo academico",
+    "CA"
+  ],
+  [
+    "consejo de departamento",
+    "CDEP"
+  ],
+  [
+    "programa de grado",
+    "PGRAD"
+  ],
+  [
+    "programa de especializacion",
+    "PESP"
+  ],
+  [
+    "programa de maestria",
+    "PMAES"
+  ],
+  [
+    "programa de doctorado",
+    "PDOCT"
+  ],
+  [
+    "laboratorio de investigacion",
+    "LINV"
+  ],
+  [
+    "laboratorio de computacion",
+    "LCOM"
+  ],
+  [
+    "laboratorio de quimica",
+    "LQUI"
+  ],
+  [
+    "laboratorio de fisica",
+    "LFIS"
+  ],
+  [
+    "laboratorio de biologia",
+    "LBIO"
+  ],
+  [
+    "oficina de planeacion",
+    "OPLAN"
+  ],
+  [
+    "oficina de tesoreria",
+    "OTES"
+  ],
+  [
+    "oficina de contabilidad",
+    "OCONT"
+  ],
+  [
+    "coordinacion academica",
+    "CA"
+  ],
+  [
+    "coordinacion de investigacion",
+    "CINV"
+  ],
+  [
+    "coordinacion de extension",
+    "CEXT"
+  ],
+  [
+    "asesoria academica",
+    "AACAD"
+  ],
+  [
+    "asesoria estudiantil",
+    "AES"
+  ],
+  [
+    "biblioteca central",
+    "BIB"
+  ],
+  [
+    "unidad academica",
+    "UA"
+  ],
+  [
+    "unidad de investigacion",
+    "UI"
+  ],
+  [
+    "unidad de extension",
+    "UEXT"
+  ],
+  [
+    "unidad de bienestar",
+    "UBIEN"
+  ],
+  [
+    "unidad de computacion",
+    "UCOM"
+  ],
+  [
+    "unidad de informatica",
+    "UINF"
+  ],
+  [
+    "patriot advanced capability",
+    "PAC"
+  ],
+  [
+    "aegis combat system",
+    "AEGIS"
+  ],
+  [
+    "horizontal situation indicator",
+    "HSI"
+  ],
+  [
+    "autopilot",
+    "AP"
+  ],
+  [
+    "flight data acquisition unit",
+    "FDAU"
+  ],
+  [
+    "terminal radar approach control",
+    "TRACON"
+  ],
+  [
+    "airworthiness directive",
+    "AD"
+  ],
+  [
+    "type certificate",
+    "TC"
+  ],
+  [
+    "air operator certificate",
+    "AOC"
+  ],
+  [
+    "line replaceable unit",
+    "LRU"
+  ],
+  [
+    "emergency position indicating radio beacon",
+    "EPIRB"
+  ],
+  [
+    "mean aerodynamic chord",
+    "MAC"
+  ],
+  [
+    "lift to drag ratio",
+    "LD"
+  ],
+  [
+    "rate of climb",
+    "ROC"
+  ],
+  [
+    "ground speed",
+    "GS"
+  ],
+  [
+    "true airspeed",
+    "TAS"
+  ],
+  [
+    "indicated airspeed",
+    "IAS"
+  ],
+  [
+    "calibrated airspeed",
+    "CAS"
+  ],
+  [
+    "mach number",
+    "MACH"
+  ],
+  [
+    "flight level",
+    "FL"
+  ],
+  [
+    "decision altitude",
+    "DA"
+  ],
+  [
+    "minimum descent altitude",
+    "MDA"
+  ],
+  [
+    "approach lighting system",
+    "ALS"
+  ],
+  [
+    "precision approach path indicator",
+    "PAPI"
+  ],
+  [
+    "runway visual range",
+    "RVR"
+  ],
+  [
+    "minimum safe altitude",
+    "MSA"
+  ],
+  [
+    "standard instrument departure",
+    "SID"
+  ],
+  [
+    "standard terminal arrival",
+    "STAR"
+  ],
+  [
+    "instrument approach procedure",
+    "IAP"
+  ],
+  [
+    "fifth generation",
+    "5G"
+  ],
+  [
+    "content delivery network",
+    "CDN"
+  ],
+  [
+    "wireless local area network",
+    "WLAN"
+  ],
+  [
+    "personal area network",
+    "PAN"
+  ],
+  [
+    "metropolitan area network",
+    "MAN"
+  ],
+  [
+    "storage area network",
+    "SAN"
+  ],
+  [
+    "software defined networking",
+    "SDN"
+  ],
+  [
+    "instituto de agrimensura",
+    "IA"
+  ],
+  [
+    "instituto de computacion",
+    "INCO"
+  ],
+  [
+    "instituto de ensayo de materiales",
+    "IEM"
+  ],
+  [
+    "instituto de estructuras y transporte",
+    "IET"
+  ],
+  [
+    "instituto de ingenieria electrica",
+    "IIE"
+  ],
+  [
+    "instituto de ingenieria mecanica y produccion industrial",
+    "IIMPI"
+  ],
+  [
+    "instituto de ingenieria quimica",
+    "IIQ"
+  ],
+  [
+    "instituto de matematica y estadistica rafael laguardia",
+    "IMERL"
+  ],
+  [
+    "instituto de mecanica de los fluidos e ingenieria ambiental",
+    "IMFIA"
+  ],
+  [
+    "departamento de insercion social del ingeniero",
+    "DISI"
+  ],
+  [
+    "virtual machine",
+    "VM"
+  ],
+  [
+    "container orchestration",
+    "CO"
+  ],
+  [
+    "continuous delivery",
+    "CD"
+  ],
+  [
+    "infrastructure as code",
+    "IAC"
+  ],
+  [
+    "monitoring and observability",
+    "MO"
+  ],
+  [
+    "service mesh",
+    "SM"
+  ],
+  [
+    "edge computing",
+    "EC"
+  ],
+  [
+    "cloud native",
+    "CN"
+  ],
+  [
+    "microservices architecture",
+    "MA"
+  ],
+  [
+    "serverless computing",
+    "SC"
+  ],
+  [
+    "event driven architecture",
+    "EDA"
+  ],
+  [
+    "domain driven design",
+    "DDD"
+  ],
+  [
+    "test driven development",
+    "TDD"
+  ],
+  [
+    "behavior driven development",
+    "BDD"
+  ],
+  [
+    "model view controller",
+    "MVC"
+  ],
+  [
+    "model view viewmodel",
+    "MVVM"
+  ],
+  [
+    "object relational mapping",
+    "ORM"
+  ],
+  [
+    "data access layer",
+    "DAL"
+  ],
+  [
+    "application layer",
+    "AL"
+  ],
+  [
+    "presentation layer",
+    "PL"
+  ],
+  [
+    "business logic layer",
+    "BLL"
+  ],
+  [
+    "network attached storage",
+    "NAS"
+  ],
+  [
+    "storage replication",
+    "SR"
+  ],
+  [
+    "data loss prevention",
+    "DLP"
+  ],
+  [
+    "intrusion detection system",
+    "IDS"
+  ],
+  [
+    "intrusion prevention system",
+    "IPS"
+  ],
+  [
+    "security information and event management",
+    "SIEM"
+  ],
+  [
+    "endpoint detection and response",
+    "EDR"
+  ],
+  [
+    "extended detection and response",
+    "XDR"
+  ],
+  [
+    "vulnerability assessment",
+    "VA"
+  ],
+  [
+    "penetration testing",
+    "PT"
+  ],
+  [
+    "zero trust architecture",
+    "ZTA"
+  ],
+  [
+    "multi factor authentication",
+    "MFA"
+  ],
+  [
+    "single sign on",
+    "SSO"
+  ],
+  [
+    "identity and access management",
+    "IAM"
+  ],
+  [
+    "public key cryptography",
+    "PKC"
+  ],
+  [
+    "digital certificate",
+    "DC"
+  ],
+  [
+    "certificate authority",
+    "CA"
+  ],
+  [
+    "data encryption standard",
+    "DES"
+  ],
+  [
+    "advanced encryption standard",
+    "AES"
+  ],
+  [
+    "rivest shamir adleman",
+    "RSA"
+  ],
+  [
+    "elliptic curve cryptography",
+    "ECC"
+  ],
+  [
+    "hash based message authentication",
+    "HMAC"
+  ],
+  [
+    "message digest",
+    "MD"
+  ],
+  [
+    "secure hash algorithm",
+    "SHA"
+  ],
+  [
+    "binary large object",
+    "BLOB"
+  ],
+  [
+    "character large object",
+    "CLOB"
+  ],
+  [
+    "online transaction processing",
+    "OLTP"
+  ],
+  [
+    "online analytical processing",
+    "OLAP"
+  ],
+  [
+    "extract transform load",
+    "ETL"
+  ],
+  [
+    "master data management",
+    "MDM"
+  ],
+  [
+    "data warehouse",
+    "DW"
+  ],
+  [
+    "data lake",
+    "DL"
+  ],
+  [
+    "business intelligence",
+    "BI"
+  ],
+  [
+    "key value store",
+    "KVS"
+  ],
+  [
+    "column family store",
+    "CFS"
+  ],
+  [
+    "document oriented database",
+    "DOD"
+  ],
+  [
+    "graph database",
+    "GD"
+  ],
+  [
+    "time series database",
+    "TSDB"
+  ],
+  [
+    "relational database management system",
+    "RDBMS"
+  ],
+  [
+    "structured data",
+    "SD"
+  ],
+  [
+    "semi structured data",
+    "SSD"
+  ],
+  [
+    "unstructured data",
+    "USD"
+  ],
+  [
+    "border gateway protocol",
+    "BGP"
+  ],
+  [
+    "open shortest path first",
+    "OSPF"
+  ],
+  [
+    "intermediate system to intermediate system",
+    "IS-IS"
+  ],
+  [
+    "hot standby router protocol",
+    "HSRP"
+  ],
+  [
+    "virtual router redundancy protocol",
+    "VRRP"
+  ],
+  [
+    "gateway load balancing protocol",
+    "GLBP"
+  ],
+  [
+    "link aggregation control protocol",
+    "LACP"
+  ],
+  [
+    "spanning tree protocol",
+    "STP"
+  ],
+  [
+    "rapid spanning tree protocol",
+    "RSTP"
+  ],
+  [
+    "multiple spanning tree protocol",
+    "MSTP"
+  ],
+  [
+    "virtual local area network",
+    "VLAN"
+  ],
+  [
+    "virtual extensible local area network",
+    "VXLAN"
+  ],
+  [
+    "generic routing encapsulation",
+    "GRE"
+  ],
+  [
+    "ip in ip encapsulation",
+    "IPIP"
+  ],
+  [
+    "layer 2 tunneling protocol",
+    "L2TP"
+  ],
+  [
+    "point to point protocol",
+    "PPP"
+  ],
+  [
+    "point to point protocol over ethernet",
+    "PPPOE"
+  ],
+  [
+    "serial line internet protocol",
+    "SLIP"
+  ],
+  [
+    "fiber distributed data interface",
+    "FDDI"
+  ],
+  [
+    "asynchronous transfer mode",
+    "ATM"
+  ],
+  [
+    "frame relay",
+    "FR"
+  ],
+  [
+    "multi protocol label switching",
+    "MPLS"
+  ],
+  [
+    "software defined wide area network",
+    "SDWAN"
+  ],
+  [
+    "quality of service",
+    "QOS"
+  ],
+  [
+    "differentiated services",
+    "DS"
+  ],
+  [
+    "integrated services",
+    "IS"
+  ],
+  [
+    "real time transport protocol",
+    "RTP"
+  ],
+  [
+    "real time streaming protocol",
+    "RTSP"
+  ],
+  [
+    "session initiation protocol",
+    "SIP"
+  ],
+  [
+    "megaco protocol",
+    "MEGACO"
+  ],
+  [
+    "media gateway control protocol",
+    "MGCP"
+  ],
+  [
+    "h.323",
+    "H323"
+  ],
+  [
+    "session traversal utilities for nat",
+    "STUN"
+  ],
+  [
+    "traversal using relays around nat",
+    "TURN"
+  ],
+  [
+    "interactive connectivity establishment",
+    "ICE"
+  ],
+  [
+    "network time protocol",
+    "NTP"
+  ],
+  [
+    "precision time protocol",
+    "PTP"
+  ],
+  [
+    "simple network management protocol",
+    "SNMP"
+  ],
+  [
+    "internet control message protocol",
+    "ICMP"
+  ],
+  [
+    "address resolution protocol",
+    "ARP"
+  ],
+  [
+    "reverse address resolution protocol",
+    "RARP"
+  ],
+  [
+    "dynamic reverse resolution protocol",
+    "DRRP"
+  ],
+  [
+    "proxy arp",
+    "PARP"
+  ],
+  [
+    "gratuitous arp",
+    "GARP"
+  ],
+  [
+    "neighbor discovery protocol",
+    "NDP"
+  ],
+  [
+    "router advertisement",
+    "RA"
+  ],
+  [
+    "router solicitation",
+    "RS"
+  ],
+  [
+    "basic metabolic panel",
+    "BMP"
+  ],
+  [
+    "comprehensive metabolic panel",
+    "CMP"
+  ],
+  [
+    "complete blood count",
+    "CBC"
+  ],
+  [
+    "differential blood count",
+    "DBC"
+  ],
+  [
+    "erythrocyte sedimentation rate",
+    "ESR"
+  ],
+  [
+    "hematocrit",
+    "HCT"
+  ],
+  [
+    "hemoglobin",
+    "HGB"
+  ],
+  [
+    "mean corpuscular volume",
+    "MCV"
+  ],
+  [
+    "mean corpuscular hemoglobin",
+    "MCH"
+  ],
+  [
+    "platelet count",
+    "PLT"
+  ],
+  [
+    "reticulocyte count",
+    "RC"
+  ],
+  [
+    "blood urea nitrogen",
+    "BUN"
+  ],
+  [
+    "serum creatinine",
+    "SCR"
+  ],
+  [
+    "glomerular filtration rate",
+    "GFR"
+  ],
+  [
+    "urinalysis",
+    "UA"
+  ],
+  [
+    "urine culture",
+    "UC"
+  ],
+  [
+    "lumbar puncture",
+    "LP"
+  ],
+  [
+    "electrolyte panel",
+    "EP"
+  ],
+  [
+    "serum osmolality",
+    "SO"
+  ],
+  [
+    "arterial blood gas analysis",
+    "ABGA"
+  ],
+  [
+    "mixed venous blood gas",
+    "MVBG"
+  ],
+  [
+    "lactate dehydrogenase",
+    "LDH"
+  ],
+  [
+    "alanine aminotransferase",
+    "ALT"
+  ],
+  [
+    "aspartate aminotransferase",
+    "AST"
+  ],
+  [
+    "alkaline phosphatase",
+    "ALP"
+  ],
+  [
+    "gamma glutamyl transferase",
+    "GGT"
+  ],
+  [
+    "total bilirubin",
+    "TBIL"
+  ],
+  [
+    "direct bilirubin",
+    "DBIL"
+  ],
+  [
+    "albumin",
+    "ALB"
+  ],
+  [
+    "total protein",
+    "TP"
+  ],
+  [
+    "calcium",
+    "CA"
+  ],
+  [
+    "phosphate",
+    "PHOS"
+  ],
+  [
+    "magnesium",
+    "MG"
+  ],
+  [
+    "potassium",
+    "K"
+  ],
+  [
+    "sodium",
+    "NA"
+  ],
+  [
+    "chloride",
+    "CL"
+  ],
+  [
+    "bicarbonate",
+    "HCO3"
+  ],
+  [
+    "creatinine kinase",
+    "CK"
+  ],
+  [
+    "creatinine kinase mb",
+    "CKMB"
+  ],
+  [
+    "troponin t",
+    "TROP_T"
+  ],
+  [
+    "d dimer",
+    "DD"
+  ],
+  [
+    "fibrinogen",
+    "FIB"
+  ],
+  [
+    "procalcitonin",
+    "PCT"
+  ],
+  [
+    "cortisol",
+    "CORT"
+  ],
+  [
+    "insulin",
+    "INS"
+  ],
+  [
+    "glucagon",
+    "GLUC"
+  ],
+  [
+    "parathyroid hormone",
+    "PTH"
+  ],
+  [
+    "vitamin d",
+    "VITD"
+  ],
+  [
+    "erythropoietin",
+    "EPO"
+  ],
+  [
+    "folate",
+    "FOL"
+  ],
+  [
+    "vitamin b12",
+    "B12"
+  ],
+  [
+    "ferritin",
+    "FERR"
+  ],
+  [
+    "transferrin",
+    "TRANS"
+  ],
+  [
+    "iron studies",
+    "IS"
+  ],
+  [
+    "triglycerides",
+    "TG"
+  ],
+  [
+    "total cholesterol",
+    "TC"
+  ],
+  [
+    "apolipoprotein b",
+    "APOB"
+  ],
+  [
+    "lipoprotein a",
+    "LPA"
+  ],
+  [
+    "fasting glucose",
+    "FG"
+  ],
+  [
+    "oral glucose tolerance test",
+    "OGTT"
+  ],
+  [
+    "thyroxine",
+    "T4"
+  ],
+  [
+    "triiodothyronine",
+    "T3"
+  ],
+  [
+    "free thyroxine",
+    "FT4"
+  ],
+  [
+    "free triiodothyronine",
+    "FT3"
+  ],
+  [
+    "anti thyroperoxidase antibodies",
+    "TPO"
+  ],
+  [
+    "anti thyroglobulin antibodies",
+    "TGAB"
+  ],
+  [
+    "thyroid stimulating immunoglobulin",
+    "TSI"
+  ],
+  [
+    "cortisol stimulation test",
+    "CST"
+  ],
+  [
+    "acth stimulation test",
+    "ACTHST"
+  ],
+  [
+    "dexamethasone suppression test",
+    "DST"
+  ],
+  [
+    "growth hormone stimulation test",
+    "GHST"
+  ],
+  [
+    "insulin tolerance test",
+    "ITT"
+  ],
+  [
+    "chromogranin a",
+    "CgA"
+  ],
+  [
+    "serotonin",
+    "5HT"
+  ],
+  [
+    "5 hydroxyindoleacetic acid",
+    "5HIAA"
+  ],
+  [
+    "catecholamines",
+    "CATECH"
+  ],
+  [
+    "metanephrines",
+    "META"
+  ],
+  [
+    "vanillylmandelic acid",
+    "VMA"
+  ],
+  [
+    "gas chromatography mass spectrometry",
+    "GCMS"
+  ],
+  [
+    "liquid chromatography mass spectrometry",
+    "LCMS"
+  ],
+  [
+    "tandem mass spectrometry",
+    "MSMS"
+  ],
+  [
+    "electron paramagnetic resonance",
+    "EPR"
+  ],
+  [
+    "x ray diffraction",
+    "XRD"
+  ],
+  [
+    "small angle x ray scattering",
+    "SAXS"
+  ],
+  [
+    "x ray fluorescence",
+    "XRF"
+  ],
+  [
+    "neutron diffraction",
+    "ND"
+  ],
+  [
+    "neutron scattering",
+    "NS"
+  ],
+  [
+    "dynamic light scattering",
+    "DLS"
+  ],
+  [
+    "static light scattering",
+    "SLS"
+  ],
+  [
+    "photon correlation spectroscopy",
+    "PCS"
+  ],
+  [
+    "optical rotation",
+    "OR"
+  ],
+  [
+    "polarimetry",
+    "POL"
+  ],
+  [
+    "viscometry",
+    "VIS"
+  ],
+  [
+    "rheology",
+    "RHEO"
+  ],
+  [
+    "calorimetry",
+    "CAL"
+  ],
+  [
+    "differential scanning calorimetry",
+    "DSC"
+  ],
+  [
+    "thermogravimetric analysis",
+    "TGA"
+  ],
+  [
+    "differential thermal analysis",
+    "DTA"
+  ],
+  [
+    "dynamic mechanical analysis",
+    "DMA"
+  ],
+  [
+    "thermomechanical analysis",
+    "TMA"
+  ],
+  [
+    "atomic absorption spectroscopy",
+    "AAS"
+  ],
+  [
+    "inductively coupled plasma optical emission spectrometry",
+    "ICPOES"
+  ],
+  [
+    "inductively coupled plasma mass spectrometry",
+    "ICPMS"
+  ],
+  [
+    "flame photometry",
+    "FP"
+  ],
+  [
+    "colorimetry",
+    "COL"
+  ],
+  [
+    "turbidimetry",
+    "TURB"
+  ],
+  [
+    "nephelometry",
+    "NEPH"
+  ],
+  [
+    "potentiometry",
+    "POT"
+  ],
+  [
+    "voltammetry",
+    "VOLT"
+  ],
+  [
+    "coulometry",
+    "COUL"
+  ],
+  [
+    "amperometry",
+    "AMP"
+  ],
+  [
+    "conductometry",
+    "COND"
+  ],
+  [
+    "capnography",
+    "CAPNO"
+  ],
+  [
+    "pulse oximetry",
+    "POX"
+  ],
+  [
+    "photoplethysmography",
+    "PPG"
+  ],
+  [
+    "doppler ultrasonography",
+    "DUS"
+  ],
+  [
+    "duplex ultrasonography",
+    "DUP"
+  ],
+  [
+    "triplex ultrasonography",
+    "TRIP"
+  ],
+  [
+    "computed radiography",
+    "CR"
+  ],
+  [
+    "digital radiography",
+    "DR"
+  ],
+  [
+    "fluoroscopy",
+    "FLUOR"
+  ],
+  [
+    "angiography",
+    "ANGIO"
+  ],
+  [
+    "myelography",
+    "MYELO"
+  ],
+  [
+    "sialography",
+    "SIALO"
+  ],
+  [
+    "hysterosalpingography",
+    "HSG"
+  ],
+  [
+    "voiding cystourethrography",
+    "VCUG"
+  ],
+  [
+    "intravenous pyelography",
+    "IVP"
+  ],
+  [
+    "retrograde pyelography",
+    "RP"
+  ],
+  [
+    "cholangiography",
+    "CHOLANGIO"
+  ],
+  [
+    "pancreatography",
+    "PANCREATO"
+  ],
+  [
+    "esophagogastroduodenoscopy",
+    "EGD"
+  ],
+  [
+    "sigmoidoscopy",
+    "SIGMOID"
+  ],
+  [
+    "proctoscopy",
+    "PROCTO"
+  ],
+  [
+    "cystoscopy",
+    "CYSTO"
+  ],
+  [
+    "nephroscopy",
+    "NEPHRO"
+  ],
+  [
+    "laryngoscopy",
+    "LARYNGO"
+  ],
+  [
+    "otoscopy",
+    "OTO"
+  ],
+  [
+    "rhinoscopy",
+    "RHINO"
+  ],
+  [
+    "ophthalmoscopy",
+    "OPHTHALMO"
+  ],
+  [
+    "fundoscopy",
+    "FUNDO"
+  ],
+  [
+    "slit lamp examination",
+    "SLE"
+  ],
+  [
+    "tonometry",
+    "TONO"
+  ],
+  [
+    "perimetry",
+    "PERIM"
+  ],
+  [
+    "retinoscopy",
+    "RETINO"
+  ],
+  [
+    "electroretinography",
+    "ERG"
+  ],
+  [
+    "electrooculography",
+    "EOG"
+  ],
+  [
+    "visual evoked potential",
+    "VEP"
+  ],
+  [
+    "brainstem auditory evoked potential",
+    "BAEP"
+  ],
+  [
+    "somatosensory evoked potential",
+    "SSEP"
+  ],
+  [
+    "nerve conduction study",
+    "NCS"
+  ],
+  [
+    "polysomnography",
+    "PSG"
+  ],
+  [
+    "actigraphy",
+    "ACTIG"
+  ],
+  [
+    "video electroencephalography",
+    "VEEG"
+  ],
+  [
+    "magnetoencephalography",
+    "MEG"
+  ],
+  [
+    "transcranial magnetic stimulation",
+    "TMS"
+  ],
+  [
+    "functional near infrared spectroscopy",
+    "FNIRS"
+  ],
+  [
+    "dual energy x ray absorptiometry",
+    "DEXA"
+  ],
+  [
+    "quantitative computed tomography",
+    "QCT"
+  ],
+  [
+    "peripheral quantitative computed tomography",
+    "PQCT"
+  ],
+  [
+    "micro computed tomography",
+    "MCT"
+  ],
+  [
+    "nano computed tomography",
+    "NCT"
+  ],
+  [
+    "synchrotron radiation",
+    "SR"
+  ],
+  [
+    "free electron laser",
+    "FEL"
+  ],
+  [
+    "optical coherence tomography",
+    "OCT"
+  ],
+  [
+    "confocal microscopy",
+    "CM"
+  ],
+  [
+    "two photon microscopy",
+    "TPM"
+  ],
+  [
+    "super resolution microscopy",
+    "SRM"
+  ],
+  [
+    "structured illumination microscopy",
+    "SIM"
+  ],
+  [
+    "stimulated emission depletion microscopy",
+    "STED"
+  ],
+  [
+    "photoactivated localization microscopy",
+    "PALM"
+  ],
+  [
+    "stochastic optical reconstruction microscopy",
+    "STORM"
+  ],
+  [
+    "scanning tunneling microscopy",
+    "STM"
+  ],
+  [
+    "energy filtered transmission electron microscopy",
+    "EFTEM"
+  ],
+  [
+    "scanning transmission electron microscopy",
+    "STEM"
+  ],
+  [
+    "high resolution transmission electron microscopy",
+    "HRTEM"
+  ],
+  [
+    "cryo electron microscopy",
+    "CryoEM"
+  ],
+  [
+    "cryo electron tomography",
+    "CryoET"
+  ],
+  [
+    "freeze fracture",
+    "FF"
+  ],
+  [
+    "freeze etching",
+    "FE"
+  ],
+  [
+    "ultramicrotomy",
+    "UM"
+  ],
+  [
+    "thin sectioning",
+    "TS"
+  ],
+  [
+    "immunogold labeling",
+    "IGL"
+  ],
+  [
+    "fluorescence in situ hybridization",
+    "FISH"
+  ],
+  [
+    "comparative genomic hybridization",
+    "CGH"
+  ],
+  [
+    "array comparative genomic hybridization",
+    "ACGH"
+  ],
+  [
+    "multiplex ligation dependent probe amplification",
+    "MLPA"
+  ],
+  [
+    "quantitative polymerase chain reaction",
+    "QPCR"
+  ],
+  [
+    "real time polymerase chain reaction",
+    "RTPCR"
+  ],
+  [
+    "reverse transcription polymerase chain reaction",
+    "RTPCR"
+  ],
+  [
+    "digital polymerase chain reaction",
+    "DPCR"
+  ],
+  [
+    "multiplex polymerase chain reaction",
+    "MPCR"
+  ],
+  [
+    "nested polymerase chain reaction",
+    "NPCR"
+  ],
+  [
+    "asymmetric polymerase chain reaction",
+    "APCR"
+  ],
+  [
+    "inverse polymerase chain reaction",
+    "IPCR"
+  ],
+  [
+    "allele specific polymerase chain reaction",
+    "ASPCR"
+  ],
+  [
+    "restriction fragment length polymorphism",
+    "RFLP"
+  ],
+  [
+    "amplified fragment length polymorphism",
+    "AFLP"
+  ],
+  [
+    "random amplified polymorphic dna",
+    "RAPD"
+  ],
+  [
+    "variable number tandem repeat",
+    "VNTR"
+  ],
+  [
+    "short tandem repeat",
+    "STR"
+  ],
+  [
+    "single nucleotide polymorphism",
+    "SNP"
+  ],
+  [
+    "copy number variation",
+    "CNV"
+  ],
+  [
+    "insertion deletion polymorphism",
+    "INDEL"
+  ],
+  [
+    "microsatellite instability",
+    "MSI"
+  ],
+  [
+    "loss of heterozygosity",
+    "LOH"
+  ],
+  [
+    "dna microarray",
+    "DMA"
+  ],
+  [
+    "protein microarray",
+    "PMA"
+  ],
+  [
+    "tissue microarray",
+    "TMA"
+  ],
+  [
+    "antibody microarray",
+    "AMA"
+  ],
+  [
+    "chemical microarray",
+    "CMA"
+  ],
+  [
+    "lab on a chip",
+    "LOC"
+  ],
+  [
+    "micro total analysis system",
+    "MTAS"
+  ],
+  [
+    "organ on a chip",
+    "OOC"
+  ],
+  [
+    "body on a chip",
+    "BOC"
+  ],
+  [
+    "digital twin",
+    "DT"
+  ],
+  [
+    "computational fluid dynamics",
+    "CFD"
+  ],
+  [
+    "finite element analysis",
+    "FEA"
+  ],
+  [
+    "finite element method",
+    "FEM"
+  ],
+  [
+    "boundary element method",
+    "BEM"
+  ],
+  [
+    "monte carlo simulation",
+    "MC"
+  ],
+  [
+    "density functional theory",
+    "DFT"
+  ],
+  [
+    "hartree fock method",
+    "HF"
+  ],
+  [
+    "post hartree fock",
+    "PHF"
+  ],
+  [
+    "configuration interaction",
+    "CI"
+  ],
+  [
+    "coupled cluster",
+    "CC"
+  ],
+  [
+    "many body perturbation theory",
+    "MBPT"
+  ],
+  [
+    "time dependent density functional theory",
+    "TDDFT"
+  ],
+  [
+    "semiclassical dynamics",
+    "SCD"
+  ],
+  [
+    "classical molecular dynamics",
+    "CMD"
+  ],
+  [
+    "coarse grained simulation",
+    "CGS"
+  ],
+  [
+    "brownian dynamics",
+    "BD"
+  ],
+  [
+    "lattice boltzmann method",
+    "LBM"
+  ],
+  [
+    "direct simulation monte carlo",
+    "DSMC"
+  ],
+  [
+    "particle in cell",
+    "PIC"
+  ],
+  [
+    "ray tracing",
+    "RT"
+  ],
+  [
+    "geometric optics",
+    "GO"
+  ],
+  [
+    "physical optics",
+    "PO"
+  ],
+  [
+    "physical theory of diffraction",
+    "PTD"
+  ],
+  [
+    "uniform theory of diffraction",
+    "UTD"
+  ],
+  [
+    "method of moments",
+    "MOM"
+  ],
+  [
+    "finite difference time domain",
+    "FDTD"
+  ],
+  [
+    "finite integration technique",
+    "FIT"
+  ],
+  [
+    "transmission line matrix",
+    "TLM"
+  ],
+  [
+    "antenna",
+    "ANT"
+  ],
+  [
+    "electronic brake force distribution",
+    "EBD"
+  ],
+  [
+    "brake assist",
+    "BA"
+  ],
+  [
+    "electronic brake assist",
+    "EBA"
+  ],
+  [
+    "automatic emergency lane change",
+    "AELC"
+  ],
+  [
+    "cross traffic alert",
+    "CTA"
+  ],
+  [
+    "rear cross traffic alert",
+    "RCTA"
+  ],
+  [
+    "front collision warning",
+    "FCW"
+  ],
+  [
+    "rear collision warning",
+    "RCW"
+  ],
+  [
+    "lane change assist",
+    "LCA"
+  ],
+  [
+    "traffic sign recognition",
+    "TSR"
+  ],
+  [
+    "intelligent speed adaptation",
+    "ISA"
+  ],
+  [
+    "driver monitoring system",
+    "DMS"
+  ],
+  [
+    "driver drowsiness detection",
+    "DDD"
+  ],
+  [
+    "automatic high beam",
+    "AHB"
+  ],
+  [
+    "highway driving assist",
+    "HDA"
+  ],
+  [
+    "highway pilot",
+    "HP"
+  ],
+  [
+    "traffic jam assist",
+    "TJA"
+  ],
+  [
+    "parking assist system",
+    "PAS"
+  ],
+  [
+    "remote parking",
+    "RP"
+  ],
+  [
+    "surround view monitor",
+    "SVM"
+  ],
+  [
+    "rear view camera",
+    "RVC"
+  ],
+  [
+    "backup camera",
+    "BC"
+  ],
+  [
+    "digital instrument cluster",
+    "DIC"
+  ],
+  [
+    "vehicle information system",
+    "VIS"
+  ],
+  [
+    "connected vehicle",
+    "CV"
+  ],
+  [
+    "vehicle to cloud",
+    "V2C"
+  ],
+  [
+    "vehicle to grid",
+    "V2G"
+  ],
+  [
+    "vehicle to pedestrian",
+    "V2P"
+  ],
+  [
+    "over the air update",
+    "OTA"
+  ],
+  [
+    "electronic control unit",
+    "ECU"
+  ],
+  [
+    "controller area network",
+    "CAN"
+  ],
+  [
+    "local interconnect network",
+    "LIN"
+  ],
+  [
+    "automotive ethernet",
+    "AE"
+  ],
+  [
+    "autonomous driving",
+    "AD"
+  ],
+  [
+    "level 2 autonomy",
+    "L2"
+  ],
+  [
+    "level 3 autonomy",
+    "L3"
+  ],
+  [
+    "level 4 autonomy",
+    "L4"
+  ],
+  [
+    "level 5 autonomy",
+    "L5"
+  ],
+  [
+    "simultaneous localization and mapping",
+    "SLAM"
+  ],
+  [
+    "ultrasonic sensor",
+    "US"
+  ],
+  [
+    "inertial measurement unit",
+    "IMU"
+  ],
+  [
+    "global navigation satellite system",
+    "GNSS"
+  ],
+  [
+    "differential global positioning system",
+    "DGPS"
+  ],
+  [
+    "real time kinematic",
+    "RTK"
+  ],
+  [
+    "dead reckoning",
+    "DR"
+  ],
+  [
+    "wheel speed sensor",
+    "WSS"
+  ],
+  [
+    "steering angle sensor",
+    "SAS"
+  ],
+  [
+    "yaw rate sensor",
+    "YRS"
+  ],
+  [
+    "lateral acceleration sensor",
+    "LAS"
+  ],
+  [
+    "longitudinal acceleration sensor",
+    "LS"
+  ],
+  [
+    "brake pedal position sensor",
+    "BPP"
+  ],
+  [
+    "throttle position sensor",
+    "TPS"
+  ],
+  [
+    "manifold absolute pressure",
+    "MAP"
+  ],
+  [
+    "mass air flow",
+    "MAF"
+  ],
+  [
+    "intake air temperature",
+    "IAT"
+  ],
+  [
+    "coolant temperature sensor",
+    "CTS"
+  ],
+  [
+    "oxygen sensor",
+    "O2"
+  ],
+  [
+    "exhaust gas recirculation",
+    "EGR"
+  ],
+  [
+    "turbocharger",
+    "TURBO"
+  ],
+  [
+    "variable valve timing",
+    "VVT"
+  ],
+  [
+    "direct injection",
+    "DI"
+  ],
+  [
+    "gasoline direct injection",
+    "GDI"
+  ],
+  [
+    "common rail direct injection",
+    "CRDI"
+  ],
+  [
+    "manual transmission",
+    "MT"
+  ],
+  [
+    "automatic transmission",
+    "AT"
+  ],
+  [
+    "continuously variable transmission",
+    "CVT"
+  ],
+  [
+    "dual clutch transmission",
+    "DCT"
+  ],
+  [
+    "automated manual transmission",
+    "AMT"
+  ],
+  [
+    "electric power steering",
+    "EPS"
+  ],
+  [
+    "hydraulic power steering",
+    "HPS"
+  ],
+  [
+    "active suspension",
+    "AS"
+  ],
+  [
+    "magnetic ride control",
+    "MRC"
+  ],
+  [
+    "air suspension",
+    "AIR"
+  ],
+  [
+    "electronic stability program",
+    "ESP"
+  ],
+  [
+    "hill descent control",
+    "HDC"
+  ],
+  [
+    "hill start assist",
+    "HSA"
+  ],
+  [
+    "regenerative braking",
+    "RB"
+  ],
+  [
+    "blended braking",
+    "BB"
+  ],
+  [
+    "battery management system",
+    "BMS"
+  ],
+  [
+    "state of charge",
+    "SOC"
+  ],
+  [
+    "state of health",
+    "SOH"
+  ],
+  [
+    "battery energy management",
+    "BEM"
+  ],
+  [
+    "electric motor",
+    "EM"
+  ],
+  [
+    "permanent magnet synchronous motor",
+    "PMSM"
+  ],
+  [
+    "induction motor",
+    "IM"
+  ],
+  [
+    "switched reluctance motor",
+    "SRM"
+  ],
+  [
+    "inverter",
+    "INV"
+  ],
+  [
+    "dc dc converter",
+    "DCDC"
+  ],
+  [
+    "onboard charger",
+    "OBC"
+  ],
+  [
+    "charging station",
+    "CS"
+  ],
+  [
+    "charging connector",
+    "CC"
+  ],
+  [
+    "combined charging system",
+    "CCS"
+  ],
+  [
+    "chademo",
+    "CHA"
+  ],
+  [
+    "battery electric vehicle",
+    "BEV"
+  ],
+  [
+    "plug in hybrid electric vehicle",
+    "PHEV"
+  ],
+  [
+    "hybrid electric vehicle",
+    "HEV"
+  ],
+  [
+    "fuel cell electric vehicle",
+    "FCEV"
+  ],
+  [
+    "range extending generator",
+    "REG"
+  ],
+  [
+    "power electronics",
+    "PE"
+  ],
+  [
+    "airborne early warning",
+    "AEW"
+  ],
+  [
+    "airborne warning and control system",
+    "AWACS"
+  ],
+  [
+    "joint tactical information distribution system",
+    "JTIDS"
+  ],
+  [
+    "tactical digital information link",
+    "TADIL"
+  ],
+  [
+    "link 16",
+    "LINK16"
+  ],
+  [
+    "identify friend or foe",
+    "IFF"
+  ],
+  [
+    "secondary surveillance radar",
+    "SSR"
+  ],
+  [
+    "air route surveillance radar",
+    "ARSR"
+  ],
+  [
+    "airport surveillance radar",
+    "ASR"
+  ],
+  [
+    "ground controlled approach",
+    "GCA"
+  ],
+  [
+    "precision approach radar",
+    "PAR"
+  ],
+  [
+    "ground controlled interception",
+    "GCI"
+  ],
+  [
+    "combat information center",
+    "CIC"
+  ],
+  [
+    "air operations center",
+    "AOC"
+  ],
+  [
+    "tactical operations center",
+    "TOC"
+  ],
+  [
+    "command and control",
+    "C2"
+  ],
+  [
+    "communications intelligence",
+    "COMINT"
+  ],
+  [
+    "electronic intelligence",
+    "ELINT"
+  ],
+  [
+    "signals intelligence",
+    "SIGINT"
+  ],
+  [
+    "measurement and signature intelligence",
+    "MASINT"
+  ],
+  [
+    "imagery intelligence",
+    "IMINT"
+  ],
+  [
+    "open source intelligence",
+    "OSINT"
+  ],
+  [
+    "human intelligence",
+    "HUMINT"
+  ],
+  [
+    "geospatial intelligence",
+    "GEOINT"
+  ],
+  [
+    "cyber intelligence",
+    "CYBINT"
+  ],
+  [
+    "counterterrorism",
+    "CT"
+  ],
+  [
+    "counterinsurgency",
+    "COIN"
+  ],
+  [
+    "unmanned aerial vehicle",
+    "UAV"
+  ],
+  [
+    "unmanned aerial system",
+    "UAS"
+  ],
+  [
+    "remotely piloted aircraft",
+    "RPA"
+  ],
+  [
+    "unmanned combat aerial vehicle",
+    "UCAV"
+  ],
+  [
+    "loitering munition",
+    "LM"
+  ],
+  [
+    "surface to surface missile",
+    "SSM"
+  ],
+  [
+    "air to air missile",
+    "AAM"
+  ],
+  [
+    "anti tank guided missile",
+    "ATGM"
+  ],
+  [
+    "man portable air defense system",
+    "MANPADS"
+  ],
+  [
+    "surface to air missile system",
+    "SAMS"
+  ],
+  [
+    "ballistic missile defense",
+    "BMD"
+  ],
+  [
+    "theater missile defense",
+    "TMD"
+  ],
+  [
+    "strategic missile defense",
+    "SMD"
+  ],
+  [
+    "kinetic kill vehicle",
+    "KKV"
+  ],
+  [
+    "directed energy weapon",
+    "DEW"
+  ],
+  [
+    "high energy laser",
+    "HEL"
+  ],
+  [
+    "high power microwave",
+    "HPM"
+  ],
+  [
+    "electromagnetic pulse",
+    "EMP"
+  ],
+  [
+    "electronic countermeasure",
+    "ECM"
+  ],
+  [
+    "electronic counter countermeasure",
+    "ECCM"
+  ],
+  [
+    "electronic support measure",
+    "ESM"
+  ],
+  [
+    "radar warning receiver",
+    "RWR"
+  ],
+  [
+    "missile warning system",
+    "MWS"
+  ],
+  [
+    "flare dispenser",
+    "FD"
+  ],
+  [
+    "chaff dispenser",
+    "CD"
+  ],
+  [
+    "infrared countermeasure",
+    "IRCM"
+  ],
+  [
+    "directed infrared countermeasure",
+    "DIRCM"
+  ],
+  [
+    "towed decoy",
+    "TD"
+  ],
+  [
+    "expendable decoy",
+    "ED"
+  ],
+  [
+    "anti submarine helicopter",
+    "ASH"
+  ],
+  [
+    "maritime patrol aircraft",
+    "MPA"
+  ],
+  [
+    "sonobuoy",
+    "SONO"
+  ],
+  [
+    "dipping sonar",
+    "DS"
+  ],
+  [
+    "hull mounted sonar",
+    "HMS"
+  ],
+  [
+    "towed array sonar",
+    "TAS"
+  ],
+  [
+    "variable depth sonar",
+    "VDS"
+  ],
+  [
+    "torpedo",
+    "TORP"
+  ],
+  [
+    "lightweight torpedo",
+    "LWT"
+  ],
+  [
+    "heavyweight torpedo",
+    "HWT"
+  ],
+  [
+    "mine countermeasure",
+    "MCM"
+  ],
+  [
+    "mine hunting",
+    "MH"
+  ],
+  [
+    "mine sweeping",
+    "MSW"
+  ],
+  [
+    "unmanned underwater vehicle",
+    "UUV"
+  ],
+  [
+    "remotely operated vehicle",
+    "ROV"
+  ],
+  [
+    "autonomous underwater vehicle",
+    "AUV"
+  ],
+  [
+    "satellite communication",
+    "SATCOM"
+  ],
+  [
+    "beyond line of sight",
+    "BLOS"
+  ],
+  [
+    "ground to orbit",
+    "GTO"
+  ],
+  [
+    "low earth orbit",
+    "LEO"
+  ],
+  [
+    "medium earth orbit",
+    "MEO"
+  ],
+  [
+    "geostationary earth orbit",
+    "GEO"
+  ],
+  [
+    "highly elliptical orbit",
+    "HEO"
+  ],
+  [
+    "payload fairing",
+    "PF"
+  ],
+  [
+    "launch vehicle",
+    "LV"
+  ],
+  [
+    "liquid rocket engine",
+    "LRE"
+  ],
+  [
+    "hybrid rocket engine",
+    "HRE"
+  ],
+  [
+    "attitude control system",
+    "ACS"
+  ],
+  [
+    "reaction wheel",
+    "RW"
+  ],
+  [
+    "momentum wheel",
+    "MW"
+  ],
+  [
+    "control moment gyro",
+    "CMG"
+  ],
+  [
+    "thruster",
+    "THR"
+  ],
+  [
+    "bipropellant thruster",
+    "BT"
+  ],
+  [
+    "monopropellant thruster",
+    "MT"
+  ],
+  [
+    "electric propulsion",
+    "EP"
+  ],
+  [
+    "ion thruster",
+    "IT"
+  ],
+  [
+    "hall effect thruster",
+    "HET"
+  ],
+  [
+    "pulsed plasma thruster",
+    "PPT"
+  ],
+  [
+    "solar electric propulsion",
+    "SEP"
+  ],
+  [
+    "gravity assist",
+    "GA"
+  ],
+  [
+    "hohmann transfer",
+    "HT"
+  ],
+  [
+    "fourth generation",
+    "4G"
+  ],
+  [
+    "third generation",
+    "3G"
+  ],
+  [
+    "second generation",
+    "2G"
+  ],
+  [
+    "first generation",
+    "1G"
+  ],
+  [
+    "new radio",
+    "NR"
+  ],
+  [
+    "lte advanced",
+    "LTEA"
+  ],
+  [
+    "lte advanced pro",
+    "LTEAP"
+  ],
+  [
+    "multiple input multiple output",
+    "MIMO"
+  ],
+  [
+    "massive multiple input multiple output",
+    "MMIMO"
+  ],
+  [
+    "beamforming",
+    "BF"
+  ],
+  [
+    "coordinated multipoint",
+    "COMP"
+  ],
+  [
+    "inter cell interference coordination",
+    "ICIC"
+  ],
+  [
+    "enhanced inter cell interference coordination",
+    "EICIC"
+  ],
+  [
+    "self organizing network",
+    "SON"
+  ],
+  [
+    "network function virtualization",
+    "NFV"
+  ],
+  [
+    "cloud ran",
+    "CRAN"
+  ],
+  [
+    "fog computing",
+    "FC"
+  ],
+  [
+    "mobile edge computing",
+    "MEC"
+  ],
+  [
+    "multimedia messaging service",
+    "MMS"
+  ],
+  [
+    "rich communication service",
+    "RCS"
+  ],
+  [
+    "visual voicemail",
+    "VVM"
+  ],
+  [
+    "ip multimedia subsystem",
+    "IMS"
+  ],
+  [
+    "voice over lte",
+    "VOLTE"
+  ],
+  [
+    "voice over wifi",
+    "VOWIFI"
+  ],
+  [
+    "enhanced voice services",
+    "EVS"
+  ],
+  [
+    "audio video bridging",
+    "AVB"
+  ],
+  [
+    "time sensitive networking",
+    "TSN"
+  ],
+  [
+    "general packet radio service",
+    "GPRS"
+  ],
+  [
+    "enhanced data rates for gsm evolution",
+    "EDGE"
+  ],
+  [
+    "universal mobile telecommunications system",
+    "UMTS"
+  ],
+  [
+    "high speed packet access",
+    "HSPA"
+  ],
+  [
+    "high speed downlink packet access",
+    "HSDPA"
+  ],
+  [
+    "high speed uplink packet access",
+    "HSUPA"
+  ],
+  [
+    "evolved high speed packet access",
+    "HSPA+"
+  ],
+  [
+    "evolved packet system",
+    "EPS"
+  ],
+  [
+    "packet data convergence protocol",
+    "PDCP"
+  ],
+  [
+    "radio link control",
+    "RLC"
+  ],
+  [
+    "physical channel",
+    "PCH"
+  ],
+  [
+    "transport channel",
+    "TCH"
+  ],
+  [
+    "logical channel",
+    "LCH"
+  ],
+  [
+    "broadcast channel",
+    "BCH"
+  ],
+  [
+    "random access channel",
+    "RACH"
+  ],
+  [
+    "dedicated channel",
+    "DCH"
+  ],
+  [
+    "forward access channel",
+    "FACH"
+  ],
+  [
+    "downlink shared channel",
+    "DSCH"
+  ],
+  [
+    "uplink shared channel",
+    "USCH"
+  ],
+  [
+    "balanced scorecard",
+    "BSC"
+  ],
+  [
+    "swot analysis",
+    "SWOT"
+  ],
+  [
+    "pest analysis",
+    "PEST"
+  ],
+  [
+    "porter five forces",
+    "PF"
+  ],
+  [
+    "value chain analysis",
+    "VCA"
+  ],
+  [
+    "lean startup",
+    "LS"
+  ],
+  [
+    "minimum viable product",
+    "MVP"
+  ],
+  [
+    "product market fit",
+    "PMF"
+  ],
+  [
+    "total addressable market",
+    "TAM"
+  ],
+  [
+    "serviceable addressable market",
+    "SAM"
+  ],
+  [
+    "serviceable obtainable market",
+    "SOM"
+  ],
+  [
+    "customer acquisition cost",
+    "CAC"
+  ],
+  [
+    "lifetime value",
+    "LTV"
+  ],
+  [
+    "churn rate",
+    "CR"
+  ],
+  [
+    "net promoter score",
+    "NPS"
+  ],
+  [
+    "customer satisfaction",
+    "CSAT"
+  ],
+  [
+    "first call resolution",
+    "FCR"
+  ],
+  [
+    "average handling time",
+    "AHT"
+  ],
+  [
+    "mean time to resolution",
+    "MTTR"
+  ],
+  [
+    "mean time between failures",
+    "MTBF"
+  ],
+  [
+    "service level agreement",
+    "SLA"
+  ],
+  [
+    "operating level agreement",
+    "OLA"
+  ],
+  [
+    "underpinning contract",
+    "UC"
+  ],
+  [
+    "information technology infrastructure library",
+    "ITIL"
+  ],
+  [
+    "control objectives for information",
+    "COBIT"
+  ],
+  [
+    "international organization for standardization",
+    "ISO"
+  ],
+  [
+    "change management",
+    "CM"
+  ],
+  [
+    "incident management",
+    "IM"
+  ],
+  [
+    "problem management",
+    "PM"
+  ],
+  [
+    "release management",
+    "RM"
+  ],
+  [
+    "capacity management",
+    "CAPM"
+  ],
+  [
+    "availability management",
+    "AM"
+  ],
+  [
+    "IT service management",
+    "ITSM"
+  ],
+  [
+    "business continuity planning",
+    "BCP"
+  ],
+  [
+    "disaster recovery",
+    "DR"
+  ],
+  [
+    "recovery time objective",
+    "RTO"
+  ],
+  [
+    "recovery point objective",
+    "RPO"
+  ],
+  [
+    "risk assessment",
+    "RA"
+  ],
+  [
+    "business impact analysis",
+    "BIA"
+  ],
+  [
+    "compliance",
+    "COMP"
+  ],
+  [
+    "governance risk and compliance",
+    "GRC"
+  ],
+  [
+    "audit",
+    "AUD"
+  ],
+  [
+    "external audit",
+    "EA"
+  ],
+  [
+    "financial audit",
+    "FA"
+  ],
+  [
+    "operational audit",
+    "OA"
+  ],
+  [
+    "IT audit",
+    "ITA"
+  ],
+  [
+    "security audit",
+    "SA"
+  ],
+  [
+    "data governance",
+    "DG"
+  ],
+  [
+    "data quality",
+    "DQ"
+  ],
+  [
+    "data lifecycle management",
+    "DLM"
+  ],
+  [
+    "business architecture",
+    "BA"
+  ],
+  [
+    "information architecture",
+    "IA3"
+  ],
+  [
+    "technical architecture",
+    "TA"
+  ],
+  [
+    "data architecture",
+    "DA"
+  ],
+  [
+    "application architecture",
+    "AA"
+  ],
+  [
+    "infrastructure architecture",
+    "IA4"
+  ],
+  [
+    "cloud architecture",
+    "CA3"
+  ],
+  [
+    "security architecture",
+    "SECARCH"
+  ],
+  [
+    "network architecture",
+    "NA"
+  ],
+  [
+    "systems engineering",
+    "SE"
+  ],
+  [
+    "requirements engineering",
+    "RE"
+  ],
+  [
+    "systems analysis",
+    "SA3"
+  ],
+  [
+    "systems design",
+    "SD"
+  ],
+  [
+    "object oriented analysis",
+    "OOA"
+  ],
+  [
+    "object oriented design",
+    "OOD"
+  ],
+  [
+    "structured analysis",
+    "SANA"
+  ],
+  [
+    "learning management system",
+    "LMS"
+  ],
+  [
+    "massive open online course",
+    "MOOC"
+  ],
+  [
+    "student information system",
+    "SIS"
+  ],
+  [
+    "academic performance index",
+    "API"
+  ],
+  [
+    "grade point average",
+    "GPA"
+  ],
+  [
+    "standardized admission test",
+    "SAT"
+  ],
+  [
+    "graduate record examination",
+    "GRE"
+  ],
+  [
+    "graduate management admission test",
+    "GMAT"
+  ],
+  [
+    "test of english as a foreign language",
+    "TOEFL"
+  ],
+  [
+    "international english language testing system",
+    "IELTS"
+  ],
+  [
+    "research methodology",
+    "RM3"
+  ],
+  [
+    "doctor of philosophy",
+    "PHD"
+  ],
+  [
+    "master of science",
+    "MS"
+  ],
+  [
+    "master of business administration",
+    "MBA"
+  ],
+  [
+    "bachelor of science",
+    "BS"
+  ],
+  [
+    "bachelor of arts",
+    "BA"
+  ],
+  [
+    "associate degree",
+    "AD"
+  ],
+  [
+    "continuing education",
+    "CE"
+  ],
+  [
+    "professional development",
+    "PD"
+  ],
+  [
+    "instructional design",
+    "ID"
+  ],
+  [
+    "blended learning",
+    "BL"
+  ],
+  [
+    "gamification",
+    "GAME"
+  ],
+  [
+    "competency based education",
+    "CBE"
+  ],
+  [
+    "outcome based education",
+    "OBE"
+  ],
+  [
+    "problem based learning",
+    "PBL"
+  ],
+  [
+    "project based learning",
+    "PjBL"
+  ],
+  [
+    "inquiry based learning",
+    "IBL"
+  ],
+  [
+    "cooperative learning",
+    "CL"
+  ],
+  [
+    "collaborative learning",
+    "COLL"
+  ],
+  [
+    "experiential learning",
+    "EL"
+  ],
+  [
+    "self directed learning",
+    "SDL"
+  ],
+  [
+    "adaptive learning",
+    "AL"
+  ],
+  [
+    "personalized learning",
+    "PL"
+  ],
+  [
+    "differentiated instruction",
+    "DI"
+  ],
+  [
+    "universal design for learning",
+    "UDL"
+  ],
+  [
+    "special education",
+    "SE3"
+  ],
+  [
+    "individualized education program",
+    "IEP"
+  ],
+  [
+    "english language learner",
+    "ELL"
+  ],
+  [
+    "science technology engineering and mathematics",
+    "STEM"
+  ],
+  [
+    "computer assisted instruction",
+    "CAI"
+  ],
+  [
+    "intelligent tutoring system",
+    "ITS"
+  ],
+  [
+    "summative assessment",
+    "SA4"
+  ],
+  [
+    "rubric",
+    "RUB"
+  ],
+  [
+    "portfolio assessment",
+    "PA"
+  ],
+  [
+    "peer assessment",
+    "PEER"
+  ],
+  [
+    "self assessment",
+    "SA5"
+  ],
+  [
+    "norm referenced test",
+    "NRT"
+  ],
+  [
+    "criterion referenced test",
+    "CRT"
+  ],
+  [
+    "item response theory",
+    "IRT"
+  ],
+  [
+    "classical test theory",
+    "CTT"
+  ],
+  [
+    "generalizability theory",
+    "GT"
+  ],
+  [
+    "general data protection regulation",
+    "GDPR"
+  ],
+  [
+    "california consumer privacy act",
+    "CCPA"
+  ],
+  [
+    "health insurance portability and accountability act",
+    "HIPAA"
+  ],
+  [
+    "payment card industry data security standard",
+    "PCIDSS"
+  ],
+  [
+    "sarbanes oxley act",
+    "SOX"
+  ],
+  [
+    "dodd frank wall street reform",
+    "DF"
+  ],
+  [
+    "basel iii",
+    "B3"
+  ],
+  [
+    "international organization for standardization 27001",
+    "ISO27"
+  ],
+  [
+    "national institute of standards and technology cybersecurity framework",
+    "NISTCSF"
+  ],
+  [
+    "information security management system",
+    "ISMS"
+  ],
+  [
+    "business associate agreement",
+    "BAA"
+  ],
+  [
+    "data processing agreement",
+    "DPA"
+  ],
+  [
+    "data protection officer",
+    "DPO"
+  ],
+  [
+    "privacy impact assessment",
+    "PIA"
+  ],
+  [
+    "freedom of information act",
+    "FOIA"
+  ],
+  [
+    "electronic communications privacy act",
+    "ECPA"
+  ],
+  [
+    "computer fraud and abuse act",
+    "CFAA"
+  ],
+  [
+    "digital millennium copyright act",
+    "DMCA"
+  ],
+  [
+    "fair credit reporting act",
+    "FCRA"
+  ],
+  [
+    "fair debt collection practices act",
+    "FDCPA"
+  ],
+  [
+    "telephone consumer protection act",
+    "TCPA"
+  ],
+  [
+    "can spam act",
+    "CANSPAM"
+  ],
+  [
+    "children online privacy protection act",
+    "COPPA"
+  ],
+  [
+    "gramm leach bliley act",
+    "GLBA"
+  ],
+  [
+    "family educational rights and privacy act",
+    "FERPA"
+  ],
+  [
+    "health information technology for economic and clinical health act",
+    "HITECH"
+  ],
+  [
+    "american recovery and reinvestment act",
+    "ARRA"
+  ],
+  [
+    "government paper elimination act",
+    "GPEA"
+  ],
+  [
+    "e sign act",
+    "ESIGN"
+  ],
+  [
+    "uniform electronic transactions act",
+    "UETA"
+  ],
+  [
+    "international electrotechnical commission",
+    "IEC"
+  ],
+  [
+    "underwriters laboratories",
+    "UL"
+  ],
+  [
+    "conformite europeenne",
+    "CE"
+  ],
+  [
+    "federal trade commission",
+    "FTC"
+  ],
+  [
+    "commodity futures trading commission",
+    "CFTC"
+  ],
+  [
+    "financial industry regulatory authority",
+    "FINRA"
+  ],
+  [
+    "office of the comptroller of the currency",
+    "OCC"
+  ],
+  [
+    "federal deposit insurance corporation",
+    "FDIC"
+  ],
+  [
+    "consumer financial protection bureau",
+    "CFPB"
+  ],
+  [
+    "equal employment opportunity commission",
+    "EEOC"
+  ],
+  [
+    "nuclear regulatory commission",
+    "NRC"
+  ],
+  [
+    "food safety and inspection service",
+    "FSIS"
+  ],
+  [
+    "centers for disease control and prevention",
+    "CDC"
+  ],
+  [
+    "national institutes of health",
+    "NIH"
+  ],
+  [
+    "world trade organization",
+    "WTO"
+  ],
+  [
+    "international monetary fund",
+    "IMF"
+  ],
+  [
+    "world bank",
+    "WB"
+  ],
+  [
+    "bank for international settlements",
+    "BIS"
+  ],
+  [
+    "financial action task force",
+    "FATF"
+  ],
+  [
+    "international accounting standards board",
+    "IASB"
+  ],
+  [
+    "financial stability board",
+    "FSB"
+  ],
+  [
+    "global system for mobile communications association",
+    "GSMA"
+  ],
+  [
+    "internet engineering task force",
+    "IETF"
+  ],
+  [
+    "world wide web consortium",
+    "W3C"
+  ],
+  [
+    "rutherford backscattering spectrometry",
+    "RBS"
+  ],
+  [
+    "nuclear reaction analysis",
+    "NRA"
+  ],
+  [
+    "elastic recoil detection analysis",
+    "ERDA"
+  ],
+  [
+    "glancing angle x ray diffraction",
+    "GAXRD"
+  ],
+  [
+    "x ray reflectivity",
+    "XRR"
+  ],
+  [
+    "neutron reflectivity",
+    "NR"
+  ],
+  [
+    "atomic emission spectroscopy",
+    "AES3"
+  ],
+  [
+    "near infrared spectroscopy",
+    "NIR"
+  ],
+  [
+    "mid infrared spectroscopy",
+    "MIR"
+  ],
+  [
+    "phosphorescence spectroscopy",
+    "PS"
+  ],
+  [
+    "luminescence spectroscopy",
+    "LS"
+  ],
+  [
+    "chemiluminescence",
+    "CL"
+  ],
+  [
+    "electrochemiluminescence",
+    "ECL"
+  ],
+  [
+    "photoacoustic spectroscopy",
+    "PAS"
+  ],
+  [
+    "photothermal spectroscopy",
+    "PTS"
+  ],
+  [
+    "optical emission spectroscopy",
+    "OES"
+  ],
+  [
+    "laser induced breakdown spectroscopy",
+    "LIBS"
+  ],
+  [
+    "laser induced fluorescence",
+    "LIF"
+  ],
+  [
+    "resonance enhanced multiphoton ionization",
+    "REMPI"
+  ],
+  [
+    "multiphoton ionization",
+    "MPI"
+  ],
+  [
+    "zero photoelectron spectroscopy",
+    "ZPES"
+  ],
+  [
+    "angle resolved photoemission spectroscopy",
+    "ARPES"
+  ],
+  [
+    "spin resolved photoemission spectroscopy",
+    "SRPES"
+  ],
+  [
+    "inverse photoemission spectroscopy",
+    "IPES"
+  ],
+  [
+    "scanningAuger microscopy",
+    "SAM"
+  ],
+  [
+    "scanning probe microscopy",
+    "SPM"
+  ],
+  [
+    "scanning near field optical microscopy",
+    "SNOM"
+  ],
+  [
+    "magnetic force microscopy",
+    "MFM"
+  ],
+  [
+    "electrostatic force microscopy",
+    "EFM"
+  ],
+  [
+    "scanning capacitance microscopy",
+    "SCM"
+  ],
+  [
+    "scanning spreading resistance microscopy",
+    "SSRM"
+  ],
+  [
+    "ballistic electron emission microscopy",
+    "BEEM"
+  ],
+  [
+    "electron beam induced current",
+    "EBIC"
+  ],
+  [
+    "electron energy loss spectroscopy",
+    "EELS"
+  ],
+  [
+    "particle induced x ray emission",
+    "PIXE"
+  ],
+  [
+    "proton induced gamma ray emission",
+    "PIGE"
+  ],
+  [
+    "radio frequency sputtering",
+    "RFS"
+  ],
+  [
+    "direct current sputtering",
+    "DCS"
+  ],
+  [
+    "magnetron sputtering",
+    "MS"
+  ],
+  [
+    "ion beam sputtering",
+    "IBS"
+  ],
+  [
+    "pulsed laser deposition",
+    "PLD"
+  ],
+  [
+    "metal organic chemical vapor deposition",
+    "MOCVD"
+  ],
+  [
+    "plasma enhanced chemical vapor deposition",
+    "PECVD"
+  ],
+  [
+    "low pressure chemical vapor deposition",
+    "LPCVD"
+  ],
+  [
+    "atmospheric pressure chemical vapor deposition",
+    "APCVD"
+  ],
+  [
+    "chemical mechanical planarization",
+    "CMP"
+  ],
+  [
+    "thermal oxidation",
+    "TO"
+  ],
+  [
+    "wet oxidation",
+    "WO"
+  ],
+  [
+    "dry oxidation",
+    "DO"
+  ],
+  [
+    "ion implantation",
+    "II"
+  ],
+  [
+    "plasma immersion ion implantation",
+    "PI3"
+  ],
+  [
+    "diffusion",
+    "DIFF"
+  ],
+  [
+    "annealing",
+    "ANN"
+  ],
+  [
+    "rapid thermal annealing",
+    "RTA"
+  ],
+  [
+    "spike annealing",
+    "SA6"
+  ],
+  [
+    "laser annealing",
+    "LA"
+  ],
+  [
+    "flash annealing",
+    "FA3"
+  ],
+  [
+    "furnace annealing",
+    "FURN"
+  ],
+  [
+    "diffusion weighted imaging",
+    "DWI"
+  ],
+  [
+    "perfusion weighted imaging",
+    "PWI"
+  ],
+  [
+    "magnetic resonance spectroscopy",
+    "MRS"
+  ],
+  [
+    "arterial spin labeling",
+    "ASL"
+  ],
+  [
+    "blood oxygen level dependent",
+    "BOLD"
+  ],
+  [
+    "transcranial direct current stimulation",
+    "TDCS"
+  ],
+  [
+    "repetitive transcranial magnetic stimulation",
+    "RTMS"
+  ],
+  [
+    "deep brain stimulation",
+    "DBS"
+  ],
+  [
+    "vagus nerve stimulation",
+    "VNS"
+  ],
+  [
+    "electroconvulsive therapy",
+    "ECT"
+  ],
+  [
+    "transcranial focused ultrasound",
+    "TFUS"
+  ],
+  [
+    "neurofeedback",
+    "NF"
+  ],
+  [
+    "brain computer interface",
+    "BCI"
+  ],
+  [
+    "neural interface",
+    "NI"
+  ],
+  [
+    "cognitive behavioral therapy",
+    "CBT"
+  ],
+  [
+    "dialectical behavior therapy",
+    "DBT"
+  ],
+  [
+    "acceptance and commitment therapy",
+    "ACT"
+  ],
+  [
+    "eye movement desensitization and reprocessing",
+    "EMDR"
+  ],
+  [
+    "positive psychology",
+    "PP"
+  ],
+  [
+    "developmental psychology",
+    "DP"
+  ],
+  [
+    "social psychology",
+    "SP2"
+  ],
+  [
+    "cognitive psychology",
+    "CP"
+  ],
+  [
+    "clinical psychology",
+    "CLP"
+  ],
+  [
+    "industrial organizational psychology",
+    "IOP"
+  ],
+  [
+    "psychophysiology",
+    "PSYCH"
+  ],
+  [
+    "affective computing",
+    "AC2"
+  ],
+  [
+    "emotion recognition",
+    "ER"
+  ],
+  [
+    "facial action coding system",
+    "FACS"
+  ],
+  [
+    "galvanic skin response",
+    "GSR"
+  ],
+  [
+    "electrodermal activity",
+    "EDA"
+  ],
+  [
+    "heart rate variability",
+    "HRV"
+  ],
+  [
+    "respiratory sinus arrhythmia",
+    "RSA"
+  ],
+  [
+    "pupillometry",
+    "PUPIL"
+  ],
+  [
+    "eye tracking",
+    "ET"
+  ],
+  [
+    "fixation",
+    "FIX"
+  ],
+  [
+    "saccade",
+    "SACC"
+  ],
+  [
+    "smooth pursuit",
+    "SP3"
+  ],
+  [
+    "visual search",
+    "VS"
+  ],
+  [
+    "change blindness",
+    "CB"
+  ],
+  [
+    "inattentional blindness",
+    "IB"
+  ],
+  [
+    "priming",
+    "PRIM"
+  ],
+  [
+    "stroop effect",
+    "SE"
+  ],
+  [
+    "flanker task",
+    "FT"
+  ],
+  [
+    "go no go task",
+    "GNG"
+  ],
+  [
+    "stop signal task",
+    "SST"
+  ],
+  [
+    "n back task",
+    "NB"
+  ],
+  [
+    "wisconsin card sorting test",
+    "WCST"
+  ],
+  [
+    "stroop color word test",
+    "SCWT"
+  ],
+  [
+    "trail making test",
+    "TMT"
+  ],
+  [
+    "digit span test",
+    "DST"
+  ],
+  [
+    "rey auditory verbal learning test",
+    "RAVLT"
+  ],
+  [
+    "benton visual retention test",
+    "BVRT"
+  ],
+  [
+    "boston naming test",
+    "BNT"
+  ],
+  [
+    "mini mental state examination",
+    "MMSE"
+  ],
+  [
+    "montreal cognitive assessment",
+    "MOCA"
+  ],
+  [
+    "wechsler adult intelligence scale",
+    "WAIS"
+  ],
+  [
+    "wechsler memory scale",
+    "WMS"
+  ],
+  [
+    "neuropsychological assessment",
+    "NPA"
+  ],
+  [
+    "carbon dioxide equivalent",
+    "CO2E"
+  ],
+  [
+    "greenhouse gas",
+    "GHG"
+  ],
+  [
+    "global warming potential",
+    "GWP"
+  ],
+  [
+    "life cycle assessment",
+    "LCA"
+  ],
+  [
+    "life cycle inventory",
+    "LCI"
+  ],
+  [
+    "environmental impact assessment",
+    "EIA"
+  ],
+  [
+    "environmental product declaration",
+    "EPD"
+  ],
+  [
+    "material safety data sheet",
+    "MSDS"
+  ],
+  [
+    "safety data sheet",
+    "SDS"
+  ],
+  [
+    "occupational exposure limit",
+    "OEL"
+  ],
+  [
+    "permissible exposure limit",
+    "PEL"
+  ],
+  [
+    "threshold limit value",
+    "TLV"
+  ],
+  [
+    "short term exposure limit",
+    "STEL"
+  ],
+  [
+    "time weighted average",
+    "TWA"
+  ],
+  [
+    "biological exposure index",
+    "BEI"
+  ],
+  [
+    "maximum contaminant level",
+    "MCL"
+  ],
+  [
+    "total suspended solids",
+    "TSS"
+  ],
+  [
+    "biochemical oxygen demand",
+    "BOD"
+  ],
+  [
+    "chemical oxygen demand",
+    "COD"
+  ],
+  [
+    "dissolved oxygen",
+    "DO"
+  ],
+  [
+    "total organic carbon",
+    "TOC"
+  ],
+  [
+    "volatile organic compound",
+    "VOC"
+  ],
+  [
+    "semi volatile organic compound",
+    "SVOC"
+  ],
+  [
+    "polycyclic aromatic hydrocarbon",
+    "PAH"
+  ],
+  [
+    "persistent organic pollutant",
+    "POP"
+  ],
+  [
+    "heavy metal",
+    "HM"
+  ],
+  [
+    "total petroleum hydrocarbon",
+    "TPH"
+  ],
+  [
+    "groundwater",
+    "GW"
+  ],
+  [
+    "surface water",
+    "SW"
+  ],
+  [
+    "stormwater",
+    "STW"
+  ],
+  [
+    "wastewater",
+    "WW"
+  ],
+  [
+    "leachate",
+    "LEACH"
+  ],
+  [
+    "effluent",
+    "EFF"
+  ],
+  [
+    "influent",
+    "INFL"
+  ],
+  [
+    "recharge",
+    "RC"
+  ],
+  [
+    "aquifer",
+    "AQ"
+  ],
+  [
+    "confined aquifer",
+    "CAQ"
+  ],
+  [
+    "unconfined aquifer",
+    "UAQ"
+  ],
+  [
+    "water table",
+    "WT"
+  ],
+  [
+    "hydraulic conductivity",
+    "HC"
+  ],
+  [
+    "saturated hydraulic conductivity",
+    "SHC"
+  ],
+  [
+    "unsaturated zone",
+    "UZ"
+  ],
+  [
+    "vadose zone",
+    "VZ"
+  ],
+  [
+    "capillary fringe",
+    "CF"
+  ],
+  [
+    "biodegradation",
+    "BIODEG"
+  ],
+  [
+    "bioremediation",
+    "BIOREM"
+  ],
+  [
+    "phytoremediation",
+    "PHYTO"
+  ],
+  [
+    "soil vapor extraction",
+    "SVE"
+  ],
+  [
+    "pump and treat",
+    "PAT"
+  ],
+  [
+    "permeable reactive barrier",
+    "PRB"
+  ],
+  [
+    "solidification",
+    "SOL"
+  ],
+  [
+    "stabilization",
+    "STAB"
+  ],
+  [
+    "encapsulation",
+    "ENCAP"
+  ],
+  [
+    "thermal treatment",
+    "TT"
+  ],
+  [
+    "incineration",
+    "INC"
+  ],
+  [
+    "gasification",
+    "GAS"
+  ],
+  [
+    "pyrolysis",
+    "PYR"
+  ],
+  [
+    "plasma gasification",
+    "PG"
+  ],
+  [
+    "anaerobic digestion",
+    "AD"
+  ],
+  [
+    "vermicomposting",
+    "VERM"
+  ],
+  [
+    "landfill",
+    "LF"
+  ],
+  [
+    "sanitary landfill",
+    "SLF"
+  ],
+  [
+    "engineered landfill",
+    "ELF"
+  ],
+  [
+    "landfill gas",
+    "LFG"
+  ],
+  [
+    "methane capture",
+    "MC"
+  ],
+  [
+    "carbon capture and storage",
+    "CCS"
+  ],
+  [
+    "carbon capture and utilization",
+    "CCU"
+  ],
+  [
+    "direct air capture",
+    "DAC"
+  ],
+  [
+    "carbon sequestration",
+    "CS"
+  ],
+  [
+    "reforestation",
+    "REF"
+  ],
+  [
+    "afforestation",
+    "AFF"
+  ],
+  [
+    "deforestation",
+    "DEF"
+  ],
+  [
+    "renewable energy",
+    "RE"
+  ],
+  [
+    "solar photovoltaic",
+    "SPV"
+  ],
+  [
+    "concentrated solar power",
+    "CSP"
+  ],
+  [
+    "wind turbine",
+    "WT"
+  ],
+  [
+    "biomass",
+    "BIO"
+  ],
+  [
+    "geothermal",
+    "GEO"
+  ],
+  [
+    "hydropower",
+    "HYDRO"
+  ],
+  [
+    "tidal energy",
+    "TE"
+  ],
+  [
+    "wave energy",
+    "WE"
+  ],
+  [
+    "ocean thermal energy conversion",
+    "OTEC"
+  ],
+  [
+    "fuel cell",
+    "FC3"
+  ],
+  [
+    "hydrogen economy",
+    "HE"
+  ],
+  [
+    "green hydrogen",
+    "GH"
+  ],
+  [
+    "blue hydrogen",
+    "BH"
+  ],
+  [
+    "grey hydrogen",
+    "GRH"
+  ],
+  [
+    "electrolyzer",
+    "ELEC"
+  ],
+  [
+    "battery storage",
+    "BS"
+  ],
+  [
+    "pumped hydro storage",
+    "PHS"
+  ],
+  [
+    "compressed air energy storage",
+    "CAES"
+  ],
+  [
+    "flywheel energy storage",
+    "FES"
+  ],
+  [
+    "supercapacitor",
+    "SC3"
+  ],
+  [
+    "smart grid",
+    "SG"
+  ],
+  [
+    "microgrid",
+    "MG"
+  ],
+  [
+    "distributed generation",
+    "DG"
+  ],
+  [
+    "net metering",
+    "NM"
+  ],
+  [
+    "feed in tariff",
+    "FIT"
+  ],
+  [
+    "renewable portfolio standard",
+    "RPS"
+  ],
+  [
+    "carbon tax",
+    "CTAX"
+  ],
+  [
+    "cap and trade",
+    "CAT"
+  ],
+  [
+    "emissions trading system",
+    "ETS"
+  ],
+  [
+    "carbon credit",
+    "CC3"
+  ],
+  [
+    "climate change",
+    "CC4"
+  ],
+  [
+    "global climate model",
+    "GCM"
+  ],
+  [
+    "earth system model",
+    "ESM"
+  ],
+  [
+    "integrated assessment model",
+    "IAM"
+  ],
+  [
+    "social cost of carbon",
+    "SCC"
+  ],
+  [
+    "abstract syntax tree",
+    "AST"
+  ],
+  [
+    "binary search tree",
+    "BST"
+  ],
+  [
+    "red black tree",
+    "RBT"
+  ],
+  [
+    "b tree",
+    "BT"
+  ],
+  [
+    "hash map",
+    "HM"
+  ],
+  [
+    "hash table",
+    "HT"
+  ],
+  [
+    "linked list",
+    "LL"
+  ],
+  [
+    "stack",
+    "STK"
+  ],
+  [
+    "queue",
+    "Q"
+  ],
+  [
+    "priority queue",
+    "PQ"
+  ],
+  [
+    "depth first search",
+    "DFS"
+  ],
+  [
+    "breadth first search",
+    "BFS"
+  ],
+  [
+    "dynamic programming",
+    "DP"
+  ],
+  [
+    "greedy algorithm",
+    "GA"
+  ],
+  [
+    "divide and conquer",
+    "DAC"
+  ],
+  [
+    "backtracking",
+    "BT2"
+  ],
+  [
+    "branch and bound",
+    "BnB"
+  ],
+  [
+    "a star",
+    "ASTAR"
+  ],
+  [
+    "dijkstra algorithm",
+    "DA"
+  ],
+  [
+    "bellman ford algorithm",
+    "BFA"
+  ],
+  [
+    "floyd warshall algorithm",
+    "FWA"
+  ],
+  [
+    "kruskal algorithm",
+    "KA"
+  ],
+  [
+    "prim algorithm",
+    "PA"
+  ],
+  [
+    " quick sort",
+    "QS"
+  ],
+  [
+    "merge sort",
+    "MS"
+  ],
+  [
+    "heap sort",
+    "HS"
+  ],
+  [
+    "bubble sort",
+    "BS"
+  ],
+  [
+    "insertion sort",
+    "IS"
+  ],
+  [
+    "selection sort",
+    "SS"
+  ],
+  [
+    "radix sort",
+    "RS"
+  ],
+  [
+    "counting sort",
+    "CS"
+  ],
+  [
+    "bucket sort",
+    "BUCK"
+  ],
+  [
+    "topological sort",
+    "TS"
+  ],
+  [
+    "binary indexed tree",
+    "BIT"
+  ],
+  [
+    "segment tree",
+    "ST"
+  ],
+  [
+    "fenwick tree",
+    "FT"
+  ],
+  [
+    "union find",
+    "UF"
+  ],
+  [
+    "disjoint set",
+    "DS"
+  ],
+  [
+    "trie",
+    "TRIE"
+  ],
+  [
+    "suffix tree",
+    "SUT"
+  ],
+  [
+    "prefix tree",
+    "PT"
+  ],
+  [
+    "bloom filter",
+    "BF"
+  ],
+  [
+    "cuckoo filter",
+    "CF"
+  ],
+  [
+    "hyperloglog",
+    "HLL"
+  ],
+  [
+    "count min sketch",
+    "CMS"
+  ],
+  [
+    "skip list",
+    "SL"
+  ],
+  [
+    "rope",
+    "ROPE"
+  ],
+  [
+    "persistent data structure",
+    "PDS"
+  ],
+  [
+    "immutable data structure",
+    "IDS"
+  ],
+  [
+    "lazy evaluation",
+    "LE"
+  ],
+  [
+    "strict evaluation",
+    "SE"
+  ],
+  [
+    "tail call optimization",
+    "TCO"
+  ],
+  [
+    "continuation passing style",
+    "CPS"
+  ],
+  [
+    "monad",
+    "MON"
+  ],
+  [
+    "functor",
+    "FUN"
+  ],
+  [
+    "applicative",
+    "APP"
+  ],
+  [
+    "algebraic data type",
+    "ADT"
+  ],
+  [
+    "sum type",
+    "SUM"
+  ],
+  [
+    "product type",
+    "PROD"
+  ],
+  [
+    "pattern matching",
+    "PM"
+  ],
+  [
+    "list comprehension",
+    "LC"
+  ],
+  [
+    "generator expression",
+    "GE"
+  ],
+  [
+    "coroutine",
+    "COR"
+  ],
+  [
+    "actor model",
+    "AM"
+  ],
+  [
+    "message passing",
+    "MP"
+  ],
+  [
+    "shared memory",
+    "SM"
+  ],
+  [
+    "race condition",
+    "RC"
+  ],
+  [
+    "deadlock",
+    "DL"
+  ],
+  [
+    "livelock",
+    "LL2"
+  ],
+  [
+    "starvation",
+    "STARV"
+  ],
+  [
+    "priority inversion",
+    "PI"
+  ],
+  [
+    "mutex",
+    "MUTEX"
+  ],
+  [
+    "semaphore",
+    "SEM"
+  ],
+  [
+    "monitor",
+    "MON2"
+  ],
+  [
+    "condition variable",
+    "CV"
+  ],
+  [
+    "read write lock",
+    "RWL"
+  ],
+  [
+    "spinlock",
+    "SL2"
+  ],
+  [
+    "compare and swap",
+    "CAS"
+  ],
+  [
+    "load linked store conditional",
+    "LLSC"
+  ],
+  [
+    "memory barrier",
+    "MB"
+  ],
+  [
+    "memory fence",
+    "MF"
+  ],
+  [
+    "cache coherence",
+    "CC"
+  ],
+  [
+    "false sharing",
+    "FS"
+  ],
+  [
+    "true sharing",
+    "TS"
+  ],
+  [
+    " NUMA",
+    "NUMA"
+  ],
+  [
+    "UMA",
+    "UMA"
+  ],
+  [
+    "SIMD",
+    "SIMD"
+  ],
+  [
+    "MIMD",
+    "MIMD"
+  ],
+  [
+    "vector processor",
+    "VP"
+  ],
+  [
+    "array processor",
+    "AP"
+  ],
+  [
+    "systolic array",
+    "SA"
+  ],
+  [
+    "pipeline",
+    "PIPE"
+  ],
+  [
+    "instruction level parallelism",
+    "ILP"
+  ],
+  [
+    "thread level parallelism",
+    "TLP"
+  ],
+  [
+    "data level parallelism",
+    "DLP"
+  ],
+  [
+    "task level parallelism",
+    "TLP2"
+  ],
+  [
+    "speculative execution",
+    "SE2"
+  ],
+  [
+    "out of order execution",
+    "OOE"
+  ],
+  [
+    "superscalar",
+    "SSC"
+  ],
+  [
+    "very long instruction word",
+    "VLIW"
+  ],
+  [
+    "single instruction multiple data",
+    "SIMD2"
+  ],
+  [
+    "branch prediction",
+    "BP"
+  ],
+  [
+    "branch target buffer",
+    "BTB"
+  ],
+  [
+    "translation lookaside buffer",
+    "TLB"
+  ],
+  [
+    "page table",
+    "PT2"
+  ],
+  [
+    "virtual memory",
+    "VM"
+  ],
+  [
+    "demand paging",
+    "DP2"
+  ],
+  [
+    "copy on write",
+    "COW"
+  ],
+  [
+    "memory mapped file",
+    "MMF"
+  ],
+  [
+    "mmap",
+    "MMAP"
+  ],
+  [
+    "buffered io",
+    "BIO"
+  ],
+  [
+    "unbuffered io",
+    "UBIO"
+  ],
+  [
+    "synchronous io",
+    "SIO"
+  ],
+  [
+    "asynchronous io",
+    "AIO"
+  ],
+  [
+    "non blocking io",
+    "NIO"
+  ],
+  [
+    "io multiplexing",
+    "IOM"
+  ],
+  [
+    "select",
+    "SEL"
+  ],
+  [
+    "poll",
+    "POL"
+  ],
+  [
+    "epoll",
+    "EPOL"
+  ],
+  [
+    "kqueue",
+    "KQ"
+  ],
+  [
+    "io completion port",
+    "IOCP"
+  ],
+  [
+    "address family",
+    "AF"
+  ],
+  [
+    "socket type",
+    "ST"
+  ],
+  [
+    "stream socket",
+    "SS2"
+  ],
+  [
+    "datagram socket",
+    "DS"
+  ],
+  [
+    "raw socket",
+    "RS2"
+  ],
+  [
+    "sequence packet socket",
+    "SPS"
+  ],
+  [
+    "loopback interface",
+    "LI"
+  ],
+  [
+    "network interface",
+    "NI"
+  ],
+  [
+    "media access control",
+    "MAC"
+  ],
+  [
+    "physical address",
+    "PA"
+  ],
+  [
+    "logical address",
+    "LA"
+  ],
+  [
+    "broadcast address",
+    "BA"
+  ],
+  [
+    "multicast address",
+    "MA"
+  ],
+  [
+    "subnet mask",
+    "SM2"
+  ],
+  [
+    "cidr notation",
+    "CIDR"
+  ],
+  [
+    "supernetting",
+    "SN"
+  ],
+  [
+    "subnetting",
+    "SUB"
+  ],
+  [
+    "classless inter domain routing",
+    "CIDR2"
+  ],
+  [
+    "classful addressing",
+    "CFA"
+  ],
+  [
+    "ip version 4",
+    "IPV4"
+  ],
+  [
+    "ip version 6",
+    "IPV6"
+  ],
+  [
+    "dual stack",
+    "DS2"
+  ],
+  [
+    "tunnel broker",
+    "TB"
+  ],
+  [
+    "6to4 tunnel",
+    "6T4"
+  ],
+  [
+    "isatap tunnel",
+    "ISATAP"
+  ],
+  [
+    "teredo tunneling",
+    "TEREDO"
+  ],
+  [
+    "nat64",
+    "NAT64"
+  ],
+  [
+    "dns64",
+    "DNS64"
+  ],
+  [
+    "happy eyeballs",
+    "HE"
+  ],
+  [
+    "path mtu discovery",
+    "PMTUD"
+  ],
+  [
+    "fragmentation",
+    "FRAG"
+  ],
+  [
+    "maximum transmission unit",
+    "MTU"
+  ],
+  [
+    "maximum segment size",
+    "MSS"
+  ],
+  [
+    "window size",
+    "WS"
+  ],
+  [
+    "flow control",
+    "FC2"
+  ],
+  [
+    "congestion control",
+    "CC2"
+  ],
+  [
+    "slow start",
+    "SS3"
+  ],
+  [
+    "congestion avoidance",
+    "CA"
+  ],
+  [
+    "fast retransmit",
+    "FR"
+  ],
+  [
+    "fast recovery",
+    "FREC"
+  ],
+  [
+    "selective acknowledgement",
+    "SACK"
+  ],
+  [
+    "timestamp option",
+    "TSO"
+  ],
+  [
+    "window scaling",
+    "WSCALE"
+  ],
+  [
+    "nagle algorithm",
+    "NA"
+  ],
+  [
+    "delayed acknowledgement",
+    "DA2"
+  ],
+  [
+    "keep alive",
+    "KA"
+  ],
+  [
+    "half close",
+    "HC"
+  ],
+  [
+    "full close",
+    "FC3"
+  ],
+  [
+    "three way handshake",
+    "THW"
+  ],
+  [
+    "four way handshake",
+    "FWH"
+  ],
+  [
+    "simultaneous open",
+    "SO2"
+  ],
+  [
+    "simultaneous close",
+    "SC"
+  ],
+  [
+    "time wait",
+    "TW"
+  ],
+  [
+    "close wait",
+    "CW"
+  ],
+  [
+    "fin wait 1",
+    "FW1"
+  ],
+  [
+    "fin wait 2",
+    "FW2"
+  ],
+  [
+    "last ack",
+    "LACK"
+  ],
+  [
+    "listening",
+    "LISTEN"
+  ],
+  [
+    "established",
+    "ESTAB"
+  ],
+  [
+    "closing",
+    "CLOS"
+  ],
+  [
+    "buffer overflow",
+    "BO"
+  ],
+  [
+    "stack overflow",
+    "SO3"
+  ],
+  [
+    "heap overflow",
+    "HO"
+  ],
+  [
+    "format string vulnerability",
+    "FSV"
+  ],
+  [
+    "sql injection",
+    "SQLI"
+  ],
+  [
+    "cross site scripting",
+    "XSS"
+  ],
+  [
+    "cross site request forgery",
+    "CSRF"
+  ],
+  [
+    "server side request forgery",
+    "SSRF"
+  ],
+  [
+    "remote code execution",
+    "RCE"
+  ],
+  [
+    "local privilege escalation",
+    "LPE"
+  ],
+  [
+    "privilege escalation",
+    "PE"
+  ],
+  [
+    "authentication bypass",
+    "AB"
+  ],
+  [
+    "authorization bypass",
+    "AUB"
+  ],
+  [
+    "broken authentication",
+    "BA2"
+  ],
+  [
+    "session fixation",
+    "SF"
+  ],
+  [
+    "session hijacking",
+    "SH"
+  ],
+  [
+    "clickjacking",
+    "CJ"
+  ],
+  [
+    "directory traversal",
+    "DT"
+  ],
+  [
+    "path traversal",
+    "PT3"
+  ],
+  [
+    "file inclusion vulnerability",
+    "FIV"
+  ],
+  [
+    "local file inclusion",
+    "LFI"
+  ],
+  [
+    "remote file inclusion",
+    "RFI"
+  ],
+  [
+    "denial of service",
+    "DOS"
+  ],
+  [
+    "distributed denial of service",
+    "DDOS"
+  ],
+  [
+    "smurf attack",
+    "SA7"
+  ],
+  [
+    "syn flood",
+    "SYNF"
+  ],
+  [
+    "udp flood",
+    "UDPF"
+  ],
+  [
+    "icmp flood",
+    "ICMPF"
+  ],
+  [
+    "slowloris",
+    "SLOW"
+  ],
+  [
+    "dns amplification",
+    "DNSA"
+  ],
+  [
+    "ntp amplification",
+    "NTPA"
+  ],
+  [
+    "memcached amplification",
+    "MEMA"
+  ],
+  [
+    "routing blackhole",
+    "RBH"
+  ],
+  [
+    "bgp hijack",
+    "BGPJ"
+  ],
+  [
+    "dns poisoning",
+    "DNSP"
+  ],
+  [
+    "arp poisoning",
+    "ARPP"
+  ],
+  [
+    "mac flooding",
+    "MACF"
+  ],
+  [
+    "vlan hopping",
+    "VH"
+  ],
+  [
+    "rogue dhcp",
+    "RDHCP"
+  ],
+  [
+    "evil twin",
+    "ET"
+  ],
+  [
+    "man in the middle",
+    "MITM"
+  ],
+  [
+    "replay attack",
+    "RA3"
+  ],
+  [
+    "downgrade attack",
+    "DA3"
+  ],
+  [
+    "collision attack",
+    "CA2"
+  ],
+  [
+    "length extension attack",
+    "LEA"
+  ],
+  [
+    "rainbow table",
+    "RT"
+  ],
+  [
+    "brute force",
+    "BF"
+  ],
+  [
+    "dictionary attack",
+    "DICTIONARY"
+  ],
+  [
+    "credential stuffing",
+    "CSTUFF"
+  ],
+  [
+    "password spraying",
+    "PS2"
+  ],
+  [
+    "pass the hash",
+    "PTH"
+  ],
+  [
+    "pass the ticket",
+    "PTT"
+  ],
+  [
+    "golden ticket",
+    "GT"
+  ],
+  [
+    "silver ticket",
+    "ST2"
+  ],
+  [
+    "kerberoasting",
+    "KERB"
+  ],
+  [
+    "as rep roasting",
+    "ASREP"
+  ],
+  [
+    "dcsync",
+    "DCSYNC"
+  ],
+  [
+    "lateral movement",
+    "LM2"
+  ],
+  [
+    "persistence",
+    "PERS"
+  ],
+  [
+    "exfiltration",
+    "EXFIL"
+  ],
+  [
+    "data exfiltration",
+    "DE"
+  ],
+  [
+    "data destruction",
+    "DD"
+  ],
+  [
+    "ransomware",
+    "RANSOM"
+  ],
+  [
+    "wiper",
+    "WIP"
+  ],
+  [
+    "rootkit",
+    "ROOT"
+  ],
+  [
+    "bootkit",
+    "BOOT"
+  ],
+  [
+    "firmware attack",
+    "FWA2"
+  ],
+  [
+    "supply chain attack",
+    "SCA"
+  ],
+  [
+    "watering hole",
+    "WH"
+  ],
+  [
+    "typosquatting",
+    "TQ"
+  ],
+  [
+    "homograph attack",
+    "HA"
+  ],
+  [
+    "\u96f6\u65e5",
+    "ZD"
+  ],
+  [
+    "zero day exploit",
+    "ZDE"
+  ],
+  [
+    "one day exploit",
+    "ODE"
+  ],
+  [
+    "n day exploit",
+    "NDE"
+  ],
+  [
+    "messenger rna",
+    "MRNA"
+  ],
+  [
+    "transfer rna",
+    "TRNA"
+  ],
+  [
+    "ribosomal rna",
+    "RRNA"
+  ],
+  [
+    "small nuclear rna",
+    "SNRNA"
+  ],
+  [
+    "micro rna",
+    "MIRNA"
+  ],
+  [
+    "long noncoding rna",
+    "LNCRNA"
+  ],
+  [
+    "circular rna",
+    "CRNA"
+  ],
+  [
+    "amino acid",
+    "AA"
+  ],
+  [
+    "polypeptide",
+    "PP"
+  ],
+  [
+    "protein folding",
+    "PF"
+  ],
+  [
+    "chaperone",
+    "CHAP"
+  ],
+  [
+    "enzyme",
+    "ENZ"
+  ],
+  [
+    "substrate",
+    "SUB2"
+  ],
+  [
+    "active site",
+    "AS3"
+  ],
+  [
+    "cofactor",
+    "COF"
+  ],
+  [
+    "coenzyme",
+    "COENZ"
+  ],
+  [
+    "allosteric regulation",
+    "AR"
+  ],
+  [
+    "competitive inhibition",
+    "CI"
+  ],
+  [
+    "noncompetitive inhibition",
+    "NCI"
+  ],
+  [
+    "uncompetitive inhibition",
+    "UI"
+  ],
+  [
+    "mixed inhibition",
+    "MI"
+  ],
+  [
+    "irreversible inhibition",
+    "IRRI"
+  ],
+  [
+    "Michaelis constant",
+    "KM"
+  ],
+  [
+    "Vmax",
+    "VMAX"
+  ],
+  [
+    "turnover number",
+    "KCAT"
+  ],
+  [
+    "catalytic efficiency",
+    "CE"
+  ],
+  [
+    "metabolism",
+    "MET"
+  ],
+  [
+    "anabolism",
+    "ANA"
+  ],
+  [
+    "catabolism",
+    "CAT2"
+  ],
+  [
+    "glycolysis",
+    "GLY"
+  ],
+  [
+    "krebs cycle",
+    "KC"
+  ],
+  [
+    "citric acid cycle",
+    "CAC"
+  ],
+  [
+    "oxidative phosphorylation",
+    "OP"
+  ],
+  [
+    "electron transport chain",
+    "ETC"
+  ],
+  [
+    "chemiosmosis",
+    "CHEM"
+  ],
+  [
+    "atp synthase",
+    "ATPS"
+  ],
+  [
+    "nicotinamide adenine dinucleotide",
+    "NAD"
+  ],
+  [
+    "flavin adenine dinucleotide",
+    "FAD"
+  ],
+  [
+    "acetyl coa",
+    "ACCOA"
+  ],
+  [
+    "fatty acid oxidation",
+    "FAO"
+  ],
+  [
+    "beta oxidation",
+    "BO2"
+  ],
+  [
+    "lipogenesis",
+    "LIP"
+  ],
+  [
+    "gluconeogenesis",
+    "GNG"
+  ],
+  [
+    "glycogenesis",
+    "GLYC"
+  ],
+  [
+    "glycogenolysis",
+    "GLYCOL"
+  ],
+  [
+    "pentose phosphate pathway",
+    "PPP"
+  ],
+  [
+    "calvin cycle",
+    "CC3"
+  ],
+  [
+    "photosynthesis",
+    "PHOTO"
+  ],
+  [
+    "light reaction",
+    "LR"
+  ],
+  [
+    "dark reaction",
+    "DR"
+  ],
+  [
+    "chloroplast",
+    "CHLOR"
+  ],
+  [
+    "mitochondria",
+    "MITO"
+  ],
+  [
+    "endoplasmic reticulum",
+    "ER"
+  ],
+  [
+    "golgi apparatus",
+    "GA"
+  ],
+  [
+    "lysosome",
+    "LYSO"
+  ],
+  [
+    "peroxisome",
+    "PEROX"
+  ],
+  [
+    "ribosome",
+    "RIBO"
+  ],
+  [
+    "nucleus",
+    "NUC"
+  ],
+  [
+    "chromosome",
+    "CHROM"
+  ],
+  [
+    "chromatin",
+    "CHRO"
+  ],
+  [
+    "histone",
+    "HIST"
+  ],
+  [
+    "centromere",
+    "CENTRO"
+  ],
+  [
+    "telomere",
+    "TELO"
+  ],
+  [
+    "spindle",
+    "SPIN"
+  ],
+  [
+    "kinetochore",
+    "KIN"
+  ],
+  [
+    "meiosis",
+    "MEIO"
+  ],
+  [
+    "mitosis",
+    "MIT"
+  ],
+  [
+    "cytokinesis",
+    "CYTO"
+  ],
+  [
+    "interphase",
+    "INT"
+  ],
+  [
+    "prophase",
+    "PRO"
+  ],
+  [
+    "metaphase",
+    "META"
+  ],
+  [
+    "anaphase",
+    "ANA2"
+  ],
+  [
+    "telophase",
+    "TELO2"
+  ],
+  [
+    "apoptosis",
+    "APOP"
+  ],
+  [
+    "necrosis",
+    "NEC"
+  ],
+  [
+    "autophagy",
+    "AUTO"
+  ],
+  [
+    "phagocytosis",
+    "PHAGO"
+  ],
+  [
+    "endocytosis",
+    "ENDO"
+  ],
+  [
+    "exocytosis",
+    "EXO"
+  ],
+  [
+    "pinocytosis",
+    "PINO"
+  ],
+  [
+    "receptor mediated endocytosis",
+    "RME"
+  ],
+  [
+    "clathrin",
+    "CLATH"
+  ],
+  [
+    "dynamin",
+    "DYN"
+  ],
+  [
+    "actin",
+    "ACT"
+  ],
+  [
+    "tubulin",
+    "TUB"
+  ],
+  [
+    "microfilament",
+    "MF"
+  ],
+  [
+    "microtubule",
+    "MT"
+  ],
+  [
+    "intermediate filament",
+    "IF"
+  ],
+  [
+    "cytoskeleton",
+    "CYTOSK"
+  ],
+  [
+    "motor protein",
+    "MP"
+  ],
+  [
+    "kinesin",
+    "KIN"
+  ],
+  [
+    "dynein",
+    "DYN2"
+  ],
+  [
+    "myosin",
+    "MYO"
+  ],
+  [
+    "atomic number",
+    "AN"
+  ],
+  [
+    "mass number",
+    "MN"
+  ],
+  [
+    "isotope",
+    "ISO"
+  ],
+  [
+    "ion",
+    "ION"
+  ],
+  [
+    "cation",
+    "CAT3"
+  ],
+  [
+    "anion",
+    "ANION"
+  ],
+  [
+    "molecule",
+    "MOL"
+  ],
+  [
+    "compound",
+    "COMP3"
+  ],
+  [
+    "element",
+    "ELEM"
+  ],
+  [
+    "mixture",
+    "MIX"
+  ],
+  [
+    "solution",
+    "SOL"
+  ],
+  [
+    "solute",
+    "SOLU"
+  ],
+  [
+    "solvent",
+    "SOLV"
+  ],
+  [
+    "concentration",
+    "CONC"
+  ],
+  [
+    "molarity",
+    "MOLAR"
+  ],
+  [
+    "molality",
+    "MOLAL"
+  ],
+  [
+    "normality",
+    "NORM"
+  ],
+  [
+    "dilution",
+    "DIL"
+  ],
+  [
+    "titration",
+    "TITR"
+  ],
+  [
+    "indicator",
+    "IND"
+  ],
+  [
+    "endpoint",
+    "EP2"
+  ],
+  [
+    "equivalence point",
+    "EQP"
+  ],
+  [
+    "buffer solution",
+    "BS"
+  ],
+  [
+    "acid",
+    "ACID"
+  ],
+  [
+    "base",
+    "BASE"
+  ],
+  [
+    "salt",
+    "SALT"
+  ],
+  [
+    "oxide",
+    "OX"
+  ],
+  [
+    "hydroxide",
+    "OH"
+  ],
+  [
+    "carbonate",
+    "CO3"
+  ],
+  [
+    "sulfate",
+    "SO4"
+  ],
+  [
+    "nitrate",
+    "NO3"
+  ],
+  [
+    "bromide",
+    "BR"
+  ],
+  [
+    "iodide",
+    "I"
+  ],
+  [
+    "fluoride",
+    "F"
+  ],
+  [
+    "ammonium",
+    "NH4"
+  ],
+  [
+    "hydrogen ion",
+    "HI"
+  ],
+  [
+    "hydroxide ion",
+    "HOI"
+  ],
+  [
+    "electron pair",
+    "EP3"
+  ],
+  [
+    "covalent bond",
+    "CB"
+  ],
+  [
+    "ionic bond",
+    "IB"
+  ],
+  [
+    "metallic bond",
+    "MB"
+  ],
+  [
+    "hydrogen bond",
+    "HB"
+  ],
+  [
+    "van der waals",
+    "VDW"
+  ],
+  [
+    "dipole dipole",
+    "DD"
+  ],
+  [
+    "london dispersion",
+    "LD"
+  ],
+  [
+    "electronegativity",
+    "EN"
+  ],
+  [
+    "ionization energy",
+    "IE"
+  ],
+  [
+    "electron affinity",
+    "EA3"
+  ],
+  [
+    "atomic radius",
+    "AR"
+  ],
+  [
+    "ionic radius",
+    "IR"
+  ],
+  [
+    "periodic table",
+    "PT4"
+  ],
+  [
+    "alkali metal",
+    "AM"
+  ],
+  [
+    "alkaline earth",
+    "AE"
+  ],
+  [
+    "transition metal",
+    "TM"
+  ],
+  [
+    "lanthanide",
+    "LAN"
+  ],
+  [
+    "actinide",
+    "ACT"
+  ],
+  [
+    "noble gas",
+    "NG"
+  ],
+  [
+    "halogen",
+    "HAL"
+  ],
+  [
+    "metaloid",
+    "MET"
+  ],
+  [
+    "nonmetal",
+    "NM"
+  ],
+  [
+    "oxidation state",
+    "OS2"
+  ],
+  [
+    "oxidation number",
+    "ON"
+  ],
+  [
+    "redox reaction",
+    "REDOX"
+  ],
+  [
+    "oxidation",
+    "OX2"
+  ],
+  [
+    "reduction",
+    "RED"
+  ],
+  [
+    "oxidizing agent",
+    "OA"
+  ],
+  [
+    "reducing agent",
+    "RA4"
+  ],
+  [
+    "electrochemistry",
+    "ELEC2"
+  ],
+  [
+    "galvanic cell",
+    "GC"
+  ],
+  [
+    "electrolytic cell",
+    "EC"
+  ],
+  [
+    "anode",
+    "ANOD"
+  ],
+  [
+    "cathode",
+    "CATH"
+  ],
+  [
+    "electrode",
+    "ELECT"
+  ],
+  [
+    "salt bridge",
+    "SB"
+  ],
+  [
+    "cell potential",
+    "CP"
+  ],
+  [
+    "standard electrode potential",
+    "SEP"
+  ],
+  [
+    "nernst equation",
+    "NE"
+  ],
+  [
+    "faraday constant",
+    "FC4"
+  ],
+  [
+    "coulomb constant",
+    "CCK"
+  ],
+  [
+    "thermodynamics",
+    "THERMO"
+  ],
+  [
+    "enthalpy",
+    "ENTH"
+  ],
+  [
+    "entropy",
+    "ENTR"
+  ],
+  [
+    "gibbs free energy",
+    "GFE"
+  ],
+  [
+    "hess law",
+    "HL"
+  ],
+  [
+    "heat capacity",
+    "HC2"
+  ],
+  [
+    "specific heat",
+    "SH"
+  ],
+  [
+    "phase change",
+    "PC"
+  ],
+  [
+    "sublimation",
+    "SUB3"
+  ],
+  [
+    "deposition",
+    "DEP"
+  ],
+  [
+    "freezing point depression",
+    "FPD"
+  ],
+  [
+    "boiling point elevation",
+    "BPE"
+  ],
+  [
+    "osmotic pressure",
+    "OP2"
+  ],
+  [
+    "colligative properties",
+    "CP2"
+  ],
+  [
+    "raoult law",
+    "RL"
+  ],
+  [
+    "henry law",
+    "HL2"
+  ],
+  [
+    "le chatelier principle",
+    "LCP"
+  ],
+  [
+    "equilibrium",
+    "EQUIL"
+  ],
+  [
+    "equilibrium constant",
+    "KEQ"
+  ],
+  [
+    "reaction quotient",
+    "RQ"
+  ],
+  [
+    "rate law",
+    "RL2"
+  ],
+  [
+    "rate constant",
+    "RK"
+  ],
+  [
+    "activation energy",
+    "AE4"
+  ],
+  [
+    "catalyst",
+    "CAT4"
+  ],
+  [
+    "inhibitor",
+    "INH"
+  ],
+  [
+    "Arrhenius equation",
+    "AE5"
+  ],
+  [
+    "collision theory",
+    "CT"
+  ],
+  [
+    "transition state theory",
+    "TST"
+  ],
+  [
+    "reaction mechanism",
+    "RM4"
+  ],
+  [
+    "function",
+    "FUNC"
+  ],
+  [
+    "variable",
+    "VAR"
+  ],
+  [
+    "constant",
+    "CONST"
+  ],
+  [
+    "coefficient",
+    "COEFF"
+  ],
+  [
+    "exponent",
+    "EXP"
+  ],
+  [
+    "logarithm",
+    "LOG"
+  ],
+  [
+    "natural logarithm",
+    "LN"
+  ],
+  [
+    "common logarithm",
+    "CLG"
+  ],
+  [
+    "polynomial",
+    "POLY"
+  ],
+  [
+    "monomial",
+    "MONO"
+  ],
+  [
+    "binomial",
+    "BINOM"
+  ],
+  [
+    "trinomial",
+    "TRIN"
+  ],
+  [
+    "quadratic",
+    "QUAD"
+  ],
+  [
+    "cubic",
+    "CUB"
+  ],
+  [
+    "linear",
+    "LIN"
+  ],
+  [
+    "derivative",
+    "DERIV"
+  ],
+  [
+    "integral",
+    "INT2"
+  ],
+  [
+    "limit",
+    "LIM"
+  ],
+  [
+    "differential",
+    "DIFF2"
+  ],
+  [
+    "differential equation",
+    "DE"
+  ],
+  [
+    "partial differential equation",
+    "PDE"
+  ],
+  [
+    "ordinary differential equation",
+    "ODE"
+  ],
+  [
+    "initial value problem",
+    "IVP"
+  ],
+  [
+    "boundary value problem",
+    "BVP"
+  ],
+  [
+    "laplace transform",
+    "LT"
+  ],
+  [
+    "fourier transform",
+    "FT"
+  ],
+  [
+    "z transform",
+    "ZT"
+  ],
+  [
+    "matrix",
+    "MAT"
+  ],
+  [
+    "determinant",
+    "DET"
+  ],
+  [
+    "eigenvalue",
+    "EIG"
+  ],
+  [
+    "eigenvector",
+    "EVEC"
+  ],
+  [
+    "linear independence",
+    "LI2"
+  ],
+  [
+    "span",
+    "SPAN"
+  ],
+  [
+    "basis",
+    "BAS"
+  ],
+  [
+    "dimension",
+    "DIM"
+  ],
+  [
+    "rank",
+    "RANK"
+  ],
+  [
+    "null space",
+    "NS"
+  ],
+  [
+    "column space",
+    "CS2"
+  ],
+  [
+    "row space",
+    "RS"
+  ],
+  [
+    "orthogonal",
+    "ORTH"
+  ],
+  [
+    "orthonormal",
+    "ORTHN"
+  ],
+  [
+    "dot product",
+    "DOT"
+  ],
+  [
+    "cross product",
+    "CP3"
+  ],
+  [
+    "inner product",
+    "IP"
+  ],
+  [
+    "outer product",
+    "OP3"
+  ],
+  [
+    "norm",
+    "NORM2"
+  ],
+  [
+    "metric",
+    "MET2"
+  ],
+  [
+    "topology",
+    "TOPO"
+  ],
+  [
+    "open set",
+    "OS3"
+  ],
+  [
+    "closed set",
+    "CS4"
+  ],
+  [
+    "compact",
+    "COMP4"
+  ],
+  [
+    "connected",
+    "CON"
+  ],
+  [
+    "homeomorphism",
+    "HOME"
+  ],
+  [
+    "manifold",
+    "MAN"
+  ],
+  [
+    "differential form",
+    "DF"
+  ],
+  [
+    "exterior derivative",
+    "ED"
+  ],
+  [
+    "stokes theorem",
+    "ST"
+  ],
+  [
+    "green theorem",
+    "GT"
+  ],
+  [
+    "divergence theorem",
+    "DT"
+  ],
+  [
+    "probability",
+    "PROB"
+  ],
+  [
+    "random variable",
+    "RV"
+  ],
+  [
+    "probability distribution",
+    "PD"
+  ],
+  [
+    "cumulative distribution function",
+    "CDF"
+  ],
+  [
+    "probability density function",
+    "PDF"
+  ],
+  [
+    "expected value",
+    "EV"
+  ],
+  [
+    "variance",
+    "VAR2"
+  ],
+  [
+    "standard deviation",
+    "SD"
+  ],
+  [
+    "covariance",
+    "COV"
+  ],
+  [
+    "correlation",
+    "CORR"
+  ],
+  [
+    "regression",
+    "REG"
+  ],
+  [
+    "least squares",
+    "LS"
+  ],
+  [
+    "bayesian",
+    "BAY"
+  ],
+  [
+    "frequentist",
+    "FREQ"
+  ],
+  [
+    "hypothesis testing",
+    "HT"
+  ],
+  [
+    "null hypothesis",
+    "NH"
+  ],
+  [
+    "alternative hypothesis",
+    "AH"
+  ],
+  [
+    "type i error",
+    "TI"
+  ],
+  [
+    "type ii error",
+    "TII"
+  ],
+  [
+    "confidence interval",
+    "CI2"
+  ],
+  [
+    "p value",
+    "PV"
+  ],
+  [
+    "statistical significance",
+    "SS4"
+  ],
+  [
+    "chi squared",
+    "CHI"
+  ],
+  [
+    "t test",
+    "TTEST"
+  ],
+  [
+    "f test",
+    "FTEST"
+  ],
+  [
+    "anova",
+    "ANOVA"
+  ],
+  [
+    "mann whitney",
+    "MW"
+  ],
+  [
+    "wilcoxon",
+    "WILC"
+  ],
+  [
+    "kruskal wallis",
+    "KW"
+  ],
+  [
+    "spearman rank",
+    "SR"
+  ],
+  [
+    "pearson correlation",
+    "PC"
+  ],
+  [
+    "classical mechanics",
+    "CM2"
+  ],
+  [
+    "newtonian mechanics",
+    "NM"
+  ],
+  [
+    "lagrangian mechanics",
+    "LM"
+  ],
+  [
+    "hamiltonian mechanics",
+    "HM"
+  ],
+  [
+    "conservation of energy",
+    "COE"
+  ],
+  [
+    "conservation of momentum",
+    "COM"
+  ],
+  [
+    "conservation of angular momentum",
+    "COAM"
+  ],
+  [
+    "centripetal force",
+    "CF"
+  ],
+  [
+    "centrifugal force",
+    "CF2"
+  ],
+  [
+    "coriolis force",
+    "CORF"
+  ],
+  [
+    "gravitational force",
+    "GF"
+  ],
+  [
+    "electromagnetic force",
+    "EMF"
+  ],
+  [
+    "strong nuclear force",
+    "SNF"
+  ],
+  [
+    "weak nuclear force",
+    "WNF"
+  ],
+  [
+    "higgs mechanism",
+    "HM2"
+  ],
+  [
+    "standard model",
+    "SM3"
+  ],
+  [
+    "quantum mechanics",
+    "QM"
+  ],
+  [
+    "wave function",
+    "WF"
+  ],
+  [
+    "schrodinger equation",
+    "SE"
+  ],
+  [
+    "heisenberg uncertainty",
+    "HU"
+  ],
+  [
+    "planck constant",
+    "PC4"
+  ],
+  [
+    "bohr model",
+    "BM"
+  ],
+  [
+    "atomic orbital",
+    "AO"
+  ],
+  [
+    "molecular orbital",
+    "MO2"
+  ],
+  [
+    "valence bond theory",
+    "VBT"
+  ],
+  [
+    "molecular orbital theory",
+    "MOT"
+  ],
+  [
+    "crystal field theory",
+    "CFT"
+  ],
+  [
+    "ligand field theory",
+    "LFT"
+  ],
+  [
+    "hybridization",
+    "HYB"
+  ],
+  [
+    "sp hybridization",
+    "SPH"
+  ],
+  [
+    "sp2 hybridization",
+    "SP2H"
+  ],
+  [
+    "sp3 hybridization",
+    "SP3H"
+  ],
+  [
+    "vsepr",
+    "VSEPR"
+  ],
+  [
+    "lewis structure",
+    "LS2"
+  ],
+  [
+    "formal charge",
+    "FC5"
+  ],
+  [
+    "resonance",
+    "RES"
+  ],
+  [
+    "dipole moment",
+    "DM"
+  ],
+  [
+    "polarizability",
+    "POLAR"
+  ],
+  [
+    "dispersion force",
+    "DF2"
+  ],
+  [
+    "heat engine",
+    "HE2"
+  ],
+  [
+    "carnot cycle",
+    "CC4"
+  ],
+  [
+    "boltzmann constant",
+    "BK"
+  ],
+  [
+    "maxwell distribution",
+    "MD"
+  ],
+  [
+    "ideal gas law",
+    "IGL"
+  ],
+  [
+    "van der waals equation",
+    "VDW2"
+  ],
+  [
+    "real gas",
+    "RG"
+  ],
+  [
+    "critical point",
+    "CP5"
+  ],
+  [
+    "triple point",
+    "TP"
+  ],
+  [
+    "phase diagram",
+    "PHD"
+  ],
+  [
+    "first law",
+    "FL"
+  ],
+  [
+    "second law",
+    "SL"
+  ],
+  [
+    "third law",
+    "TL"
+  ],
+  [
+    "zeroth law",
+    "ZL"
+  ],
+  [
+    "electromagnetism",
+    "EMAG"
+  ],
+  [
+    "coulomb law",
+    "CL2"
+  ],
+  [
+    "gauss law",
+    "GL"
+  ],
+  [
+    "faraday law",
+    "FL2"
+  ],
+  [
+    "ampere law",
+    "AL"
+  ],
+  [
+    "maxwell equations",
+    "ME"
+  ],
+  [
+    "lorentz force",
+    "LF"
+  ],
+  [
+    "electromagnetic wave",
+    "EMW"
+  ],
+  [
+    "speed of light",
+    "SOL"
+  ],
+  [
+    "optics",
+    "OPT"
+  ],
+  [
+    "wave optics",
+    "WO2"
+  ],
+  [
+    "ray optics",
+    "RO"
+  ],
+  [
+    "diffraction",
+    "DIFF3"
+  ],
+  [
+    "interference",
+    "INT3"
+  ],
+  [
+    "polarization",
+    "POL"
+  ],
+  [
+    "refraction",
+    "REFR"
+  ],
+  [
+    "reflection",
+    "REFL"
+  ],
+  [
+    "dispersion",
+    "DISP"
+  ],
+  [
+    "scattering",
+    "SCAT"
+  ],
+  [
+    "absorption",
+    "ABS"
+  ],
+  [
+    "emission",
+    "EMIT"
+  ],
+  [
+    "fluorescence",
+    "FLUOR"
+  ],
+  [
+    "phosphorescence",
+    "PHOS"
+  ],
+  [
+    "luminescence",
+    "LUM"
+  ],
+  [
+    "blackbody radiation",
+    "BBR"
+  ],
+  [
+    "photoelectric effect",
+    "PEE"
+  ],
+  [
+    "compton scattering",
+    "CS6"
+  ],
+  [
+    "pair production",
+    "PP2"
+  ],
+  [
+    "bremsstrahlung",
+    "BREM"
+  ],
+  [
+    "cyclotron radiation",
+    "CR"
+  ],
+  [
+    "particle physics",
+    "PPH"
+  ],
+  [
+    "quark",
+    "QUARK"
+  ],
+  [
+    "lepton",
+    "LEPT"
+  ],
+  [
+    "boson",
+    "BOSON"
+  ],
+  [
+    "fermion",
+    "FERM"
+  ],
+  [
+    "hadron",
+    "HADR"
+  ],
+  [
+    "baryon",
+    "BARY"
+  ],
+  [
+    "meson",
+    "MES"
+  ],
+  [
+    "proton",
+    "PROT"
+  ],
+  [
+    "neutron",
+    "NEUT"
+  ],
+  [
+    "electron",
+    "ELEC3"
+  ],
+  [
+    "positron",
+    "POSIT"
+  ],
+  [
+    "neutrino",
+    "NEUTR"
+  ],
+  [
+    "muon",
+    "MUON"
+  ],
+  [
+    "tau",
+    "TAU"
+  ],
+  [
+    "photon",
+    "PHOT"
+  ],
+  [
+    "gluon",
+    "GLU"
+  ],
+  [
+    "weak boson",
+    "WB"
+  ],
+  [
+    "higgs boson",
+    "HB"
+  ],
+  [
+    "graviton",
+    "GRAV"
+  ],
+  [
+    "dark matter",
+    "DM2"
+  ],
+  [
+    "dark energy",
+    "DE2"
+  ],
+  [
+    "cosmic microwave background",
+    "CMB"
+  ],
+  [
+    "big bang",
+    "BB"
+  ],
+  [
+    "hubble constant",
+    "HC3"
+  ],
+  [
+    "redshift",
+    "RS3"
+  ],
+  [
+    "blueshift",
+    "BS5"
+  ],
+  [
+    "doppler effect",
+    "DE3"
+  ],
+  [
+    "general relativity",
+    "GR"
+  ],
+  [
+    "special relativity",
+    "SR3"
+  ],
+  [
+    "lorentz transformation",
+    "LT2"
+  ],
+  [
+    "time dilation",
+    "TD"
+  ],
+  [
+    "length contraction",
+    "LC2"
+  ],
+  [
+    "spacetime",
+    "ST5"
+  ],
+  [
+    "event horizon",
+    "EH"
+  ],
+  [
+    "singularity",
+    "SING"
+  ],
+  [
+    "black hole",
+    "BH"
+  ],
+  [
+    "white hole",
+    "WH2"
+  ],
+  [
+    "wormhole",
+    "WHOLE"
+  ],
+  [
+    "neutron star",
+    "NS"
+  ],
+  [
+    "pulsar",
+    "PULSAR"
+  ],
+  [
+    "quasar",
+    "QUASAR"
+  ],
+  [
+    "magnetar",
+    "MAGNETAR"
+  ],
+  [
+    "supernova",
+    "SUPER"
+  ],
+  [
+    "gamma ray burst",
+    "GRB"
+  ],
+  [
+    "departamento de investigaciones",
+    "DINV"
+  ],
+  [
+    "air traffic control tower",
+    "ATCT"
+  ],
+  [
+    "en route center",
+    "ERC"
+  ],
+  [
+    "flight service station",
+    "FSS"
+  ],
+  [
+    "automatic terminal information service",
+    "ATIS"
+  ],
+  [
+    "airport advisory area",
+    "AAA"
+  ],
+  [
+    "controlled airspace",
+    "CAS"
+  ],
+  [
+    "uncontrolled airspace",
+    "UCA"
+  ],
+  [
+    "special use airspace",
+    "SUA"
+  ],
+  [
+    "military operations area",
+    "MOA"
+  ],
+  [
+    "restricted area",
+    "RA5"
+  ],
+  [
+    "prohibited area",
+    "PA2"
+  ],
+  [
+    "warning area",
+    "WA"
+  ],
+  [
+    "temporary flight restriction",
+    "TFR"
+  ],
+  [
+    "notam",
+    "NOTAM"
+  ],
+  [
+    "aerodrome",
+    "AERO"
+  ],
+  [
+    "runway",
+    "RWY"
+  ],
+  [
+    "taxiway",
+    "TWY"
+  ],
+  [
+    "apron",
+    "APRON"
+  ],
+  [
+    "hangar",
+    "HANG"
+  ],
+  [
+    "terminal",
+    "TERM"
+  ],
+  [
+    "gate",
+    "GATE"
+  ],
+  [
+    "jetway",
+    "JET"
+  ],
+  [
+    "ramp",
+    "RAMP"
+  ],
+  [
+    " clearance",
+    "CLR"
+  ],
+  [
+    "clearance delivery",
+    "CLRD"
+  ],
+  [
+    "ground control",
+    "GND"
+  ],
+  [
+    "tower",
+    "TWR"
+  ],
+  [
+    "approach control",
+    "APPROACH"
+  ],
+  [
+    "departure control",
+    "DEP"
+  ],
+  [
+    "center",
+    "CTR"
+  ],
+  [
+    " flight plan",
+    "FP"
+  ],
+  [
+    "marginal visual flight rules",
+    "MVFR"
+  ],
+  [
+    "low ifr",
+    "LIFR"
+  ],
+  [
+    "ceiling",
+    "ceil"
+  ],
+  [
+    "visibility",
+    "VIS"
+  ],
+  [
+    "altimeter setting",
+    "AS"
+  ],
+  [
+    "barometric pressure",
+    "BP"
+  ],
+  [
+    "density altitude",
+    "DA4"
+  ],
+  [
+    "pressure altitude",
+    "PA3"
+  ],
+  [
+    "true altitude",
+    "TA"
+  ],
+  [
+    "indicated altitude",
+    "IA"
+  ],
+  [
+    "transition altitude",
+    "TRA"
+  ],
+  [
+    "transition level",
+    "TRL"
+  ],
+  [
+    "minimumSafe altitude",
+    "MSA"
+  ],
+  [
+    "decision height",
+    "DH"
+  ],
+  [
+    "visual approach slope indicator",
+    "VASI"
+  ],
+  [
+    " touch down zone",
+    "TDZ"
+  ],
+  [
+    "aiming point",
+    "AP3"
+  ],
+  [
+    " roll out",
+    "RO"
+  ],
+  [
+    "missed approach",
+    "MA"
+  ],
+  [
+    "go around",
+    "GA2"
+  ],
+  [
+    " circling approach",
+    "CA3"
+  ],
+  [
+    " straight in approach",
+    "SIA"
+  ],
+  [
+    "localizer",
+    "LOC"
+  ],
+  [
+    "glide slope",
+    "GS"
+  ],
+  [
+    "outer marker",
+    "OM"
+  ],
+  [
+    "middle marker",
+    "MM"
+  ],
+  [
+    "inner marker",
+    "IM"
+  ],
+  [
+    "locator",
+    "LOC2"
+  ],
+  [
+    "vor",
+    "VOR"
+  ],
+  [
+    "dme",
+    "DME"
+  ],
+  [
+    "tacan",
+    "TACAN"
+  ],
+  [
+    "ils",
+    "ILS"
+  ],
+  [
+    "localizer type direction aid",
+    "LDA"
+  ],
+  [
+    "simplified directional facility",
+    "SDF"
+  ],
+  [
+    "vortac",
+    "VORTAC"
+  ],
+  [
+    " airways",
+    "AWY"
+  ],
+  [
+    "jet route",
+    "JR"
+  ],
+  [
+    "victor airway",
+    "VA"
+  ],
+  [
+    "airport maneuvering area",
+    "AMA"
+  ],
+  [
+    " movement area",
+    "MA2"
+  ],
+  [
+    "security area",
+    "SA8"
+  ],
+  [
+    "runway safety area",
+    "RSA"
+  ],
+  [
+    "obstacle free zone",
+    "OFZ"
+  ],
+  [
+    "clear zone",
+    "CZ"
+  ],
+  [
+    "approach surface",
+    "APS"
+  ],
+  [
+    "departure surface",
+    "DS2"
+  ],
+  [
+    "enjoy surface",
+    "ES"
+  ],
+  [
+    "bootstrap protocol",
+    "BOOTP"
+  ],
+  [
+    "secure network management protocol",
+    "SNMP3"
+  ],
+  [
+    "internet group management protocol",
+    "IGMP"
+  ],
+  [
+    "protocol independent multicast",
+    "PIM"
+  ],
+  [
+    "distance vector multicast routing protocol",
+    "DVMRP"
+  ],
+  [
+    "multicast open shortest path first",
+    "MOSPF"
+  ],
+  [
+    "core based trees",
+    "CBT"
+  ],
+  [
+    "source specific multicast",
+    "SSM"
+  ],
+  [
+    "anycast",
+    "ANY"
+  ],
+  [
+    "unicast",
+    "UNI"
+  ],
+  [
+    "multicast",
+    "MULTI"
+  ],
+  [
+    "broadcast",
+    "BROAD"
+  ],
+  [
+    "arp request",
+    "ARPR"
+  ],
+  [
+    "arp reply",
+    "ARPR2"
+  ],
+  [
+    "reverse arp",
+    "RARP"
+  ],
+  [
+    "inverse arp",
+    "INARP"
+  ],
+  [
+    "arp table",
+    "AT"
+  ],
+  [
+    "mac address table",
+    "MAT"
+  ],
+  [
+    "switch forwarding",
+    "SF"
+  ],
+  [
+    "cut through switching",
+    "CTS"
+  ],
+  [
+    "store and forward",
+    "SAF"
+  ],
+  [
+    "fragment free switching",
+    "FFS"
+  ],
+  [
+    "port security",
+    "PS3"
+  ],
+  [
+    "dynamic access port",
+    "DAP"
+  ],
+  [
+    "access port",
+    "AP4"
+  ],
+  [
+    "trunk port",
+    "TP"
+  ],
+  [
+    "native vlan",
+    "NV"
+  ],
+  [
+    "allowed vlan",
+    "AV"
+  ],
+  [
+    "voice vlan",
+    "VV"
+  ],
+  [
+    "data vlan",
+    "DV"
+  ],
+  [
+    "management vlan",
+    "MV"
+  ],
+  [
+    "guest vlan",
+    "GV"
+  ],
+  [
+    "private vlan",
+    "PV"
+  ],
+  [
+    "isolated vlan",
+    "IV"
+  ],
+  [
+    "community vlan",
+    "CV"
+  ],
+  [
+    " chief complaint",
+    "CC5"
+  ],
+  [
+    "history of present illness",
+    "HPI"
+  ],
+  [
+    "review of systems",
+    "ROS"
+  ],
+  [
+    "past medical history",
+    "PMH"
+  ],
+  [
+    "past surgical history",
+    "PSH"
+  ],
+  [
+    "family history",
+    "FH"
+  ],
+  [
+    "social history",
+    "SH2"
+  ],
+  [
+    "allergies",
+    "ALL"
+  ],
+  [
+    "medications",
+    "MED"
+  ],
+  [
+    "vital signs",
+    "VS2"
+  ],
+  [
+    "blood pressure",
+    "BP"
+  ],
+  [
+    "heart rate",
+    "HR"
+  ],
+  [
+    "respiratory rate",
+    "RR"
+  ],
+  [
+    "oxygen saturation",
+    "O2SAT"
+  ],
+  [
+    "temperature",
+    "TEMP"
+  ],
+  [
+    "physical examination",
+    "PEX"
+  ],
+  [
+    "general appearance",
+    "GA3"
+  ],
+  [
+    "heent",
+    "HEENT"
+  ],
+  [
+    "neck",
+    "NECK"
+  ],
+  [
+    "cardiovascular",
+    "CVS"
+  ],
+  [
+    "respiratory",
+    "RESP"
+  ],
+  [
+    "abdomen",
+    "ABD"
+  ],
+  [
+    "extremities",
+    "EXT"
+  ],
+  [
+    "neurological",
+    "NEURO"
+  ],
+  [
+    "psychiatric",
+    "PSYCH2"
+  ],
+  [
+    "skin",
+    "SKIN"
+  ],
+  [
+    "musculoskeletal",
+    "MSK"
+  ],
+  [
+    "endocrine",
+    "ENDO"
+  ],
+  [
+    "hematologic",
+    "HEM"
+  ],
+  [
+    "lymphatic",
+    "LYMPH"
+  ],
+  [
+    "immunologic",
+    "IMMUNO"
+  ],
+  [
+    "allergic",
+    "ALL2"
+  ],
+  [
+    "infectious",
+    "INF"
+  ],
+  [
+    "neoplastic",
+    "NEO"
+  ],
+  [
+    "degenerative",
+    "DEGEN"
+  ],
+  [
+    "autoimmune",
+    "AUTOI"
+  ],
+  [
+    "idiopathic",
+    "IDIO"
+  ],
+  [
+    "congenital",
+    "CONG"
+  ],
+  [
+    "hereditary",
+    "HERED"
+  ],
+  [
+    "iatrogenic",
+    "IATRO"
+  ],
+  [
+    "nosocomial",
+    "NOSO"
+  ],
+  [
+    "traumatic",
+    "TRAUM"
+  ],
+  [
+    "toxic",
+    "TOX"
+  ],
+  [
+    "metabolic",
+    "META"
+  ],
+  [
+    "nutritional",
+    "NUTR"
+  ],
+  [
+    "oncologic",
+    "ONCO"
+  ],
+  [
+    "pulmonary",
+    "PULM"
+  ],
+  [
+    "gastrointestinal",
+    "GI"
+  ],
+  [
+    "genitourinary",
+    "GU"
+  ],
+  [
+    "renal",
+    "REN"
+  ],
+  [
+    "hepatic",
+    "HEP"
+  ],
+  [
+    "pancreatic",
+    "PANC"
+  ],
+  [
+    "splenic",
+    "SPLEN"
+  ],
+  [
+    "adrenal",
+    "ADR"
+  ],
+  [
+    "thyroid",
+    "THYR"
+  ],
+  [
+    "parathyroid",
+    "PTHYR"
+  ],
+  [
+    "pituitary",
+    "PIT"
+  ],
+  [
+    "pineal",
+    "PINE"
+  ],
+  [
+    "thymus",
+    "THYM"
+  ],
+  [
+    "bone marrow",
+    "BM"
+  ],
+  [
+    "spleen",
+    "SPLE"
+  ],
+  [
+    "lymph node",
+    "LN"
+  ],
+  [
+    "tonsil",
+    "TONS"
+  ],
+  [
+    "adenoid",
+    "ADEN"
+  ],
+  [
+    "appendix",
+    "APP"
+  ],
+  [
+    "cecum",
+    "CEC"
+  ],
+  [
+    "colon",
+    "COL"
+  ],
+  [
+    "rectum",
+    "RECT"
+  ],
+  [
+    "anus",
+    "ANUS"
+  ],
+  [
+    "esophagus",
+    "ESOPH"
+  ],
+  [
+    "stomach",
+    "STOM"
+  ],
+  [
+    "duodenum",
+    "DUOD"
+  ],
+  [
+    "jejunum",
+    "JEJ"
+  ],
+  [
+    "ileum",
+    "ILE"
+  ],
+  [
+    "liver",
+    "LIV"
+  ],
+  [
+    "gallbladder",
+    "GB"
+  ],
+  [
+    "pancreas",
+    "PANC2"
+  ],
+  [
+    "kidney",
+    "KIDN"
+  ],
+  [
+    "ureter",
+    "URET"
+  ],
+  [
+    "bladder",
+    "BLAD"
+  ],
+  [
+    "urethra",
+    "URET2"
+  ],
+  [
+    "prostate",
+    "PROST"
+  ],
+  [
+    "testes",
+    "TEST"
+  ],
+  [
+    "ovary",
+    "OV"
+  ],
+  [
+    "uterus",
+    "UT"
+  ],
+  [
+    "cervix",
+    "CERV"
+  ],
+  [
+    "vagina",
+    "VAG"
+  ],
+  [
+    "breast",
+    "BRE"
+  ],
+  [
+    "lung",
+    "LUNG"
+  ],
+  [
+    "heart",
+    "HRT"
+  ],
+  [
+    "aorta",
+    "AORT"
+  ],
+  [
+    "vena cava",
+    "VC"
+  ],
+  [
+    "pulmonary artery",
+    "PA"
+  ],
+  [
+    "pulmonary vein",
+    "PV"
+  ],
+  [
+    "coronary artery",
+    "CA6"
+  ],
+  [
+    "jugular vein",
+    "JV"
+  ],
+  [
+    "femoral artery",
+    "FA"
+  ],
+  [
+    "femoral vein",
+    "FV"
+  ],
+  [
+    "brachial artery",
+    "BA4"
+  ],
+  [
+    "radial artery",
+    "RA5"
+  ],
+  [
+    "ulnar artery",
+    "UA2"
+  ],
+  [
+    "carotid artery",
+    "CAR"
+  ],
+  [
+    "vertebral artery",
+    "VA2"
+  ],
+  [
+    "basilar artery",
+    "BA5"
+  ],
+  [
+    "cerebral artery",
+    "CA7"
+  ],
+  [
+    "middle cerebral artery",
+    "MCA"
+  ],
+  [
+    "anterior cerebral artery",
+    "ACA"
+  ],
+  [
+    "posterior cerebral artery",
+    "PCA"
+  ],
+  [
+    "circle of willis",
+    "COW"
+  ],
+  [
+    "spinal cord",
+    "SC"
+  ],
+  [
+    "brainstem",
+    "BS6"
+  ],
+  [
+    "cerebellum",
+    "CEREB"
+  ],
+  [
+    "cerebrum",
+    "CEREBR"
+  ],
+  [
+    "frontal lobe",
+    "FL"
+  ],
+  [
+    "parietal lobe",
+    "PL"
+  ],
+  [
+    "temporal lobe",
+    "TL"
+  ],
+  [
+    "occipital lobe",
+    "OL"
+  ],
+  [
+    "limbic system",
+    "LS"
+  ],
+  [
+    "hippocampus",
+    "HPC"
+  ],
+  [
+    "amygdala",
+    "AMYG"
+  ],
+  [
+    "hypothalamus",
+    "HYPOTH"
+  ],
+  [
+    "thalamus",
+    "THAL"
+  ],
+  [
+    "basal ganglia",
+    "BG"
+  ],
+  [
+    "corpus callosum",
+    "CC7"
+  ],
+  [
+    "ventricle",
+    "VENT"
+  ],
+  [
+    "meninges",
+    "MEN"
+  ],
+  [
+    "dura mater",
+    "DM"
+  ],
+  [
+    "arachnoid",
+    "ARACH"
+  ],
+  [
+    "pia mater",
+    "PM"
+  ],
+  [
+    "cerebrospinal fluid",
+    "CSF"
+  ],
+  [
+    "text message",
+    "TM"
+  ],
+  [
+    "instant messaging",
+    "IM"
+  ],
+  [
+    "video conferencing",
+    "VC"
+  ],
+  [
+    "screen sharing",
+    "SS5"
+  ],
+  [
+    "remote desktop",
+    "RD"
+  ],
+  [
+    "virtual desktop infrastructure",
+    "VDI"
+  ],
+  [
+    "thin client",
+    "TC2"
+  ],
+  [
+    "thick client",
+    "TC3"
+  ],
+  [
+    "fat client",
+    "FC6"
+  ],
+  [
+    "client server",
+    "CS8"
+  ],
+  [
+    "peer to peer",
+    "P2P"
+  ],
+  [
+    "three tier architecture",
+    "TTA"
+  ],
+  [
+    "n tier architecture",
+    "NTA"
+  ],
+  [
+    "service oriented architecture",
+    "SOA"
+  ],
+  [
+    "microservice",
+    "MICRO"
+  ],
+  [
+    "monolith",
+    "MONO2"
+  ],
+  [
+    "database",
+    "DB"
+  ],
+  [
+    "data mart",
+    "DM2"
+  ],
+  [
+    "data lakehouse",
+    "DLH"
+  ],
+  [
+    "deep learning",
+    "DL2"
+  ],
+  [
+    "neural network",
+    "NN"
+  ],
+  [
+    "convolutional neural network",
+    "CNN"
+  ],
+  [
+    "recurrent neural network",
+    "RNN"
+  ],
+  [
+    "generative adversarial network",
+    "GAN"
+  ],
+  [
+    "transformer",
+    "TRANSF"
+  ],
+  [
+    "attention mechanism",
+    "AM2"
+  ],
+  [
+    "self attention",
+    "SA9"
+  ],
+  [
+    "multi head attention",
+    "MHA"
+  ],
+  [
+    "positional encoding",
+    "PE2"
+  ],
+  [
+    "word embedding",
+    "WE"
+  ],
+  [
+    "token embedding",
+    "TE"
+  ],
+  [
+    "sentence embedding",
+    "SE4"
+  ],
+  [
+    "transfer learning",
+    "TL"
+  ],
+  [
+    "fine tuning",
+    "FT2"
+  ],
+  [
+    "pretraining",
+    "PRET"
+  ],
+  [
+    "inference",
+    "INF2"
+  ],
+  [
+    "training",
+    "TRAIN"
+  ],
+  [
+    "validation",
+    "VAL"
+  ],
+  [
+    "testing",
+    "TEST"
+  ],
+  [
+    "overfitting",
+    "OVER"
+  ],
+  [
+    "underfitting",
+    "UNDER"
+  ],
+  [
+    "regularization",
+    "REG2"
+  ],
+  [
+    "dropout",
+    "DROP"
+  ],
+  [
+    "batch normalization",
+    "BN"
+  ],
+  [
+    "layer normalization",
+    "LN"
+  ],
+  [
+    "gradient descent",
+    "GD"
+  ],
+  [
+    "stochastic gradient descent",
+    "SGD"
+  ],
+  [
+    "adam optimizer",
+    "ADAM"
+  ],
+  [
+    "learning rate",
+    "LR"
+  ],
+  [
+    "batch size",
+    "BS7"
+  ],
+  [
+    "epoch",
+    "EP"
+  ],
+  [
+    "loss function",
+    "LF"
+  ],
+  [
+    "cost function",
+    "CF7"
+  ],
+  [
+    "objective function",
+    "OBJ"
+  ],
+  [
+    "accuracy",
+    "ACC"
+  ],
+  [
+    "precision",
+    "PREC"
+  ],
+  [
+    "recall",
+    "REC"
+  ],
+  [
+    "f1 score",
+    "F1"
+  ],
+  [
+    "confusion matrix",
+    "CM3"
+  ],
+  [
+    "roc curve",
+    "ROC"
+  ],
+  [
+    "auc",
+    "AUC"
+  ],
+  [
+    "mean squared error",
+    "MSE"
+  ],
+  [
+    "root mean squared error",
+    "RMSE"
+  ],
+  [
+    "mean absolute error",
+    "MAE"
+  ],
+  [
+    "cross entropy",
+    "CE2"
+  ],
+  [
+    "softmax",
+    "SOFTMAX"
+  ],
+  [
+    "sigmoid",
+    "SIG"
+  ],
+  [
+    "relu",
+    "RELU"
+  ],
+  [
+    "tanh",
+    "TANH"
+  ],
+  [
+    "leaky relu",
+    "LRELU"
+  ],
+  [
+    "gelu",
+    "GELU"
+  ],
+  [
+    "swish",
+    "SWISH"
+  ],
+  [
+    "database management system",
+    "DBMS"
+  ],
+  [
+    "database administration",
+    "DBA"
+  ],
+  [
+    "database engine",
+    "DBE"
+  ],
+  [
+    "database connector",
+    "DBC"
+  ],
+  [
+    "database connection pool",
+    "DBCP"
+  ],
+  [
+    "database query language",
+    "DQL"
+  ],
+  [
+    "database backup and recovery",
+    "DBAR"
+  ],
+  [
+    "electromagnetic field",
+    "EMF"
+  ],
+  [
+    "electromagnetic spectrum",
+    "EMS"
+  ],
+  [
+    "electromagnetic radiation",
+    "EMR"
+  ],
+  [
+    "microprocessor",
+    "MP"
+  ],
+  [
+    "microcontroller",
+    "MCU"
+  ],
+  [
+    "microservice architecture",
+    "MSA"
+  ],
+  [
+    "microelectronics",
+    "ME"
+  ],
+  [
+    "nanotechnology",
+    "NT"
+  ],
+  [
+    "nanoscience",
+    "NS"
+  ],
+  [
+    "polymorphism",
+    "PO"
+  ],
+  [
+    "polyfill",
+    "PF"
+  ],
+  [
+    "pseudocode",
+    "PC"
+  ],
+  [
+    "pseudonym",
+    "PN"
+  ],
+  [
+    "counter strike",
+    "CS"
+  ],
+  [
+    "counter terrorism",
+    "CT"
+  ],
+  [
+    "over the top",
+    "OTT"
+  ],
+  [
+    "over the air",
+    "OTA"
+  ],
+  [
+    "underwriting",
+    "UW"
+  ],
+  [
+    "supercomputer",
+    "SC"
+  ],
+  [
+    "supervisory control",
+    "SC"
+  ],
+  [
+    "hypertext",
+    "HT"
+  ],
+  [
+    "hypervisor",
+    "HV"
+  ],
+  [
+    "stereoscopic",
+    "SS"
+  ],
+  [
+    "stereolithography",
+    "SLA"
+  ],
+  [
+    "video graphics",
+    "VG"
+  ],
+  [
+    "audio visual",
+    "AV"
+  ],
+  [
+    "audio codec",
+    "AC"
+  ],
+  [
+    "optical character recognition",
+    "OCR"
+  ],
+  [
+    "optical fiber",
+    "OF"
+  ],
+  [
+    "optical network",
+    "ON"
+  ],
+  [
+    "magnetic resonance",
+    "MR"
+  ],
+  [
+    "magnetic field",
+    "MF"
+  ],
+  [
+    "digital signal",
+    "DS"
+  ],
+  [
+    "digital camera",
+    "DC"
+  ],
+  [
+    "analog to digital",
+    "AD"
+  ],
+  [
+    "parallel processing",
+    "PP"
+  ],
+  [
+    "parallel computing",
+    "PC"
+  ],
+  [
+    "serial communication",
+    "SC"
+  ],
+  [
+    "serial interface",
+    "SI"
+  ],
+  [
+    "binary code",
+    "BC"
+  ],
+  [
+    "binary file",
+    "BF"
+  ],
+  [
+    "optical disc",
+    "OD"
+  ],
+  [
+    "optical drive",
+    "OD"
+  ],
+  [
+    "wireless local area",
+    "WLA"
+  ],
+  [
+    "wireless fidelity",
+    "WF"
+  ],
+  [
+    "ethernet cable",
+    "EC"
+  ],
+  [
+    "ethernet switch",
+    "ES"
+  ],
+  [
+    "bluetooth low energy",
+    "BLE"
+  ],
+  [
+    "thermal management",
+    "TM"
+  ],
+  [
+    "thermal conductivity",
+    "TC"
+  ],
+  [
+    "quantum computing",
+    "QC"
+  ],
+  [
+    "quantum entanglement",
+    "QE"
+  ],
+  [
+    "quantum cryptography",
+    "QK"
+  ],
+  [
+    "cryptographic hash",
+    "CH"
+  ],
+  [
+    "cryptographic key",
+    "CK"
+  ],
+  [
+    "algorithmic trading",
+    "AT"
+  ],
+  [
+    "differential privacy",
+    "DP"
+  ],
+  [
+    "interactive response",
+    "IR"
+  ],
+  [
+    "multimedia messaging",
+    "MMS"
+  ],
+  [
+    "biometric authentication",
+    "BA"
+  ],
+  [
+    "biometric data",
+    "BD"
+  ],
+  [
+    "autonomous vehicle",
+    "AV"
+  ],
+  [
+    "autonomous system",
+    "AS"
+  ],
+  [
+    "collaborative filtering",
+    "CF"
+  ],
+  [
+    "distributed computing",
+    "DC"
+  ],
+  [
+    "distributed ledger",
+    "DL"
+  ],
+  [
+    "distributed denial",
+    "DD"
+  ],
+  [
+    "centralized computing",
+    "CC"
+  ],
+  [
+    "redundant array",
+    "RA"
+  ],
+  [
+    "integrated development",
+    "IDE"
+  ],
+  [
+    "metropolitan area",
+    "MAN"
+  ],
+  [
+    "synchronous digital",
+    "SDH"
+  ],
+  [
+    "synchronous optical",
+    "SONET"
+  ],
+  [
+    "asynchronous transfer",
+    "ATM"
+  ],
+  [
+    "wavelength division",
+    "WDM"
+  ],
+  [
+    "fiber channel",
+    "FC"
+  ],
+  [
+    "fiber distributed",
+    "FDDI"
+  ],
+  [
+    "connection oriented",
+    "CO"
+  ],
+  [
+    "connectionless",
+    "CL"
+  ],
+  [
+    "transmission control",
+    "TCP"
+  ],
+  [
+    "transmission line",
+    "TL"
+  ],
+  [
+    "oscillating",
+    "OSC"
+  ],
+  [
+    "rectifier",
+    "REC"
+  ],
+  [
+    "amplifier",
+    "AMP"
+  ],
+  [
+    "modulator",
+    "MOD"
+  ],
+  [
+    "modulation demodulation",
+    "MODEM"
+  ],
+  [
+    "demodulator",
+    "DEM"
+  ],
+  [
+    "multiplexer",
+    "MUX"
+  ],
+  [
+    "demultiplexer",
+    "DEMUX"
+  ],
+  [
+    "compressor",
+    "CMP"
+  ],
+  [
+    "decompressor",
+    "DEC"
+  ],
+  [
+    "encryptor",
+    "ENC"
+  ],
+  [
+    "decryptor",
+    "DEC"
+  ],
+  [
+    "authenticator",
+    "AUTH"
+  ],
+  [
+    "authorization",
+    "AUTHZ"
+  ],
+  [
+    "registrar",
+    "REG"
+  ],
+  [
+    "initializer",
+    "INIT"
+  ],
+  [
+    "configurator",
+    "CFG"
+  ],
+  [
+    "compiler",
+    "CMP"
+  ],
+  [
+    "decompiler",
+    "DEC"
+  ],
+  [
+    "interpreter",
+    "INT"
+  ],
+  [
+    "verifier",
+    "VER"
+  ],
+  [
+    "validator",
+    "VAL"
+  ],
+  [
+    "optimizer",
+    "OPT"
+  ],
+  [
+    "simulator",
+    "SIM"
+  ],
+  [
+    "visualizer",
+    "VIS"
+  ],
+  [
+    "synchronizer",
+    "SYNC"
+  ],
+  [
+    "initializer",
+    "INIT"
+  ],
+  [
+    "registrar",
+    "REG"
+  ],
+  [
+    "notifier",
+    "NTF"
+  ],
+  [
+    "confirmer",
+    "CFM"
+  ],
+  [
+    "canceller",
+    "CEL"
+  ],
+  [
+    "terminator",
+    "TRM"
+  ],
+  [
+    "rebooter",
+    "RBT"
+  ],
+  [
+    "diagnostic tool",
+    "DTOOL"
+  ],
+  [
+    "maintenance mode",
+    "MM"
+  ],
+  [
+    "deployer",
+    "DEP"
+  ],
+  [
+    "rollback mechanism",
+    "RB"
+  ],
+  [
+    "failover system",
+    "FOS"
+  ],
+  [
+    "heartbeat signal",
+    "HBS"
+  ],
+  [
+    "checksum verification",
+    "CV"
+  ],
+  [
+    "hashcode generation",
+    "HG"
+  ],
+  [
+    "timestamp generation",
+    "TG"
+  ],
+  [
+    "bytearray conversion",
+    "BC"
+  ],
+  [
+    "stringbuffer class",
+    "SBC"
+  ],
+  [
+    "threadpool manager",
+    "TPM"
+  ],
+  [
+    "connectionpool size",
+    "CPS"
+  ],
+  [
+    "objectpool pattern",
+    "OPP"
+  ],
+  [
+    "memorypool allocation",
+    "MPA"
+  ],
+  [
+    "bufferpool manager",
+    "BPM"
+  ],
+  [
+    "cachebucket size",
+    "CBS"
+  ],
+  [
+    "cacheentry timeout",
+    "CET"
+  ],
+  [
+    "cachekey generation",
+    "CKG"
+  ],
+  [
+    "cachesize configuration",
+    "CSC"
+  ],
+  [
+    "cachewindow interval",
+    "CWI"
+  ],
+  [
+    "cacheflush policy",
+    "CFP"
+  ],
+  [
+    "cacheeviction algorithm",
+    "CEA"
+  ],
+  [
+    "cacheprefetch strategy",
+    "CPS"
+  ],
+  [
+    "cachewarmup phase",
+    "CWP"
+  ],
+  [
+    "cacheprewarm process",
+    "CPP"
+  ],
+  [
+    "cachepreload script",
+    "CPR"
+  ],
+  [
+    "cachepreload job",
+    "CPJ"
+  ],
+  [
+    "cachepreload task",
+    "CPT"
+  ]
+]
