@@ -71,7 +71,7 @@ class TestRulesEngine:
         acronym, confidence, rule_name = engine.expand("central processing unit")
         assert acronym == "CPU"
         assert confidence >= 0.8
-        assert rule_name == "first_letter"
+        assert rule_name == "standard_abbreviation"
 
     def test_radar_rules_gives_first_letters(self):
         engine = RulesEngine()

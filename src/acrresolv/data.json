@@ -10598,5 +10598,829 @@
   [
     "cachepreload task",
     "CPT"
+  ],
+  [
+    "separation of concerns",
+    "SOC"
+  ],
+  [
+    "return on assets",
+    "ROA"
+  ],
+  [
+    "return on equity",
+    "ROE"
+  ],
+  [
+    "mergers and acquisitions",
+    "MNA"
+  ],
+  [
+    "value at risk",
+    "VAR"
+  ],
+  [
+    "conditional value at risk",
+    "CVAR"
+  ],
+  [
+    "know your customer",
+    "KYC"
+  ],
+  [
+    "cash in advance",
+    "CIA"
+  ],
+  [
+    "country by country reporting",
+    "CbCR"
+  ],
+  [
+    "office of the united states trade representative",
+    "USTR"
+  ],
+  [
+    "average revenue per user",
+    "ARPU"
+  ],
+  [
+    "price to earnings ratio",
+    "PE"
+  ],
+  [
+    "price to book ratio",
+    "PB"
+  ],
+  [
+    "price to sales ratio",
+    "PS"
+  ],
+  [
+    "most favored nation",
+    "MFN"
+  ],
+  [
+    "days payable outstanding",
+    "DPO"
+  ],
+  [
+    "days sales outstanding",
+    "DSO"
+  ],
+  [
+    "days inventory outstanding",
+    "DIO"
+  ],
+  [
+    "operating expenses",
+    "OPEX"
+  ],
+  [
+    "capital expenditure",
+    "CAPEX"
+  ],
+  [
+    "cost of capital",
+    "CC"
+  ],
+  [
+    "weighted average cost of capital",
+    "WACC"
+  ],
+  [
+    "net present value",
+    "NPV"
+  ],
+  [
+    "internal rate of return",
+    "IRR"
+  ],
+  [
+    "return on invested capital",
+    "ROIC"
+  ],
+  [
+    "return on capital employed",
+    "ROCE"
+  ],
+  [
+    "total cost of ownership",
+    "TCO"
+  ],
+  [
+    "monthly recurring revenue",
+    "MRR"
+  ],
+  [
+    "annual recurring revenue",
+    "ARR"
+  ],
+  [
+    "gross profit margin",
+    "GPM"
+  ],
+  [
+    "net profit margin",
+    "NPM"
+  ],
+  [
+    "operating margin",
+    "OM"
+  ],
+  [
+    "debt to equity ratio",
+    "DER"
+  ],
+  [
+    "cash conversion cycle",
+    "CCC"
+  ],
+  [
+    "economic value added",
+    "EVA"
+  ],
+  [
+    "market value added",
+    "MVA"
+  ],
+  [
+    "total shareholder return",
+    "TSR"
+  ],
+  [
+    "enterprise value",
+    "EV"
+  ],
+  [
+    "free cash flow",
+    "FCF"
+  ],
+  [
+    "earnings per share",
+    "EPS"
+  ],
+  [
+    "dividend yield",
+    "DY"
+  ],
+  [
+    "price to earnings",
+    "PE"
+  ],
+  [
+    "price to book",
+    "PB"
+  ],
+  [
+    "price to sales",
+    "PS"
+  ],
+  [
+    "market capitalization",
+    "MC"
+  ],
+  [
+    "share buyback",
+    "SB"
+  ],
+  [
+    "secondary offering",
+    "SO"
+  ],
+  [
+    "burn rate",
+    "BR"
+  ],
+  [
+    "revenue growth",
+    "RG"
+  ],
+  [
+    "year over year",
+    "YOY"
+  ],
+  [
+    "quarter over quarter",
+    "QOQ"
+  ],
+  [
+    "memcached",
+    "MC"
+  ],
+  [
+    "nginx",
+    "NG"
+  ],
+  [
+    "backtesting",
+    "BT"
+  ],
+  [
+    "nominal gdp",
+    "NGDP"
+  ],
+  [
+    "real gdp",
+    "RGDP"
+  ],
+  [
+    "gdp deflator",
+    "GD"
+  ],
+  [
+    "anti money laundering",
+    "AML"
+  ],
+  [
+    "customer due diligence",
+    "CDD"
+  ],
+  [
+    "enhanced due diligence",
+    "EDD"
+  ],
+  [
+    "politically exposed person",
+    "PEP"
+  ],
+  [
+    "beneficial ownership",
+    "BO"
+  ],
+  [
+    "base erosion and profit shifting",
+    "BEPS"
+  ],
+  [
+    "value added tax",
+    "VAT"
+  ],
+  [
+    "goods and services tax",
+    "GST"
+  ],
+  [
+    "withholding tax",
+    "WHT"
+  ],
+  [
+    "capital gains tax",
+    "CGT"
+  ],
+  [
+    "countervailing duty",
+    "CVD"
+  ],
+  [
+    "anti dumping duty",
+    "ADD"
+  ],
+  [
+    "safeguard measure",
+    "SM"
+  ],
+  [
+    "free trade agreement",
+    "FTA"
+  ],
+  [
+    "special economic zone",
+    "SEZ"
+  ],
+  [
+    "export processing zone",
+    "EPZ"
+  ],
+  [
+    "supply chain finance",
+    "SCF"
+  ],
+  [
+    "reverse factoring",
+    "RF"
+  ],
+  [
+    "export credit agency",
+    "ECA"
+  ],
+  [
+    "multilateral development bank",
+    "MDB"
+  ],
+  [
+    "world bank group",
+    "WB"
+  ],
+  [
+    "international finance corporation",
+    "IFC"
+  ],
+  [
+    "international standards on auditing",
+    "ISA"
+  ],
+  [
+    "public company accounting oversight board",
+    "PCAOB"
+  ],
+  [
+    "federal reserve system",
+    "FRS"
+  ],
+  [
+    "producer price index",
+    "PPI"
+  ],
+  [
+    "retail sales index",
+    "RSI"
+  ],
+  [
+    "industrial production index",
+    "IPI"
+  ],
+  [
+    "purchasing managers index",
+    "PMI"
+  ],
+  [
+    "consumer confidence index",
+    "CCI"
+  ],
+  [
+    "leading economic index",
+    "LEI"
+  ],
+  [
+    "coincident economic index",
+    "CEI"
+  ],
+  [
+    "lagging economic index",
+    "LEI"
+  ],
+  [
+    "purchasing power parity",
+    "PPP"
+  ],
+  [
+    "gross national income",
+    "GNI"
+  ],
+  [
+    "human development index",
+    "HDI"
+  ],
+  [
+    "gini coefficient",
+    "GC"
+  ],
+  [
+    "corporate governance",
+    "CG"
+  ],
+  [
+    "business continuity plan",
+    "BCP"
+  ],
+  [
+    "disaster recovery plan",
+    "DRP"
+  ],
+  [
+    "service level objective",
+    "SLO"
+  ],
+  [
+    "service level indicator",
+    "SLI"
+  ],
+  [
+    "root cause analysis",
+    "RCA"
+  ],
+  [
+    "architecture decision record",
+    "ADR"
+  ],
+  [
+    "cross origin resource sharing",
+    "CORS"
+  ],
+  [
+    "web application firewall",
+    "WAF"
+  ],
+  [
+    "null pointer exception",
+    "NPE"
+  ],
+  [
+    "single page application",
+    "SPA"
+  ],
+  [
+    "server side rendering",
+    "SSR"
+  ],
+  [
+    "progressive web app",
+    "PWA"
+  ],
+  [
+    "event driven",
+    "ED"
+  ],
+  [
+    "structured programming",
+    "SP"
+  ],
+  [
+    "dependency injection",
+    "DI"
+  ],
+  [
+    "user acceptance testing",
+    "UAT"
+  ],
+  [
+    "extensible markup language",
+    "XML"
+  ],
+  [
+    "cascading style sheets",
+    "CSS"
+  ],
+  [
+    "hypertext markup language",
+    "HTML"
+  ],
+  [
+    "javascript object notation",
+    "JSON"
+  ],
+  [
+    "portable document format",
+    "PDF"
+  ],
+  [
+    "integrated development environment",
+    "IDE"
+  ],
+  [
+    "command line interface",
+    "CLI"
+  ],
+  [
+    "graphical user interface",
+    "GUI"
+  ],
+  [
+    "reinforcement learning",
+    "RL"
+  ],
+  [
+    "long short term memory",
+    "LSTM"
+  ],
+  [
+    "error correcting code",
+    "ECC"
+  ],
+  [
+    "risk management",
+    "RM"
+  ],
+  [
+    "compliance management",
+    "CM"
+  ],
+  [
+    "regulatory reporting",
+    "RR"
+  ],
+  [
+    "trade finance",
+    "TF"
+  ],
+  [
+    "trade agreement",
+    "TA"
+  ],
+  [
+    "trade barrier",
+    "TB"
+  ],
+  [
+    "trade remedy",
+    "TR"
+  ],
+  [
+    "dispute settlement",
+    "DS"
+  ],
+  [
+    "international trade commission",
+    "ITC"
+  ],
+  [
+    "european commission",
+    "EC"
+  ],
+  [
+    "free trade zone",
+    "FTZ"
+  ],
+  [
+    "bonded warehouse",
+    "BW"
+  ],
+  [
+    "customs broker",
+    "CB"
+  ],
+  [
+    "freight forwarder",
+    "FF"
+  ],
+  [
+    "bill of lading",
+    "BL"
+  ],
+  [
+    "letter of credit",
+    "LC"
+  ],
+  [
+    "documentary collection",
+    "DC"
+  ],
+  [
+    "consignment",
+    "C"
+  ],
+  [
+    "forfaiting",
+    "F"
+  ],
+  [
+    "factoring",
+    "F"
+  ],
+  [
+    "export credit",
+    "EC"
+  ],
+  [
+    "central bank",
+    "CB"
+  ],
+  [
+    "monetary policy",
+    "MP"
+  ],
+  [
+    "fiscal policy",
+    "FP"
+  ],
+  [
+    "interest rate",
+    "IR"
+  ],
+  [
+    "unemployment rate",
+    "UR"
+  ],
+  [
+    "scenario analysis",
+    "SCA"
+  ],
+  [
+    "stress testing",
+    "ST"
+  ],
+  [
+    "sensitivity analysis",
+    "SA"
+  ],
+  [
+    "regression analysis",
+    "RA"
+  ],
+  [
+    "time series analysis",
+    "TSA"
+  ],
+  [
+    "correlation coefficient",
+    "CC"
+  ],
+  [
+    "sharpe ratio",
+    "SR"
+  ],
+  [
+    "treynor ratio",
+    "TR"
+  ],
+  [
+    "jensens alpha",
+    "JA"
+  ],
+  [
+    "front office",
+    "FO"
+  ],
+  [
+    "middle office",
+    "MO"
+  ],
+  [
+    "back office",
+    "BO"
+  ],
+  [
+    "trade execution",
+    "TE"
+  ],
+  [
+    "order management",
+    "OM"
+  ],
+  [
+    "portfolio management",
+    "PM"
+  ],
+  [
+    "shell company",
+    "SC"
+  ],
+  [
+    "offshore account",
+    "OA"
+  ],
+  [
+    "tax haven",
+    "TH"
+  ],
+  [
+    "transfer pricing",
+    "TP"
+  ],
+  [
+    "master file",
+    "MF"
+  ],
+  [
+    "local file",
+    "LF"
+  ],
+  [
+    "country portal",
+    "CP"
+  ],
+  [
+    "digital services tax",
+    "DST"
+  ],
+  [
+    "sales tax",
+    "ST"
+  ],
+  [
+    "corporate tax",
+    "CT"
+  ],
+  [
+    "estate tax",
+    "ET"
+  ],
+  [
+    "inheritance tax",
+    "IT"
+  ],
+  [
+    "gift tax",
+    "GT"
+  ],
+  [
+    "property tax",
+    "PT"
+  ],
+  [
+    "excise tax",
+    "ET"
+  ],
+  [
+    "customs duty",
+    "CD"
+  ],
+  [
+    "tariff",
+    "T"
+  ],
+  [
+    "quota",
+    "Q"
+  ],
+  [
+    "embargo",
+    "E"
+  ],
+  [
+    "sanction",
+    "S"
+  ],
+  [
+    "national treatment",
+    "NT"
+  ],
+  [
+    "dumping",
+    "D"
+  ],
+  [
+    "director general for trade",
+    "DG"
+  ],
+  [
+    "bonded warehouse",
+    "BW"
+  ],
+  [
+    "open account",
+    "OA"
+  ],
+  [
+    "accounts payable",
+    "AP"
+  ],
+  [
+    "accounts receivable",
+    "AR"
+  ],
+  [
+    "balance sheet",
+    "BS"
+  ],
+  [
+    "cash flow",
+    "CF"
+  ],
+  [
+    "cost benefit analysis",
+    "CBA"
+  ],
+  [
+    "financial year",
+    "FY"
+  ],
+  [
+    "net income",
+    "NI"
+  ],
+  [
+    "operating income",
+    "OI"
+  ],
+  [
+    "accounts payable turnover",
+    "APT"
+  ],
+  [
+    "accounts receivable turnover",
+    "ART"
+  ],
+  [
+    "inventory turnover",
+    "IT"
+  ],
+  [
+    "shareholder value",
+    "SV"
+  ],
+  [
+    "ebitda margin",
+    "EM"
+  ],
+  [
+    "capital structure",
+    "CS"
+  ],
+  [
+    "beta coefficient",
+    "BC"
+  ],
+  [
+    "r squared",
+    "R2"
+  ],
+  [
+    "backtesting",
+    "BT"
+  ],
+  [
+    "expected shortfall",
+    "ES"
   ]
 ]

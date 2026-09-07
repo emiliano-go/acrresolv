@@ -6,27 +6,27 @@ Covers ~53% of training data with high confidence.
 import re
 from typing import Optional
 
+from .data_loader import load_set_cached, load_lookup_table_cached
+
 
 # ============================================================================
-# Stop Words
+# Stop Words (loaded from JSON)
 # ============================================================================
 
-STOP_WORDS = {
-    'a', 'an', 'the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
-    'of', 'with', 'by', 'from', 'as', 'is', 'was', 'are', 'were', 'been',
-    'be', 'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would',
-    'could', 'should', 'may', 'might', 'shall', 'can', 'need', 'dare',
-    'ought', 'used', 'this', 'that', 'these', 'those', 'i', 'you', 'he',
-    'she', 'it', 'we', 'they', 'me', 'him', 'her', 'us', 'them', 'my',
-    'your', 'his', 'its', 'our', 'their', 'mine', 'yours', 'hers', 'ours',
-    'theirs', 'what', 'which', 'who', 'whom', 'when', 'where', 'why', 'how',
-    'all', 'each', 'every', 'both', 'few', 'more', 'most', 'other', 'some',
-    'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too',
-    'very', 's', 't', 'just', 'don', 'now', 'd', 'll', 'm', 'o', 're',
-    've', 'y', 'ain', 'aren', 'couldn', 'didn', 'doesn', 'hadn', 'hasn',
-    'haven', 'isn', 'ma', 'mightn', 'mustn', 'needn', 'shan', 'shouldn',
-    'wasn', 'weren', 'won', 'wouldn',
-}
+STOP_WORDS = load_set_cached("stop_words.json")
+
+# Prepositions that sometimes ARE included in acronyms
+# (e.g., "return on assets" -> ROA includes 'O' from "on")
+# These are NOT removed by default when include_prepositions=True
+PREPOSITION_WORDS = load_set_cached("preposition_words.json")
+
+
+# ============================================================================
+# Standard Abbreviations (loaded from JSON)
+# ============================================================================
+
+# Common multi-word abbreviations that don't follow first-letter rules
+STANDARD_ABBREVIATIONS = load_lookup_table_cached("standard_abbreviations.json")
 
 
 # ============================================================================
@@ -219,6 +219,57 @@ class VowelRule(Rule):
         return 0.4
 
 
+class StandardAbbreviationRule(Rule):
+    """Rule: Match known standard abbreviations (CAPEX, OPEX, ROA, etc.).
+    
+    These are well-established abbreviations that don't follow first-letter rules.
+    Example: "capital expenditure" -> "CAPEX" (not "CE")
+    """
+    
+    def __init__(self):
+        super().__init__("standard_abbreviation", priority=100)  # Highest priority
+    
+    def match(self, words: list[str]) -> bool:
+        phrase = ' '.join(words).lower().strip()
+        return (phrase,) in STANDARD_ABBREVIATIONS
+    
+    def apply(self, words: list[str]) -> Optional[str]:
+        phrase = ' '.join(words).lower().strip()
+        return STANDARD_ABBREVIATIONS.get((phrase,))
+    
+    def confidence(self, words: list[str], acronym: str) -> float:
+        return 0.95  # Very high confidence for known abbreviations
+
+
+class IncludePrepositionsRule(Rule):
+    """Rule: Take first letter of EACH word including prepositions.
+    
+    Example: "return on assets" -> "ROA" (includes 'O' from "on")
+    This handles cases where the standard acronym includes preposition letters.
+    """
+    
+    def __init__(self):
+        super().__init__("include_prepositions", priority=9)
+    
+    def match(self, words: list[str]) -> bool:
+        # Only match if there are prepositions that would be removed
+        has_preps = any(clean_word(w).lower() in PREPOSITION_WORDS for w in words)
+        return len(words) >= 2 and has_preps
+    
+    def apply(self, words: list[str]) -> Optional[str]:
+        initials = []
+        for word in words:
+            cleaned = clean_word(word)
+            if cleaned and cleaned[0].isalpha():
+                initials.append(cleaned[0].upper())
+        if initials:
+            return ''.join(initials)
+        return None
+    
+    def confidence(self, words: list[str], acronym: str) -> float:
+        return 0.85
+
+
 # ============================================================================
 # Rule Engine
 # ============================================================================
@@ -228,7 +279,9 @@ class RulesEngine:
     
     def __init__(self):
         self.rules = [
+            StandardAbbreviationRule(),  # Highest priority - check known abbreviations first
             FirstLetterRule(),
+            IncludePrepositionsRule(),
             FirstTwoLettersRule(),
             FirstAndLastRule(),
             ConsonantRule(),
