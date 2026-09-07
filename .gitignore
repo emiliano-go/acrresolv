@@ -3,3 +3,4 @@ __pycache__/
 *.lock
 /dist
 /src/acrresolv.egg-info
+src/acrresolv/models/
