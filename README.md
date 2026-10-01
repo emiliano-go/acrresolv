@@ -1,5 +1,8 @@
 # acrresolv
 
+[![PyPI](https://img.shields.io/pypi/v/acrresolv?logo=pypi&logoColor=white)](https://pypi.org/project/acrresolv/)
+[![CI](https://github.com/emiliano-go/acrresolv/actions/workflows/ci.yml/badge.svg)](https://github.com/emiliano-go/acrresolv/actions/workflows/ci.yml)
+
 Hybrid acronym resolver. Translates phrases to acronyms (e.g., "central processing unit" -> "CPU").
 
 ## Install
